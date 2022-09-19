@@ -1,0 +1,97 @@
+{{- define "main" }}
+
+<article class="post-single">
+  {{/* <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+
+  </header> */}}
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+
+
+
+  <h1 class="post-title">
+    {{ .Title }}
+    {{/* {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }} */}}
+  </h1>
+
+  <div class="post-main">
+
+
+    <div class="post-col1">
+      <div class="post-content">
+
+
+        {{- if .Content }}
+        {{- if not (.Param "disableAnchoredHeadings") }}
+        {{- partial "anchored_headings.html" .Content -}}
+        {{- else }}{{ .Content }}{{ end }}
+        {{- end }}
+
+
+      </div>
+      <div class="post-gallery">
+        {{- partial "gallery.html" . }}
+      </div>
+    </div>
+
+
+    <div class="post-col2">
+      {{- if .Params.generique}}
+      <div class="post-generique">
+
+        {{ .Params.generique | markdownify}}
+
+      </div>
+
+      {{- end}}
+    </div>
+
+
+
+
+
+
+  </div>
+
+
+
+
+  <footer class="post-footer">
+    {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}

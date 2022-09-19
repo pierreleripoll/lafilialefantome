@@ -1,0 +1,117 @@
+baseURL: 'https://lafilialefantome.com/'
+title: La filiale fantôme
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: true
+buildExpired: true
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+    title: La filiale fantôme
+    description: 'Description de la filiale fantôme'
+    keywords: [Théâtre, Suisse Romande]
+    author: Pierre Ripoll
+    authorWebsite: mailto:pierreripoll13@gmail.com
+    # author: ["Me", "You"] # multiple authors
+    DateFormat: '2 January 2006'
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+
+
+    label:
+        text: 'La filiale fantôme'
+
+    # # profile-mode
+    # profileMode:
+    #     enabled: false # needs to be explicitly set
+    #     title: La filiale fantôme
+    #     subtitle: 'This is subtitle'
+    #     imageUrl: '<img location>'
+    #     imageWidth: 120
+    #     imageHeight: 120
+    #     imageTitle: my image
+    #     buttons:
+    #         - name: Posts
+    #           url: posts
+    #         - name: Tags
+    #           url: tags
+
+    # home-info mode
+    homeInfoParams:
+        enabled: false
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: 'https://github.com/<path_to_repo>/content'
+        Text: 'Suggest Changes' # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ['title', 'permalink', 'summary', 'content']
+menu:
+    main:
+        - identifier: spectacles
+          name: Spectacles
+          url: /spectacles/
+          weight: 10
+        - identifier: agenda
+          name: Agenda
+          url: /agenda/
+          weight: 20
+        - identifier: quisommesnous
+          name: 'Qui sommes nous'
+          url: /quisommesnous/
+          weight: 30
+        - identifier: autres
+          name: 'Autres'
+          url: /autres/
+          weight: 30
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 40
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
+

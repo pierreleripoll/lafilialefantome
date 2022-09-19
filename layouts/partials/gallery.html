@@ -1,0 +1,159 @@
+<link rel="stylesheet" href="/photoswipe/photoswipe.css">
+
+
+<script type="module">
+
+    import PhotoSwipeLightbox from '/photoswipe/photoswipe-lightbox.esm.js';
+
+    console.log("Swipebox required")
+
+    const lightbox = new PhotoSwipeLightbox({
+        gallery: '#gallery',
+        children: 'a',
+        pswpModule: () => {
+            console.log("pswpModule");
+            return import('/photoswipe/photoswipe.esm.js')
+        }
+    });
+
+    lightbox.on('uiRegister', function () {
+
+        console.log("Register ! ")
+
+        lightbox.pswp.ui.registerElement({
+            name: 'download-button',
+            order: 9,
+            isButton: true,
+            tagName: 'a',
+
+            // SVG with outline
+            html: {
+                isCustomSVG: true,
+                inner: '<path d="M20.5 14.3 17.1 18V10h-2.2v7.9l-3.4-3.6L10 16l6 6.1 6-6.1ZM23 23H9v2h14Z" id="pswp__icn-download"/>',
+                outlineID: 'pswp__icn-download'
+            },
+
+            onInit: (el, pswp) => {
+                el.setAttribute('download', '');
+                el.setAttribute('target', '_blank');
+                el.setAttribute('rel', 'noopener');
+
+                pswp.on('change', () => {
+                    el.href = pswp.currSlide.data.src;
+                });
+            }
+        });
+        lightbox.pswp.ui.registerElement({
+            name: 'custom-caption',
+            order: 7,
+            isButton: false,
+            appendTo: 'root',
+            html: 'Caption text',
+            onInit: (el, pswp) => {
+                lightbox.pswp.on('change', () => {
+                    const currSlideElement = lightbox.pswp.currSlide.data.element;
+                    let captionHTML = '';
+                    if (currSlideElement) {
+                        const hiddenCaption = currSlideElement.querySelector('.hidden-caption-content');
+                        if (hiddenCaption) {
+                            // get caption from element with class hidden-caption-content
+                            captionHTML = hiddenCaption.innerHTML;
+                        } else {
+                            // get caption from alt attribute
+                            captionHTML = currSlideElement.querySelector('img').getAttribute('alt');
+                        }
+                    }
+                    el.innerHTML = captionHTML || '';
+                });
+            }
+        });
+    });
+
+    // Parse data-pswp-webp-src attribute
+    lightbox.addFilter('itemData', (itemData, index) => {
+        const webpSrc = itemData.element.dataset.pswpWebpSrc;
+        if (webpSrc) {
+            itemData.webpSrc = webpSrc;
+        }
+        console.log(itemData)
+        return itemData;
+    });
+
+    // use <picture> instead of <img>
+    lightbox.on('contentLoadImage', (e) => {
+        const { content, isLazy } = e;
+
+        if (content.data.webpSrc) {
+            // prevent to stop the default behavior
+            e.preventDefault();
+
+            content.pictureElement = document.createElement('picture');
+
+            const sourceWebp = document.createElement('source');
+            sourceWebp.srcset = content.data.webpSrc;
+            sourceWebp.type = 'image/webp';
+
+            const sourceJpg = document.createElement('source');
+            sourceJpg.srcset = content.data.src;
+            sourceJpg.type = 'image/jpeg';
+
+            content.element = document.createElement('img');
+            content.element.src = content.data.src;
+            content.element.setAttribute('alt', '');
+            content.element.className = 'pswp__img';
+
+            content.pictureElement.appendChild(sourceWebp);
+            content.pictureElement.appendChild(sourceJpg);
+            content.pictureElement.appendChild(content.element);
+
+            content.state = 'loading';
+
+            if (content.element.complete) {
+                content.onLoaded();
+            } else {
+                content.element.onload = () => {
+                    content.onLoaded();
+                };
+
+                content.element.onerror = () => {
+                    content.onError();
+                };
+            }
+        }
+    });
+
+
+    // by default PhotoSwipe appends <img>,
+    // but we want to append <picture>
+    lightbox.on('contentAppendImage', (e) => {
+        const { content } = e;
+        if (content.pictureElement && !content.pictureElement.parentNode) {
+            e.preventDefault();
+            content.slide.container.appendChild(content.pictureElement);
+        }
+    });
+
+    lightbox.init();
+
+</script>
+
+
+
+{{ $title := .Title}}
+{{ $Resources := .Resources}}
+
+<div class="pswp-gallery " id="gallery">
+    {{ range $photo := .Param "photos" }}
+
+
+    {{ $image := $Resources.GetMatch $photo }}
+    {{ $imageWebp := $image.Resize (printf "%dx%d webp q90 CatmullRom" $image.Width $image.Height)}}
+    {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
+
+    <a href="{{$image.RelPermalink}}" data-pswp-width="{{$image.Width}}" data-pswp-height="{{$image.Height}}"
+        data-pswp-webp-src="{{$imageWebp.RelPermalink}}" target="_blank">
+        <img src="{{ $thumbnail.RelPermalink }}" alt="{{$image.Name}}" />
+    </a>
+
+    {{ end }}
+</div>

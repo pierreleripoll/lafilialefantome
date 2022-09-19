@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "server": "xdg-open http://localhost:1313/ & hugo server",
+        "admin": "npx netlify-cms-proxy-server",
+        "build": "hugo -D"
+    },
+    "devDependencies": {
+        "prettier": "^2.7.1",
+        "prettier-plugin-go-template": "^0.0.13"
+    }
+}

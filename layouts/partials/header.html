@@ -1,0 +1,145 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amarante&display=swap" rel="stylesheet"> 
+
+<link rel="icon" href="/favicon.ico">
+
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            {{- $label_text := (site.Params.label.text | default site.Title) }}
+            {{- if site.Title }}
+            {{/* {{ $Resources := .Resources}}
+            {{ $image := $Resources.GetMatch "cropped_blue.jpg"}}
+            {{ $imageWebp := $image.Resize (printf "%dx%d webp q80 CatmullRom" $image.Width $image.Height)}}
+            {{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
+
+            <a href="{{$image.RelPermalink}}" data-pswp-width="{{$image.Width}}" data-pswp-height="{{$image.Height}}"
+                data-pswp-webp-src="{{$imageWebp.RelPermalink}}" target="_blank">
+                <img src="{{ $thumbnail.RelPermalink }}" alt="{{$image.Name}}" />
+            </a> */}}
+
+
+            {{ $image := resources.Get "img/cropped_blue.jpg"}}
+            {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" 1000 300)}}
+            {{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
+
+            <a style="background : url({{- $imageWebp.RelPermalink }}) no-repeat center center; -webkit-background-clip: text; background-clip: text;"
+                href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+                {{- if site.Params.label.icon }}
+                {{- $img := resources.Get site.Params.label.icon }}
+                {{- if $img }}
+                {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+                {{- if hugo.IsExtended -}}
+                {{- $processableFormats = $processableFormats | append "webp" -}}
+                {{- end -}}
+
+                {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+                {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
+                {{- if site.Params.label.iconHeight }}
+                {{- $img = $img.Resize (printf "x%d" site.Params.label.iconHeight) }}
+                {{ else }}
+                {{- $img = $img.Resize "x30" }}
+                {{- end }}
+                {{- end }}
+                <img src="{{ $img.Permalink }}" alt="logo" aria-label="logo"
+                    height="{{- site.Params.label.iconHeight | default " 30" -}}">
+                {{- else }}
+                <img src="{{- site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
+                    height="{{- site.Params.label.iconHeight | default " 30" -}}">
+                {{- end -}}
+                {{- end -}}
+
+                {{- $label_text -}}
+            </a>
+            {{- end }}
+            {{/* <span class="logo-switches">
+                {{- if (not site.Params.disableThemeToggle) }}
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                {{- end }}
+
+                {{- $lang := .Lang}}
+                {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
+                {{- with site.Home.AllTranslations }}
+                <ul class="lang-switch">
+                    {{- if $separator }}<li>|</li>{{ end }}
+                    {{- range . -}}
+                    {{- if ne $lang .Lang }}
+                    <li>
+                        <a href="{{- .Permalink -}}"
+                            title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
+                            aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
+                            {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
+                            {{- .Language.LanguageName | emojify -}}
+                            {{- else }}
+                            {{- .Lang | title -}}
+                            {{- end -}}
+                        </a>
+                    </li>
+                    {{- end -}}
+                    {{- end}}
+                </ul>
+                {{- end }}
+            </span> */}}
+        </div>
+        {{- $currentPage := . }}
+        <div class="menuContainer">
+            <ul id="menu" class="menu">
+                {{- range site.Menus.main }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+                {{- $page_url:= $currentPage.Permalink | absLangURL }}
+                {{- $sectionId := .Identifier}}
+
+                {{- $sublinks := where site.RegularPages "Section" $sectionId}}
+                {{- $hasSubmenu := ge (len $sublinks) 1 }}
+                {{/* {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }} */}}
+                <li>
+                    <a href="{{ .URL | absLangURL }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond $hasSubmenu ` submenuTitle` `` }} {{- cond (in $page_url
+                        $menu_item_url) ` active` `` }}" title=" {{ .Title | default .Name }}">
+
+                        <span>
+                            {{- .Pre }}
+                            {{- .Name -}}
+                            {{ .Post -}}
+                        </span>
+                    </a>
+                    {{- if $hasSubmenu}}
+                    <ul class="submenu">
+                        {{- range $sublinks}}
+                        <li>
+                            <a href="{{ .RelPermalink | absLangURL }}" class="{{- cond (in $page_url .RelPermalink) `
+                                active` `` }}" title="{{ .Title | default .Name }}">
+                                <span>
+                                    {{- .Name -}}
+                                </span>
+                        </li>
+                        {{- end}}
+                    </ul>
+                    {{- end}}
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+
+    </nav>
+</header>

@@ -1,0 +1,49 @@
+{{- define "main" }}
+
+
+
+
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+<h1 class = "list-title">Cette saison</h1> 
+
+{{- $term := .Data.Term }}
+{{- range $page := $pages }}
+
+{{- $class := "post-entry" }}
+
+
+<article  class ="post-entry" >
+
+  <div class="entry-main">
+    <div class="entry-header">
+      <h2>
+        {{- .Title }}
+      </h2>
+    </div>
+    <div class="entry-content">
+      <ul class="dates">
+        {{- range $representation := .Params.Representations}}
+          <li><a href="{{ $representation.lien }}" title="{{ $representation.lieu | default "Lien théâtre" }}"> <span>{{- $representation.dates}}</span> <span>{{$representation.lieu}}</span> </li>
+        {{- end}}
+      </ul>
+      {{/*  <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>  */}}
+    </div>
+  </div>
+
+
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{/*  y  */}}
+
+
+{{- end }}{{- /* end main */ -}}
