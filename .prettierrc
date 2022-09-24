@@ -2,7 +2,6 @@
     "singleQuote": true,
     "printWidth": 80,
     "editor.formatOnSave": true,
-    "proseWrap": "always",
     "tabWidth": 4,
     "requireConfig": false,
     "useTabs": false,
@@ -10,7 +9,7 @@
     "bracketSpacing": true,
     "jsxBracketSameLine": false,
     "semi": true,
-    "proseWrap" : "never",
+    "proseWrap": "never",
     "overrides": [
         {
             "files": ["*.html"],

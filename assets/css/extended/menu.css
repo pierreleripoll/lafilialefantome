@@ -1,0 +1,107 @@
+@media screen and (max-width: 800px) {
+    .nav {
+        justify-content: space-around;
+    }
+    .menu {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        max-width: 90vw;
+        justify-content: space-between;
+    }
+}
+@media screen and (min-width: 800px) and (max-width: 1407px) {
+    .nav {
+        justify-content: space-around;
+    }
+}
+@media screen and (min-width: 1407px) {
+    .nav {
+        justify-content: space-around;
+    }
+}
+#menu {
+    padding: 1em 0;
+}
+#menu span:hover,
+#menu span.active {
+    color: #000;
+}
+#menu li + li {
+    margin-inline-start: 0.5vw;
+}
+
+#menu > li {
+}
+#menu a {
+    text-transform: uppercase;
+    font-size: 21px;
+}
+.menu li {
+    margin-inline: 0.5vw;
+}
+.submenu {
+    background-color: #fff;
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    gap: 0.3em;
+    white-space: nowrap;
+    z-index: 1;
+    line-height: normal;
+    padding: 1em;
+    border: 0.5em double #32a1ce;
+    transform: translate(0, 2px);
+}
+#menu .submenu a {
+    font-size: 15px;
+}
+.submenu li {
+}
+.menu li:hover .submenu,
+.menu li.selected .submenu {
+    display: flex;
+}
+.menu li:hover a.submenuTitle {
+    text-decoration: none;
+}
+.nav {
+    max-width: 100%;
+    align-items: center;
+    margin: auto;
+    gap: 0.5em 10vw;
+    padding-top: 6vh;
+    padding-bottom: 8vh;
+    line-height: normal;
+    font-weight: 700;
+}
+.submenuTitle {
+    cursor: pointer;
+}
+::-webkit-scrollbar-track {
+    background: 0 0;
+}
+.list:not(.dark)::-webkit-scrollbar-track {
+    background: var(--code-bg);
+}
+::-webkit-scrollbar-thumb {
+    padding-top: 1vw;
+    background: var(--main-bg);
+    border: 5px solid var(--theme);
+}
+.list:not(.dark)::-webkit-scrollbar-thumb {
+    background: var(--main-bg);
+    padding-top: 1vw;
+    border: 5px solid var(--theme);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--theme);
+}
+
+#menu .active {
+    border-bottom: none;
+    font-weight: 900;
+}

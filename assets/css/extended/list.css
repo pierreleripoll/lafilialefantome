@@ -1,0 +1,77 @@
+@media screen and (max-width: 800px) {
+    .entry-main {
+        display: flex;
+        flex-direction: column;
+        min-height: 60vh;
+        align-items: center;
+    }
+    .entry-header {
+        width: 100%;
+        height: 30vh;
+    }
+    .entry-header :is(h1, h2, h3, h4) {
+        font-size: calc(2.3em + 1vw + 10px);
+    }
+    .entry-content {
+        width: 100%;
+        height: 30vh;
+        text-align: end;
+    }
+}
+@media screen and (min-width: 800px) {
+    .entry-main {
+        display: flex;
+        flex-direction: row;
+        height: 30vh;
+    }
+    .entry-header {
+        width: 40%;
+    }
+    .entry-header :is(h1, h2, h3, h4) {
+        font-size: calc(1em + 1vw + 10px);
+    }
+    .entry-content {
+        width: 60%;
+    }
+}
+.list-title {
+    margin-bottom: 1em;
+    text-align: right;
+    text-transform: uppercase;
+}
+.list-entry {
+    background: #fff;
+    padding: 1em;
+    margin: 3em auto;
+}
+.entry-main {
+    padding: 1em;
+    background: #fff;
+    gap: 1em;
+    border: 0.5em double var(--theme);
+}
+.entry-header :is(h1, h2, h3, h4) {
+    width: -moz-max-content;
+    width: max-content;
+    background: url(/img/cropped_blue.jpg) no-repeat 50%;
+    background-size: auto;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    font-family: amarante, cursive;
+    text-transform: uppercase;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    font-weight: 900;
+    filter: hue-rotate(180deg) invert() brightness(1.5) hue-rotate(15deg);
+}
+.entry-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.entry-content {
+    font-size: large;
+}

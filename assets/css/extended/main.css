@@ -1,0 +1,57 @@
+a:hover {
+    text-decoration: 2px underline wavy #32a1ce;
+    text-underline-offset: 3px;
+}
+a.active {
+    text-decoration: 2px underline double #32a1ce;
+    text-underline-offset: 4px;
+}
+:root {
+    --main-bg: #ffe8ee;
+    --underline-theme: underline double #32a1ce;
+    --theme: #32a1ce;
+    --radius: 0deg;
+    --main-width: calc(var(--nav-width) + 25vw);
+}
+@media screen and (max-width: 800px) {
+    body {
+        max-width: 95vw;
+    }
+}
+@media screen and (min-width: 800px) and (max-width: 1407px) {
+    body {
+        max-width: calc(90vw);
+    }
+}
+@media screen and (min-width: 1407px) {
+    body {
+        max-width: 90vw;
+    }
+}
+body {
+    background-color: var(--main-bg);
+    margin: 1vh auto;
+}
+.logo a {
+    background: url(/img/cropped_blue.jpg) no-repeat 50%;
+    background-size: auto;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    font-family: amarante, cursive;
+    text-transform: uppercase;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    font-size: calc(1em + 2vw + 20px);
+    font-weight: 900;
+    filter: hue-rotate(180deg) invert() brightness(1.5)
+        drop-shadow(6px 4px 1px #32a1ce) hue-rotate(15deg);
+}
+.main {
+    padding: none !important;
+}
+header {
+    margin-bottom: 4vh;
+}
