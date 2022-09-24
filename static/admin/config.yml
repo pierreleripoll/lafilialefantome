@@ -70,19 +70,19 @@ collections:
             fields:
                 - { label: 'Théâtre', name: 'theatre', widget: 'string' }
                 - { label: 'Lien', name: 'lien', widget: 'string' }
-                - { label: 'Dates', name: 'dates', widget: 'string' }
-                # - {
-                #       label: 'Date début',
-                #       name: 'datedebut',
-                #       widget: 'datetime',
-                #       date_format: 'DD.MM.YYYY'
-                #   }
-                # - {
-                #       label: 'Date fin',
-                #       name: 'datefin',
-                #       widget: 'datetime',
-                #       date_format: 'DD.MM.YYYY'
-                #   }
+                - { label: 'Dates', name: 'dates-text', widget: 'string' }
+                - {
+                      label: 'Date début',
+                      name: 'datedebut',
+                      widget: 'datetime',
+                      date_format: 'DD.MM.YYYY'
+                  }
+                - {
+                      label: 'Date fin',
+                      name: 'datefin',
+                      widget: 'datetime',
+                      date_format: 'DD.MM.YYYY'
+                  }
 
           - label: 'Images'
             required: false
