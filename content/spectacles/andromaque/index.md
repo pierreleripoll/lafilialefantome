@@ -1,5 +1,16 @@
 ---
 title: Andromaque
+representations:
+  - datedebut: 2022-09-24T15:10:21.614Z
+    datefin: 2022-09-29T15:10:18.879Z
+    dates-text: 24 au 29 septembre
+    theatre: Vidy
+    lien: https://vidy.ch/
+  - datedebut: 2022-10-07T15:11:02.269Z
+    datefin: 2022-10-09T15:11:02.285Z
+    theatre: Arsenic
+    lien: https://arsenic.ch/
+    dates-text: 7, 8 et 9 octobre
 generique: >-
   ### Distribution
 
