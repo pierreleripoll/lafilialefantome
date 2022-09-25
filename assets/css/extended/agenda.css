@@ -15,3 +15,9 @@
 .agenda .saison h3 {
     margin-bottom: 15px;
 }
+
+@media screen and (max-width: 800px) {
+    .agenda .saison li {
+        font-size: medium;
+    }
+}
