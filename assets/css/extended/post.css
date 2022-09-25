@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     main {
         max-width: 85vw;
     }
@@ -7,7 +7,7 @@
         justify-content: center;
         align-items: center;
     }
-    .post-main p {
+    .post-main :is(p, ul) {
         font-size: larger;
     }
     .post-title {
@@ -16,18 +16,19 @@
     }
     .post-col2 {
         margin: none;
+        width: 100%;
     }
 }
-@media screen and (min-width: 800px) and (max-width: 1407px) {
+@media screen and (min-width: 1000px) and (max-width: 1407px) {
     .post-main {
         justify-content: space-between;
         align-items: start;
     }
     .post-col1 {
-        max-width: 65%;
+        max-width: 55%;
     }
     .post-col2 {
-        max-width: 28%;
+        max-width: 42%;
     }
 }
 @media screen and (min-width: 1407px) {
@@ -47,7 +48,7 @@
 }
 .post-title {
     margin-bottom: calc(2vh + 10px);
-    font-size: calc(1vw + 1em + 20px);
+    font-size: 60px;
     text-transform: uppercase;
 }
 .post-main {
@@ -57,31 +58,36 @@
 }
 .post-main p a {
     color: var(--theme);
+    box-shadow: none;
 }
+
 .post-content {
     color: #000;
     text-align: justify;
-    font-size: large;
+    font-size: medium;
 }
 .post-content :is(h1, h2, h3, h4, h5, h6) {
     margin: 0;
     margin-bottom: 3vh;
 }
 .post-generique {
-    padding: 1em;
+    padding: 0em 1em 1em 1em;
     font-size: large;
     background-color: #fffbfb;
-    border: 0.5em double var(--theme);
+    border: 10px double;
 }
-.post-generique p {
+.post-generique :is(p, ul) {
     margin-bottom: 0.5em;
+    font-size: medium;
 }
 .post-generique :is(h1, h2, h3, h4, h5, h6) {
     text-transform: uppercase;
     margin-bottom: 0.8em;
+    margin-top: 0.8em;
 }
+
 .pswp-gallery img:hover {
-    filter: hue-rotate(180deg);
+    filter: brightness(0.8);
 }
 .pswp-gallery {
     gap: 1vh 2vh;

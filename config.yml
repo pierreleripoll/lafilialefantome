@@ -22,15 +22,15 @@ params:
     # author: ["Me", "You"] # multiple authors
     DateFormat: '2 January 2006'
     defaultTheme: auto # dark, light
-    disableThemeToggle: false
+    disableThemeToggle: true
 
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
-    disableSpecial1stPost: false
-    disableScrollToTop: false
+    disableSpecial1stPost: true
+    disableScrollToTop: true
     comments: false
     hidemeta: false
     hideSummary: false

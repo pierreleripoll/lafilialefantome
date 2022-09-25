@@ -1,0 +1,48 @@
+{{- $class := "post-entry" }}
+
+{{ $image := resources.Get "img/cropped_blue.jpg"}}
+{{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" 1000 300)}}
+{{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
+
+<article  class ="post-entry" >
+  
+{{ $photos := .Params.photos}}
+{{ $hasPhotos := and (isset .Params "photos") (ge (len $photos) 1)}}
+
+  <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}">
+
+    {{ if $hasPhotos}}
+
+    {{ $photoOne := index $photos 0 }}
+    {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
+    {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $image.Height $image.Width)}}
+
+    <div class="entry-header" style="background : url({{- $photoWebp.RelPermalink }}) ; background-size: cover; background-position: center;">
+
+      <h2 style="">
+        {{- .Title }} 
+      </h2>
+    </div>
+    {{ else}}
+    <div class="entry-header">
+
+      <h2 style="background : url({{- $thumbnail.RelPermalink }}) no-repeat center center; -webkit-background-clip: text; background-clip: text;">
+        {{- .Title }} 
+      </h2>
+    </div>
+    {{end}}
+    
+    <div class="entry-content">
+      {{/*  <h3 >
+        {{- .Title }} 
+      </h3>  */}}
+      {{/*  <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>  */}}
+      
+      {{- partial "dates.html" . -}}
+      
+    </div>
+  </div>
+
+
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+</article>

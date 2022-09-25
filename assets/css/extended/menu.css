@@ -1,6 +1,8 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     .nav {
         justify-content: space-around;
+        padding-top: 2vh;
+        padding-bottom: 1vh;
     }
     .menu {
         display: flex;
@@ -10,14 +12,20 @@
         justify-content: space-between;
     }
 }
-@media screen and (min-width: 800px) and (max-width: 1407px) {
+
+@media screen and (min-width: 1000px) {
     .nav {
         justify-content: space-around;
+        padding-top: 3vh;
+        padding-bottom: 4vh;
     }
 }
+
 @media screen and (min-width: 1407px) {
     .nav {
         justify-content: space-around;
+        padding-top: 6vh;
+        padding-bottom: 8vh;
     }
 }
 #menu {
@@ -31,8 +39,6 @@
     margin-inline-start: 0.5vw;
 }
 
-#menu > li {
-}
 #menu a {
     text-transform: uppercase;
     font-size: 21px;
@@ -53,13 +59,16 @@
     z-index: 1;
     line-height: normal;
     padding: 1em;
-    border: 0.5em double #32a1ce;
-    transform: translate(0, 2px);
+    border: solid;
+    /* border: 0.5em double #32a1ce; */
+
+    transform: translate(-20px, 10px);
 }
 #menu .submenu a {
     font-size: 15px;
 }
-.submenu li {
+.menu > li {
+    padding-bottom: 2em;
 }
 .menu li:hover .submenu,
 .menu li.selected .submenu {
@@ -73,12 +82,12 @@
     align-items: center;
     margin: auto;
     gap: 0.5em 10vw;
-    padding-top: 6vh;
-    padding-bottom: 8vh;
+
     line-height: normal;
     font-weight: 700;
 }
 .submenuTitle {
+    pointer-events: none;
     cursor: pointer;
 }
 ::-webkit-scrollbar-track {

@@ -114,7 +114,7 @@
                 {{- $hasSubmenu := ge (len $sublinks) 1 }}
                 {{/* {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }} */}}
                 <li>
-                    <a href="{{ .URL | absLangURL }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond $hasSubmenu ` submenuTitle` `` }} {{- cond (in $page_url
+                    <a href="{{- cond ($hasSubmenu) `/` .URL | absLangURL }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond $hasSubmenu ` submenuTitle` `` }} {{- cond (in $page_url
                         $menu_item_url) ` active` `` }}" title=" {{ .Title | default .Name }}">
 
                         <span>

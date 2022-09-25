@@ -1,0 +1,71 @@
+{{- define "main" }}
+    {{ $sections := where $.Site.Pages "Section" "spectacles" }}
+    {{ $list := slice }}
+    {{ range $spectacle := $sections }}
+        {{ range $representation
+            := $spectacle.Params.representations
+        }}
+            {{ $dic := $representation }}
+            {{ $dic =
+                merge $dic (dict "name" $spectacle.Title "statut" $spectacle.Params.statut
+                "lienspectacle" $spectacle.RelPermalink )
+            }}
+            {{ $list = $list | append $dic }}
+        {{ end }}
+
+    {{ end }}
+
+    {{ $representations := sort $list "datefin" }}
+    {{ $used := slice }}
+
+
+    <div class="agenda">
+        <h1 class="post-title">Agenda</h1>
+
+        {{ range $year := seq 25 }}
+            {{ $list := slice }}
+
+            {{ range $index, $representation := $representations }}
+                {{ $fin := time ($representation.datefin) }}
+                {{ $debut := time ($representation.datedebut) }}
+
+                {{ $startYear := $year }}
+                {{ if and ($fin.After (time (printf "%d-09-01" (add $year 2021)))) ($fin.Before (time (printf "%d-09-01" (add $year 2022)))) }}
+                    {{ $list = $list | append $representation }}
+                    {{ $used = $used | append $index }}
+                {{ end }}
+
+            {{ end }}
+
+            {{ if ge (len $list) 1 }}
+
+                <div class="saison">
+                    <h3>
+                        Saison {{ printf "%d" (add $year 2021) }} -
+                        {{ printf "%d" (add $year 2022) }}
+                    </h3>
+                    <ul class="representations">
+                        {{- range $list }}
+                            {{ partial "agendaLine.html" . }}
+                        {{- end }}
+                    </ul>
+                </div>
+            {{ end }}
+
+        {{ end }}
+
+        {{ if lt (len $used) (len $representations) }}
+
+            <div class="saison">
+                <h3>Saisons passées</h3>
+                <ul class="representations">
+                    {{- range $index, $representation:= $representations }}
+                        {{ if not ( in $used $index) }}
+                            {{ partial "agendaLine.html" $representation }}
+                        {{ end }}
+                    {{- end }}
+                </ul>
+            </div>
+        {{ end }}
+    </div>
+{{- end }}

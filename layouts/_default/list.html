@@ -12,36 +12,29 @@
 
 {{- $paginator := .Paginate $pages }}
 
-<h1 class = "list-title">Cette saison</h1> 
 
 {{- $term := .Data.Term }}
-{{- range $page := $pages }}
+<h1 class = "list-title">Projets en cours</h1> 
 
-{{- $class := "post-entry" }}
+{{- range where $pages "Params.status" "En cours"}}
 
-
-<article  class ="post-entry" >
-
-  <div class="entry-main">
-    <div class="entry-header">
-      <h2>
-        {{- .Title }}
-      </h2>
-    </div>
-    <div class="entry-content">
-      <ul class="dates">
-        {{- range $representation := .Params.Representations}}
-          <li><a href="{{ $representation.lien }}" title="{{ $representation.lieu | default "Lien théâtre" }}"> <span>{{- $representation.dates}}</span> <span>{{$representation.lieu}}</span> </li>
-        {{- end}}
-      </ul>
-      {{/*  <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>  */}}
-    </div>
-  </div>
-
-
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-</article>
+{{ partial "post.html" . }}
 {{- end }}
+
+<h1 class = "list-title">Projets à venir</h1> 
+
+{{- range where $pages "Params.status" "Futur"}}
+
+{{ partial "post.html" . }}
+{{- end }}
+
+<h1 class = "list-title">Projets passés</h1> 
+
+{{- range where $pages "Params.status" "Passé"}}
+
+{{ partial "post.html" . }}
+{{- end }}
+
 
 {{/*  y  */}}
 

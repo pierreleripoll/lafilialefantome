@@ -1,0 +1,10 @@
+<li>
+    <a
+        class="representation"
+        href="{{ .lien }}"
+        title="{{ .theatre | default "Lien théâtre" }}"
+    >
+        <span class="dates">{{- .datestext }}</span>
+        <span class="lieu">{{ .theatre }}</span>
+    </a>
+</li>

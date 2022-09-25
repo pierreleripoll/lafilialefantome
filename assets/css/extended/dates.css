@@ -1,0 +1,30 @@
+.saison :is(h1, h2, h3, h4, h5, h6) {
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.post-generique .saison h3 {
+    font-size: medium;
+}
+
+.representations {
+    list-style: none;
+}
+
+a.representation {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a.representation span.dates {
+    flex: 1;
+    display: flex;
+}
+
+a.representation span.dates::after {
+    content: ' ';
+    flex: 1;
+    margin: 11px;
+    border-bottom: 5px double var(--theme);
+}

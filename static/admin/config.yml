@@ -3,7 +3,7 @@ backend:
     branch: main
 
 # when using the default proxy server port
-# local_backend: true
+local_backend: true
 
 media_folder: static/img/
 
@@ -18,7 +18,7 @@ collections:
       media_folder: ''
       public_folder: ''
       fields:
-          - { label: 'Nom', name: 'name', required: true, widget: 'string' }
+          - { label: 'Nom', name: 'title', required: true, widget: 'string' }
           - {
                 label: 'Description',
                 name: 'body',
@@ -26,12 +26,24 @@ collections:
                 widget: 'markdown',
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.'
             }
+          - label: 'Images'
+            required: false
+            name: 'photos'
+            widget: 'list'
+            fields:
+                - { label: 'Image', name: 'photo', widget: 'image' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
           - {
-                label: 'Images',
+                label: 'Infos',
+                name: 'generique',
                 required: false,
-                name: 'photos',
-                widget: 'list',
-                field: { label: 'Image', name: 'photo', widget: 'image' }
+                default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
+                widget: 'markdown'
             }
 
     - label: 'Pages'
@@ -58,11 +70,14 @@ collections:
       # editor:
       #     preview: true
       fields:
+          - { label: 'Titre', name: 'title', required: true, widget: 'string' }
           - {
-                label: 'Titre',
-                name: 'title',
-                default: 'Nouveau spectacle',
-                widget: 'string'
+                label: 'Statut du projet',
+                name: 'statut',
+                required: true,
+                widget: 'select',
+                options: ['En cours', 'Passé', 'Futur'],
+                default: 'En cours'
             }
           - label: 'Représentations'
             name: 'representations'
@@ -70,7 +85,12 @@ collections:
             fields:
                 - { label: 'Théâtre', name: 'theatre', widget: 'string' }
                 - { label: 'Lien', name: 'lien', widget: 'string' }
-                - { label: 'Dates', name: 'dates-text', widget: 'string' }
+                - {
+                      label: 'Dates (texte affiché)',
+                      name: 'datestext',
+                      required: false,
+                      widget: 'string'
+                  }
                 - {
                       label: 'Date début',
                       name: 'datedebut',
@@ -88,7 +108,14 @@ collections:
             required: false
             name: 'photos'
             widget: 'list'
-            field: { label: 'Image', name: 'photo', widget: 'image' }
+            fields:
+                - { label: 'Image', name: 'photo', widget: 'image' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
 
           - {
                 label: 'Générique',
