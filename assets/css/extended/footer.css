@@ -1,0 +1,12 @@
+.paginavbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paginavbar .prev {
+    text-align: left;
+}
+
+.paginavbar .next {
+    text-align: right;
+}
