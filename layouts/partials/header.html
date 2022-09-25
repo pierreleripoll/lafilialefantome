@@ -26,7 +26,7 @@
             {{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
 
             <a style="background : url({{- $imageWebp.RelPermalink }}) no-repeat center center; -webkit-background-clip: text; background-clip: text;"
-                href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+                href="{{ ""  }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
