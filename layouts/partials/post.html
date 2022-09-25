@@ -20,16 +20,16 @@
     {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
     {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $image.Height $image.Width)}}
 
-    <div class="entry-header" style="background : url({{- $photoWebp.RelPermalink }}) ; background-size: cover; background-position: center;">
+    <div class="entry-header" style="background: url( {{$photoWebp.RelPermalink}} ) ; background-size: cover; background-position: center;">
 
-      <h2 style="">
+      <h2 >
         {{- .Title }} 
       </h2>
     </div>
     {{ else}}
     <div class="entry-header">
 
-      <h2 style="background : url({{- $thumbnail.RelPermalink }}); -webkit-background-clip: text; background-clip: text;">
+      <h2 style="background : url({{$thumbnail.RelPermalink}}); -webkit-background-clip: text; background-clip: text;">
         {{- .Title }} 
       </h2>
     </div>
