@@ -6,9 +6,12 @@
 
 <article  class ="post-entry" >
   
-{{ $photos := .Params.photos}}
-{{ $hasPhotos := and (isset .Params "photos") (ge (len $photos) 1)}}
 
+{{ $photos := .Params.photos}}
+{{ $hasPhotos := isset .Params "photos" }}
+{{/*  {{ if $hasPhotos}}
+{{ $isPhotosNotEmpty := ge (len $photos) 1}}
+{{ end }}  */}}
   <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}">
 
     {{ if $hasPhotos}}
@@ -26,7 +29,7 @@
     {{ else}}
     <div class="entry-header">
 
-      <h2 style="background : url({{- $thumbnail.RelPermalink }}) no-repeat center center; -webkit-background-clip: text; background-clip: text;">
+      <h2 style="background : url({{- $thumbnail.RelPermalink }}); -webkit-background-clip: text; background-clip: text;">
         {{- .Title }} 
       </h2>
     </div>

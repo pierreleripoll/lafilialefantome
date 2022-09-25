@@ -1,5 +1,6 @@
 
 
+{{ if isset .Params "representations"}}
   
  {{ $representations := sort .Params.Representations "datefin"}}
 
@@ -62,5 +63,6 @@
 </div>
 
 
+ {{ end }}
  {{ end }}
  {{ end }}

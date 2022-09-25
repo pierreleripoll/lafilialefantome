@@ -1,42 +1,36 @@
 {{- define "main" }}
+    {{- $pages := union .RegularPages .Sections }}
+
+    {{- if .IsHome }}
+        {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{- end }}
+
+    {{- $paginator := .Paginate $pages }}
+
+    {{- $term := .Data.Term }}
+    <h1 class="list-title">Projets en cours</h1>
+
+    {{- range where $pages "Params.statut" "En cours" }}
+
+        {{ partial "post.html" . }}
+    {{- end }}
 
 
+    <h1 class="list-title">Projets à venir</h1>
+
+    {{- range where $pages "Params.statut" "Futur" }}
+
+        {{ partial "post.html" . }}
+    {{- end }}
 
 
+    <h1 class="list-title">Projets passés</h1>
 
-{{- $pages := union .RegularPages .Sections }}
+    {{- range where $pages "Params.statut" "Passé" }}
 
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- end }}
+        {{ partial "post.html" . }}
+    {{- end }}
 
-{{- $paginator := .Paginate $pages }}
-
-
-{{- $term := .Data.Term }}
-<h1 class = "list-title">Projets en cours</h1> 
-
-{{- range where $pages "Params.status" "En cours"}}
-
-{{ partial "post.html" . }}
-{{- end }}
-
-<h1 class = "list-title">Projets à venir</h1> 
-
-{{- range where $pages "Params.status" "Futur"}}
-
-{{ partial "post.html" . }}
-{{- end }}
-
-<h1 class = "list-title">Projets passés</h1> 
-
-{{- range where $pages "Params.status" "Passé"}}
-
-{{ partial "post.html" . }}
-{{- end }}
-
-
-{{/*  y  */}}
-
+    {{/* y */}}
 
 {{- end }}{{- /* end main */ -}}

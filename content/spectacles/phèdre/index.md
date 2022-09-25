@@ -1,19 +1,21 @@
 ---
 title: Phèdre !
-representations:
-    - datedebut: 2022-09-24T15:10:21.614Z
-      datefin: 2022-09-29T15:10:18.879Z
-      datestext: 24 au 29 septembre
-      theatre: Vidy
-      lien: https://vidy.ch/
-    - datedebut: 2022-10-07T15:11:02.269Z
-      datefin: 2022-10-09T15:11:02.285Z
-      theatre: Arsenic
-      lien: https://arsenic.ch/
-      datestext: 7, 8 et 9 octobre
 statut: En cours
+representations:
+  - datedebut: 2022-09-24T15:10:21.614Z
+    datefin: 2022-09-29T15:10:18.879Z
+    datestext: 24 au 29 septembre
+    theatre: Vidy
+    lien: https://vidy.ch/
+  - datedebut: 2022-10-07T15:11:02.269Z
+    datefin: 2022-10-09T15:11:02.285Z
+    theatre: Arsenic
+    lien: https://arsenic.ch/
+    datestext: 7, 8 et 9 octobre
 photos:
-generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.
+  - photo: 20201023-la-possession-©samuelrubio-48-web.jpg
+generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+  scelerisque lacinia odio, ut vestibulum enim mattis varius.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.

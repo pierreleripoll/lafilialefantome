@@ -1,56 +1,55 @@
 ---
 title: Andromaque
-status: En cours
 statut: En cours
 representations:
-  - datedebut: 2022-09-24T15:10:21.614Z
-    datefin: 2022-09-29T15:10:18.879Z
-    datestext: 24 au 29 septembre
-    theatre: Vidy
-    lien: https://vidy.ch/
-  - datedebut: 2022-08-08T15:11:02.269Z
-    datefin: 2022-10-09T15:11:02.285Z
-    theatre: Arsenic
-    lien: https://arsenic.ch/
-    datestext: 7, 8 et 9 octobre
-  - datedebut: 2023-10-07T15:11:02.269Z
-    datefin: 2023-10-09T15:11:02.285Z
-    theatre: Comédie de Geneve
-    lien: https://arsenic.ch/
-    datestext: Janvier 2023
+    - datedebut: 2022-09-24T15:10:21.614Z
+      datefin: 2022-09-29T15:10:18.879Z
+      datestext: 24 au 29 septembre
+      theatre: Vidy
+      lien: https://vidy.ch/
+    - datedebut: 2022-08-08T15:11:02.269Z
+      datefin: 2022-10-09T15:11:02.285Z
+      theatre: Arsenic
+      lien: https://arsenic.ch/
+      datestext: 7, 8 et 9 octobre
+    - datedebut: 2023-10-07T15:11:02.269Z
+      datefin: 2023-10-09T15:11:02.285Z
+      theatre: Comédie de Geneve
+      lien: https://arsenic.ch/
+      datestext: Janvier 2023
 photos:
-  - photo: 20201023-la-possession-©samuelrubio-29-web.jpg
-    alt: Scénographie de test
-  - photo: 20201023-la-possession-©samuelrubio-45-web.jpg
-    alt: Hamlet est en période
-  - photo: 20201023-la-possession-©samuelrubio-51-web.jpg
-  - photo: l_evefuture__alinepaley-5561-2-150x150.jpg
+    - photo: 20201023-la-possession-©samuelrubio-29-web.jpg
+      alt: Scénographie de test
+    - photo: 20201023-la-possession-©samuelrubio-45-web.jpg
+      alt: Hamlet est en période
+    - photo: 20201023-la-possession-©samuelrubio-51-web.jpg
+    - photo: l_evefuture__alinepaley-5561-2-150x150.jpg
 generique: >-
-  ### Distribution
-
-
-  Une pièce de **Old Masters** 
-
-
-  Musique originale : **Nicholas Stücklin** 
-
-
-  Texte, mise en scène, scénographie, costumes, interprétation : **Sarah André, Marius Schaffter et Jérôme Stünzi** 
-
-
-  Création lumières : **Joana Oliveira** 
-
-
-  Collaboration artistique : **Anne Delahaye** 
-
-
-  Administration : **Laure Chapel – Pâquis production** 
-
-
-  Diffusion : **Tristan Barani** 
-
-
-  Co-production : **Le Grütli, Genève et Arsenic – Centre d’art scénique contemporain, Lausanne**
+    ### Distribution
+    
+    
+    Une pièce de **Old Masters** 
+    
+    
+    Musique originale : **Nicholas Stücklin** 
+    
+    
+    Texte, mise en scène, scénographie, costumes, interprétation : **Sarah André, Marius Schaffter et Jérôme Stünzi** 
+    
+    
+    Création lumières : **Joana Oliveira** 
+    
+    
+    Collaboration artistique : **Anne Delahaye** 
+    
+    
+    Administration : **Laure Chapel – Pâquis production** 
+    
+    
+    Diffusion : **Tristan Barani** 
+    
+    
+    Co-production : **Le Grütli, Genève et Arsenic – Centre d’art scénique contemporain, Lausanne**
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.

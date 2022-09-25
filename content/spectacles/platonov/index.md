@@ -12,7 +12,6 @@ representations:
       lien: https://arsenic.ch/
       datestext: 7, 8 et 9 octobre
 statut: En cours
-photos:
 generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.
 ---
 
