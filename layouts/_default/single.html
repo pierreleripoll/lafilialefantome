@@ -58,13 +58,7 @@
       {{- if or .Params.generique .Params.representations}}
       <div class="post-generique">
         {{- if .Params.representations}}
-        <div>
-          <h3 id="dates">
-            Dates
-          </h3>
-          {{- partial "dates.html" . -}}
-        </div>
-          
+          {{- partial "dates.html" . -}}          
         {{- end -}}
         {{- if .Params.generique}}
         {{ .Params.generique | markdownify}}

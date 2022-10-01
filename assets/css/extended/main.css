@@ -1,13 +1,14 @@
 :root {
-    --main-bg: #ffe8ee;
-    --underline-theme: 2px underline double #32a1ce;
-    --theme: #32a1ce;
+    --main-bg: #ffeabe8a;
+    --underline-theme: 2px underline double var(--theme);
+    --theme: #5f87c9;
     --radius: 0deg;
+    --title-effect: drop-shadow(4px 2px 0.5px var(--theme));
     --main-width: calc(var(--nav-width) + 25vw);
 }
 
 a:hover {
-    text-decoration: 2px underline wavy #32a1ce;
+    text-decoration: 2px underline wavy var(--theme);
     text-underline-offset: 3px;
 }
 a.active {
@@ -15,44 +16,56 @@ a.active {
     text-underline-offset: 4px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 600px) and (max-width: 1000px) {
     body {
-        max-width: 95vw;
+        max-width: 90vw;
     }
 }
+@media screen and (max-width: 600px) {
+    body {
+        max-width: 85vw;
+    }
+}
+
 @media screen and (min-width: 1000px) and (max-width: 1407px) {
     body {
-        max-width: calc(90vw);
+        max-width: 85vw;
     }
 }
 @media screen and (min-width: 1407px) {
     body {
-        max-width: 90vw;
+        max-width: 85vw;
     }
 }
 body {
     background-color: var(--main-bg);
     margin: 1vh auto;
+    font-family: 'Neue Haas Unica Pro', Arial, sans-serif;
+}
+
+.logo {
+    margin: 0;
 }
 .logo a {
-    background: url(/img/cropped_blue.jpg) no-repeat 50%;
+    /* background: url(/img/cropped_blue.jpg) no-repeat 50%;
     background-size: auto;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     -moz-background-clip: text;
-    background-clip: text;
-    font-family: amarante, cursive;
+    background-clip: text; */
+    /* font-family: amarante, cursive; */
     text-transform: uppercase;
     text-align: center;
     outline: none;
     text-decoration: none;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 900;
-    filter: hue-rotate(180deg) invert() brightness(1.5)
-        drop-shadow(3px 2px 1px #32a1ce) hue-rotate(15deg);
+    filter: var(--title-effect);
 }
 .main {
     min-height: 65vh;
+    margin-bottom: 50px;
+    padding: 0;
 }
 header {
     margin-bottom: 4vh;

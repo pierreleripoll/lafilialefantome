@@ -1,8 +1,5 @@
 {{- $class := "post-entry" }}
 
-{{ $image := resources.Get "img/cropped_blue.jpg"}}
-{{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" 1000 300)}}
-{{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
 
 <article  class ="post-entry" >
   
@@ -18,7 +15,7 @@
 
     {{ $photoOne := index $photos 0 }}
     {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
-    {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $image.Height $image.Width)}}
+    {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $photoRessource.Width $photoRessource.Height)}}
 
     <div class="entry-header" style="background: url( {{$photoWebp.RelPermalink}} ) ; background-size: cover; background-position: center;">
 
@@ -29,7 +26,7 @@
     {{ else}}
     <div class="entry-header">
 
-      <h2 style="background : url({{$thumbnail.RelPermalink}}); -webkit-background-clip: text; background-clip: text;">
+      <h2 >
         {{- .Title }} 
       </h2>
     </div>

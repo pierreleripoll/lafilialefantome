@@ -22,7 +22,7 @@
     .entry-main {
         display: flex;
         flex-direction: row;
-        height: 25vh;
+        min-height: 25vh;
     }
     .entry-header {
         width: 60%;
@@ -74,7 +74,7 @@
 .entry-main.no-photo {
     background: #fff;
 
-    border: 0.5em double var(--theme);
+    border: 5px solid var(--theme);
 }
 
 .entry-header {
@@ -89,24 +89,27 @@
     width: max-content; */
     background-size: auto;
 
-    font-family: amarante, cursive;
+    /* font-family: amarante, cursive; */
     text-transform: uppercase;
     text-align: center;
     outline: none;
     text-decoration: none;
     font-weight: 900;
     color: white;
-    filter: brightness(1) drop-shadow(3px 1px 2px #ffff)
-        drop-shadow(3px 1px 1px #000000);
+    filter: var(--title-effect);
+    /* filter: brightness(1) drop-shadow(3px 1px 2px #ffff)
+        drop-shadow(3px 1px 1px #000000); */
 }
 
 .no-photo .entry-header :is(h1, h2, h3, h4) {
-    -webkit-text-fill-color: transparent;
+    color: black;
+    filter: var(--title-effect);
+    /* -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     -moz-background-clip: text;
-    background-clip: text;
-    filter: hue-rotate(180deg) invert() brightness(1.5)
-        drop-shadow(1px 1px 1px #ffffff) hue-rotate(15deg);
+    background-clip: text; */
+    /* filter: hue-rotate(180deg) invert() brightness(1.5)
+        drop-shadow(1px 1px 1px #ffffff) hue-rotate(15deg); */
 }
 
 .entry-header :is(h1, h2, h3, h4) {
@@ -128,7 +131,7 @@
     display: flex;
     margin: 0;
     /* border: solid; */
-    padding: 2em 2em;
+    padding: 50px;
     flex-direction: column;
     justify-content: space-evenly;
     font-size: medium;

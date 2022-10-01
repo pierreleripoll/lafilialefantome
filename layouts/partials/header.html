@@ -1,6 +1,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amarante&display=swap" rel="stylesheet"> 
+<link href="/fonts/Apercu-Light.woff2" rel="stylesheet"> 
+<link href="/fonts/Apercu-Regular.woff2" rel="stylesheet"> 
+<link href="/fonts/Apercu-Bold.woff2" rel="stylesheet"> 
 
 <link rel="icon" href="/favicon.ico">
 
@@ -21,12 +24,14 @@
             </a> */}}
 
 
-            {{ $image := resources.Get "img/cropped_blue.jpg"}}
+            {{/*  {{ $image := resources.Get "img/cropped_blue.jpg"}}
             {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" 1000 300)}}
-            {{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}
+            {{ $thumbnail := $image.Resize "500x webp q60 picture CatmullRom" }}  */}}
 
-            <a style="background : url({{$imageWebp.RelPermalink}}) no-repeat center center; -webkit-background-clip: text; background-clip: text;"
-                href="{{ "/" }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+            {{/*  <a style="background : url({{$imageWebp.RelPermalink}}) no-repeat center center; -webkit-background-clip: text; background-clip: text;"
+                href="{{ "/" }}" accesskey="h" title="{{ $label_text }} (Alt + H)">  */}}
+
+                <a href="{{ "/" }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}

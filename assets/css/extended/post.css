@@ -1,18 +1,25 @@
-@media screen and (max-width: 1000px) {
-    main {
-        max-width: 85vw;
+.post-title {
+    margin-bottom: calc(2vh + 10px);
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+    .post-title {
+        font-size: 40px;
     }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
     .post-main {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
     .post-main :is(p, ul) {
-        font-size: larger;
+        font-size: large;
     }
     .post-title {
-        margin-bottom: none;
-        margin: auto;
     }
     .post-col2 {
         margin: none;
@@ -32,25 +39,18 @@
     }
 }
 @media screen and (min-width: 1407px) {
-    main {
-        max-width: 80%;
-    }
     .post-main {
         justify-content: space-between;
         align-items: start;
     }
     .post-col1 {
-        max-width: 65%;
+        max-width: 62%;
     }
     .post-col2 {
-        max-width: 28%;
+        max-width: 32%;
     }
 }
-.post-title {
-    margin-bottom: calc(2vh + 10px);
-    font-size: 60px;
-    text-transform: uppercase;
-}
+
 .post-main {
     display: flex;
     flex-wrap: wrap;
@@ -71,19 +71,30 @@
     margin-bottom: 3vh;
 }
 .post-generique {
-    padding: 0em 1em 1em 1em;
+    padding: 40px;
     font-size: large;
     background-color: #fffbfb;
-    border: 10px double;
+    border: 5px solid;
 }
 .post-generique :is(p, ul) {
-    margin-bottom: 0.5em;
+    margin-bottom: 6px;
     font-size: medium;
 }
 .post-generique :is(h1, h2, h3, h4, h5, h6) {
     text-transform: uppercase;
-    margin-bottom: 0.8em;
-    margin-top: 0.8em;
+    margin-bottom: 10px;
+}
+
+.post-generique :is(h1, h2, h3, h4, h5, h6):not(:first-child) {
+    margin-top: 25px;
+}
+
+.post-generique .saison {
+    margin-bottom: 10px;
+}
+
+.post-generique .saison :is(h1, h2, h3, h4, h5, h6) {
+    text-align: left;
 }
 
 .pswp-gallery img:hover {

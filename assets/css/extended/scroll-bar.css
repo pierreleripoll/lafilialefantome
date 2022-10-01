@@ -1,0 +1,61 @@
+/* from reset */
+::-webkit-scrollbar-track {
+    background: none;
+}
+
+.list:not(.dark)::-webkit-scrollbar-track {
+    background: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: none;
+    border: none;
+}
+
+.list:not(.dark)::-webkit-scrollbar-thumb {
+    border: none;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: none;
+}
+
+::-webkit-scrollbar:not(.highlighttable, .highlight table, .gist .highlight) {
+    background: none;
+}
+
+/* from post-single */
+.post-content .highlighttable td .highlight pre code::-webkit-scrollbar {
+    display: none;
+}
+
+.post-content :not(table) ::-webkit-scrollbar-thumb {
+    border: none;
+    background: none;
+}
+
+.post-content :not(table) ::-webkit-scrollbar-thumb:hover {
+    background: none;
+}
+
+.gist table::-webkit-scrollbar-thumb {
+    border: none;
+    background: none;
+}
+
+.gist table::-webkit-scrollbar-thumb:hover {
+    background: none;
+}
+
+.post-content table::-webkit-scrollbar-thumb {
+    border: none;
+}
+
+/* from zmedia */
+@media screen and (min-width: 768px) {
+    /* reset */
+    ::-webkit-scrollbar {
+        width: 19px;
+        height: 11px;
+    }
+}
