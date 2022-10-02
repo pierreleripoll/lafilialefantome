@@ -86,7 +86,7 @@ collections:
       files:
           - label: 'Page Contact'
             name: 'contact'
-            file: 'content/contact.md'
+            file: 'content/contact/_index.md'
             fields:
                 - {
                       label: 'Contenu de la page',
