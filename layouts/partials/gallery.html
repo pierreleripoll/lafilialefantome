@@ -1,24 +1,21 @@
-<link rel="stylesheet" href="/photoswipe/photoswipe.css">
-
+<link rel="stylesheet" href="/photoswipe/photoswipe.css" />
 
 <script type="module">
-
     import PhotoSwipeLightbox from '/photoswipe/photoswipe-lightbox.esm.js';
 
-    console.log("Swipebox required")
+    console.log('Swipebox required');
 
     const lightbox = new PhotoSwipeLightbox({
         gallery: '#gallery',
         children: 'a',
         pswpModule: () => {
-            console.log("pswpModule");
-            return import('/photoswipe/photoswipe.esm.js')
+            console.log('pswpModule');
+            return import('/photoswipe/photoswipe.esm.js');
         }
     });
 
     lightbox.on('uiRegister', function () {
-
-        console.log("Register ! ")
+        console.log('Register ! ');
 
         lightbox.pswp.ui.registerElement({
             name: 'download-button',
@@ -51,16 +48,21 @@
             html: 'Caption text',
             onInit: (el, pswp) => {
                 lightbox.pswp.on('change', () => {
-                    const currSlideElement = lightbox.pswp.currSlide.data.element;
+                    const currSlideElement =
+                        lightbox.pswp.currSlide.data.element;
                     let captionHTML = '';
                     if (currSlideElement) {
-                        const hiddenCaption = currSlideElement.querySelector('.hidden-caption-content');
+                        const hiddenCaption = currSlideElement.querySelector(
+                            '.hidden-caption-content'
+                        );
                         if (hiddenCaption) {
                             // get caption from element with class hidden-caption-content
                             captionHTML = hiddenCaption.innerHTML;
                         } else {
                             // get caption from alt attribute
-                            captionHTML = currSlideElement.querySelector('img').getAttribute('alt');
+                            captionHTML = currSlideElement
+                                .querySelector('img')
+                                .getAttribute('alt');
                         }
                     }
                     el.innerHTML = captionHTML || '';
@@ -75,7 +77,7 @@
         if (webpSrc) {
             itemData.webpSrc = webpSrc;
         }
-        console.log(itemData)
+        console.log(itemData);
         return itemData;
     });
 
@@ -122,7 +124,6 @@
         }
     });
 
-
     // by default PhotoSwipe appends <img>,
     // but we want to append <picture>
     lightbox.on('contentAppendImage', (e) => {
@@ -134,26 +135,31 @@
     });
 
     lightbox.init();
-
 </script>
 
+{{ $title := .Title }}
+{{ $Resources := .Resources }}
 
-
-{{ $title := .Title}}
-{{ $Resources := .Resources}}
 
 <div class="pswp-gallery " id="gallery">
     {{ range $photo := .Param "photos" }}
 
+        {{ $image := $Resources.GetMatch $photo.photo }}
+        {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" $image.Width $image.Height) }}
+        {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
 
-    {{ $image := $Resources.GetMatch $photo.photo }}
-    {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" $image.Height $image.Width)}}
-    {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
 
-    <a href="{{$image.RelPermalink}}" data-pswp-width="{{$image.Width}}" data-pswp-height="{{$image.Height}}"
-        data-pswp-webp-src="{{$imageWebp.RelPermalink}}" target="_blank">
-        <img src="{{ $thumbnail.RelPermalink }}" alt="{{$photo.alt | default (strings.TrimSuffix (path.Ext $image.Name) $image.Name)}}" />
-    </a>
-
+        <a
+            href="{{ $image.RelPermalink }}"
+            data-pswp-width="{{ $image.Width }}"
+            data-pswp-height="{{ $image.Height }}"
+            data-pswp-webp-src="{{ $imageWebp.RelPermalink }}"
+            target="_blank"
+        >
+            <img
+                src="{{ $thumbnail.RelPermalink }}"
+                alt="{{ $photo.alt | default (strings.TrimSuffix (path.Ext $image.Name) $image.Name) }}"
+            />
+        </a>
     {{ end }}
 </div>
