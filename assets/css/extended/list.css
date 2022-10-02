@@ -94,16 +94,13 @@
     text-align: center;
     outline: none;
     text-decoration: none;
-    font-weight: 900;
     color: white;
-    filter: var(--title-effect);
     /* filter: brightness(1) drop-shadow(3px 1px 2px #ffff)
         drop-shadow(3px 1px 1px #000000); */
 }
 
 .no-photo .entry-header :is(h1, h2, h3, h4) {
     color: black;
-    filter: var(--title-effect);
     /* -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     -moz-background-clip: text;

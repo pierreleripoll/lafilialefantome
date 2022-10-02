@@ -17,16 +17,16 @@
     {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
     {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $photoRessource.Width $photoRessource.Height)}}
 
-    <div class="entry-header" style="background: url( {{$photoWebp.RelPermalink}} ) ; background-size: cover; background-position: center;">
+    <div class="entry-header " style="background: url( {{$photoWebp.RelPermalink}} ) ; background-size: cover; background-position: center;">
 
-      <h2 >
+      <h2 class="title-effect" >
         {{- .Title }} 
       </h2>
     </div>
     {{ else}}
-    <div class="entry-header">
+    <div class="entry-header title-effect">
 
-      <h2 >
+      <h2 class="title-effect" >
         {{- .Title }} 
       </h2>
     </div>
