@@ -4,7 +4,13 @@
     --theme: #5f87c9;
     --radius: 0deg;
     --title-effect: drop-shadow(4px 2px 0.5px var(--theme));
+    --main-border: 5px solid;
+    --main-padding: 50px;
     --main-width: calc(var(--nav-width) + 25vw);
+}
+
+.title-effect {
+    filter: var(--title-effect);
 }
 
 a:hover {

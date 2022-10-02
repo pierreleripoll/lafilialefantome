@@ -19,53 +19,55 @@
     {{ $used := slice }}
 
 
-    <div class="agenda">
-        <h1 class="post-title">Agenda</h1>
+    <h1 class="post-title right title-effect">Agenda</h1>
 
-        {{ range $year := seq 25 }}
-            {{ $list := slice }}
+    <div class="agenda-container">
+        <div class="agenda">
+            {{ range $year := seq 25 }}
+                {{ $list := slice }}
 
-            {{ range $index, $representation := $representations }}
-                {{ $fin := time ($representation.datefin) }}
-                {{ $debut := time ($representation.datedebut) }}
+                {{ range $index, $representation := $representations }}
+                    {{ $fin := time ($representation.datefin) }}
+                    {{ $debut := time ($representation.datedebut) }}
 
-                {{ $startYear := $year }}
-                {{ if and ($fin.After (time (printf "%d-09-01" (add $year 2021)))) ($fin.Before (time (printf "%d-09-01" (add $year 2022)))) }}
-                    {{ $list = $list | append $representation }}
-                    {{ $used = $used | append $index }}
+                    {{ $startYear := $year }}
+                    {{ if and ($fin.After (time (printf "%d-09-01" (add $year 2021)))) ($fin.Before (time (printf "%d-09-01" (add $year 2022)))) }}
+                        {{ $list = $list | append $representation }}
+                        {{ $used = $used | append $index }}
+                    {{ end }}
+
+                {{ end }}
+
+                {{ if ge (len $list) 1 }}
+
+                    <div class="saison">
+                        <h3>
+                            Saison {{ printf "%d" (add $year 2021) }} -
+                            {{ printf "%d" (add $year 2022) }}
+                        </h3>
+                        <ul class="representations">
+                            {{- range $list }}
+                                {{ partial "agendaLine.html" . }}
+                            {{- end }}
+                        </ul>
+                    </div>
                 {{ end }}
 
             {{ end }}
 
-            {{ if ge (len $list) 1 }}
+            {{ if lt (len $used) (len $representations) }}
 
                 <div class="saison">
-                    <h3>
-                        Saison {{ printf "%d" (add $year 2021) }} -
-                        {{ printf "%d" (add $year 2022) }}
-                    </h3>
+                    <h3>Saisons passées</h3>
                     <ul class="representations">
-                        {{- range $list }}
-                            {{ partial "agendaLine.html" . }}
+                        {{- range $index, $representation:= $representations }}
+                            {{ if not ( in $used $index) }}
+                                {{ partial "agendaLine.html" $representation }}
+                            {{ end }}
                         {{- end }}
                     </ul>
                 </div>
             {{ end }}
-
-        {{ end }}
-
-        {{ if lt (len $used) (len $representations) }}
-
-            <div class="saison">
-                <h3>Saisons passées</h3>
-                <ul class="representations">
-                    {{- range $index, $representation:= $representations }}
-                        {{ if not ( in $used $index) }}
-                            {{ partial "agendaLine.html" $representation }}
-                        {{ end }}
-                    {{- end }}
-                </ul>
-            </div>
-        {{ end }}
+        </div>
     </div>
 {{- end }}

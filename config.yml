@@ -23,7 +23,9 @@ params:
     DateFormat: '2 January 2006'
     defaultTheme: auto # dark, light
     disableThemeToggle: true
-
+    mainSections:
+        - spectacles
+        - autres
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
@@ -56,10 +58,6 @@ params:
     #           url: tags
 
     # home-info mode
-    homeInfoParams:
-        enabled: false
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
 
     cover:
         hidden: true # hide everywhere but not in structured data
@@ -90,19 +88,23 @@ menu:
         - identifier: agenda
           name: Agenda
           url: /agenda/
-          weight: 20
-        - identifier: quisommesnous
-          name: 'Qui sommes nous'
-          url: /quisommesnous/
           weight: 30
+        - identifier: quisommesnous
+          name: 'Nous'
+          url: /quisommesnous/
+          weight: 35
+        - identifier: collaborations
+          name: 'Les ami·e·s'
+          url: /collaborations/
+          weight: 40
         - identifier: autres
           name: 'Autres'
           url: /autres/
-          weight: 30
+          weight: 25
         - identifier: contact
           name: Contact
           url: /contact/
-          weight: 40
+          weight: 45
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

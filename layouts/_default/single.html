@@ -36,7 +36,8 @@
   <div class="post-main">
 
 
-    <div class="post-col1">
+
+    <div class="{{ cond (or (isset .Params "generique") (isset .Params "infos")) "post-col1" ""  }}">
       <div class="post-content">
 
 

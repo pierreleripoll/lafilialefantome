@@ -4,8 +4,15 @@
         href="{{ .lienspectacle }}"
         title="{{ .theatre | default "Lien théâtre" }}"
     >
-        <span class="titre">{{ .name }}</span>
-        <span class="dates"> {{ .theatre }} </span>
-        <span class="lieu"> {{- .datestext }}</span>
+        <span class="left">
+            <h4>
+                {{ .name }}
+            </h4>
+            <span class="dates">
+                {{ .theatre }}
+            </span>
+        </span>
+
+        <span class="lieu right"> {{- .datestext }}</span>
     </a>
 </li>

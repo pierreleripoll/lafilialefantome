@@ -1,23 +1,77 @@
-.agenda .representations .titre {
-    margin-right: 20px;
-    text-transform: uppercase;
+.agenda .representations h4 {
+    margin: auto;
+
+    margin-right: 25px;
     font-weight: 600;
 }
 
-.agenda .representations li {
-    margin-bottom: 5px;
-}
-
 .agenda .saison {
-    margin: 80px 0px;
+    margin: 100px 0px;
 }
 
 .agenda .saison h3 {
-    margin-bottom: 15px;
+    margin-bottom: 35px;
+}
+
+.agenda-container {
+    background: white;
+    border: var(--main-border);
+    padding: var(--main-padding) calc(var(--main-padding) * 2);
+}
+
+.agenda {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.agenda .saison :is(h1, h2, h3, h4, h5, h6) {
+    text-align: right;
+}
+
+.agenda .saison .representations :is(h1, h2, h3, h4, h5, h6) {
+    text-align: left;
+}
+
+.agenda .representation {
+    font-size: medium;
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 800px) {
-    .agenda .saison li {
+    .agenda-container {
+        padding: var(--main-padding) calc(var(--main-padding));
+    }
+}
+
+@media screen and(min-width:800px) {
+    .agenda .representations li {
+        margin-bottom: 12px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .agenda a.representation span.left::after {
+        content: ' ';
+        flex: 1;
+        margin: 11px;
+        border-bottom: none;
+    }
+    .agenda a.representation span.left {
+        display: block;
+    }
+
+    .agenda .representations li {
         font-size: medium;
+        margin-bottom: 45px;
+    }
+
+    .agenda .saison {
+        margin-bottom: 35px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .agenda a.representation {
+        display: block;
     }
 }

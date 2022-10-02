@@ -131,7 +131,7 @@
     display: flex;
     margin: 0;
     /* border: solid; */
-    padding: 50px;
+    padding: var(--main-padding);
     flex-direction: column;
     justify-content: space-evenly;
     font-size: medium;
@@ -150,4 +150,8 @@
 .entry-content p {
     color: black;
     text-align: justify;
+}
+
+.entry-content .saison :is(h1, h2, h3, h4, h5, h6) {
+    text-align: right;
 }

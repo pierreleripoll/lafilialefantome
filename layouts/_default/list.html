@@ -5,9 +5,7 @@
         {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- end }}
 
-    {{- $paginator := .Paginate $pages }}
 
-    {{- $term := .Data.Term }}
     <h1 class="list-title">Projets en cours</h1>
 
     {{- range where $pages "Params.statut" "En cours" }}

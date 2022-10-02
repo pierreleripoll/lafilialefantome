@@ -4,6 +4,10 @@
     text-transform: uppercase;
 }
 
+.post-title.right {
+    text-align: right;
+}
+
 @media screen and (max-width: 600px) {
     .post-title {
         font-size: 40px;
@@ -71,7 +75,7 @@
     margin-bottom: 3vh;
 }
 .post-generique {
-    padding: 40px;
+    padding: var(--main-padding);
     font-size: large;
     background-color: #fffbfb;
     border: 5px solid;
@@ -102,4 +106,8 @@
 }
 .pswp-gallery {
     gap: 1vh 2vh;
+}
+
+.post-generique .saison :is(h1, h2, h3, h4, h5, h6) {
+    text-align: left;
 }

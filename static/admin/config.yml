@@ -45,6 +45,41 @@ collections:
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
                 widget: 'markdown'
             }
+    - name: 'collaborations'
+      label: 'Les ami.e.s'
+      folder: 'content/collaborations/'
+      create: true
+      path: '{{slug}}/index'
+      media_folder: ''
+      public_folder: ''
+      fields:
+          - { label: 'Nom', name: 'title', required: true, widget: 'string' }
+          - {
+                label: 'Description',
+                name: 'body',
+                required: true,
+                widget: 'markdown',
+                default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.'
+            }
+          - label: 'Images'
+            required: false
+            name: 'photos'
+            widget: 'list'
+            fields:
+                - { label: 'Image', name: 'photo', widget: 'image' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
+          - {
+                label: 'Infos',
+                name: 'generique',
+                required: false,
+                default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
+                widget: 'markdown'
+            }
 
     - label: 'Pages'
       name: 'pages'
@@ -58,7 +93,84 @@ collections:
                       name: 'body',
                       widget: markdown
                   }
+    - name: 'autre'
+      label: 'Autres projets'
+      label_singular: 'Autre projet'
+      folder: 'content/autres'
+      create: true
+      path: '{{slug}}/index'
+      media_folder: ''
+      public_folder: ''
+      # editor:
+      #     preview: true
+      fields:
+          - { label: 'Titre', name: 'title', required: true, widget: 'string' }
+          - {
+                label: 'Statut du projet',
+                name: 'statut',
+                required: true,
+                widget: 'select',
+                options: ['En cours', 'Passé', 'Futur'],
+                default: 'En cours'
+            }
+          - label: 'Représentations'
+            name: 'representations'
+            widget: 'list'
+            fields:
+                - { label: 'Théâtre', name: 'theatre', widget: 'string' }
+                - { label: 'Lien', name: 'lien', widget: 'string' }
+                - {
+                      label: 'Dates (texte affiché)',
+                      name: 'datestext',
+                      required: false,
+                      widget: 'string'
+                  }
+                - {
+                      label: 'Date début',
+                      name: 'datedebut',
+                      widget: 'datetime',
+                      date_format: 'DD.MM.YYYY'
+                  }
+                - {
+                      label: 'Date fin',
+                      name: 'datefin',
+                      widget: 'datetime',
+                      date_format: 'DD.MM.YYYY'
+                  }
 
+          - label: 'Images'
+            required: false
+            name: 'photos'
+            widget: 'list'
+            fields:
+                - { label: 'Image', name: 'photo', widget: 'image' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
+
+          - {
+                label: 'Générique',
+                name: 'generique',
+                required: false,
+                default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
+                widget: 'markdown'
+            }
+
+          - {
+                label: 'Texte',
+                name: 'body',
+                required: false,
+                widget: 'markdown',
+                default:
+                    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
+
+
+                    Vivamus non velit id dui tempor molestie in ac est. Sed sagittis nisi ut justo porta, a rhoncus leo varius. Maecenas ante elit, tempor id purus ut, fermentum gravida mi. Fusce vehicula fermentum eleifend. Donec sagittis arcu quis diam tincidunt, et vehicula arcu dapibus. Phasellus ex libero, aliquam ut ante a, placerat fermentum augue. Sed erat enim, molestie vitae augue vitae, sagittis ullamcorper libero. Cras scelerisque turpis orci, ac sagittis mauris lobortis id. Donec tincidunt arcu non massa rhoncus, sit amet sollicitudin mi dignissim. Aenean nec lacinia arcu. Suspendisse non consectetur nibh, sed aliquam eros. Vivamus non luctus urna. Donec aliquet fringilla elit, quis mattis orci fringilla pretium. Sed mattis magna ut metus porta posuere.
+                    '
+            }
     - name: 'spectacle'
       label: 'Spectacles'
       label_singular: 'Spectacle'
