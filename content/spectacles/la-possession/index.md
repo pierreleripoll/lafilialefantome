@@ -27,7 +27,34 @@ representations:
     theatre: Le Carreau du Temple, Paris (FR)
     lien: https://www.lecarreaudutemple.eu/evenements/la-possession/
     datestext: 28 - 30 octobre 2021
-generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-  scelerisque lacinia odio, ut vestibulum enim mattis varius.
+generique: >-
+  Texte et mise en scène : **François-Xavier Rouyer**\
+
+  Interprétation : **Pauline Belle, Romain Daroles, Mélina Martin, Julia Perazzini** \
+
+  Scénographie : **Hervé Coqueret** \
+
+  Collaboration artistique : **Mathias Brossard**\
+
+  Lumières : **Achille Dubau et Hervé Coqueret**\
+
+  Création son : **Charles-Edouard de Surville**\
+
+  Régie générale : **Achille Dubau**\
+
+  Régie son : **Simon Tylski**\
+
+  Costumes et chats : **Karine Marques Ferreira**\
+
+  Perruques : **Vivianne Lima**\
+
+  Administration **Marianne Aguado – ISKANDAR**
+
+
+  Production **La Filiale Fantôme, La Multinationale, Théâtre Nanterre-Amandiers** 
+
+  Coproductions **Théâtre Nanterre-Amandiers, Théâtre Saint-Gervais Genève, Théâtre Vidy-Lausanne, Centre Culturel Suisse de Paris**
+
+  Soutiens **Centre Culturel Suisse de Paris, Le Carreau du Temple, Fonds de dotation Porosus, Fondation Ernst Göhner, Pour-cent culturel Migros, Ville de Lausanne, Loterie Romande Vaud, Pro Helvetia-Fondation Suisse pour la Culture, Fondation Jan Michalski, SPEDIDAM (La SPEDIDAM est une société de perception et de distribution qui gère les droits des artistes interprètes en matière d’enregistrement de diffusion et de réutilisation des prestations enregistrées), La Corodis.**
 ---
 Écrit et mis en scène par François-Xavier Rouyer, cette pièce empruntant aussi bien au théâtre classique qu’au cinéma d’horreur place le spectateur devant une situation édifiante. Une femme vivant recluse se voit proposé un marché fantastique : sortir de son propre corps. Cette femme qui va voyager, migrer dans un rocher, dans une plante, dans une autre personne pourrait être une allégorie de la crise que traverse le monde occidental ; le symbole d’une génération sans passé et qui voit le futur lui échapper. Les quatre personnages qui se croisent dans *La Possession* n’ont plus de nom. Ils s’appellent première personne, deuxième personne, etc. Sans identité, comment se construire ? « Je » pourrais être un autre moi qui à son tour pourrait être un·e autre, une histoire sans fin où chacun·e avance à tâtons, ne sachant où aller, sur quel corps étranger se poser pour renaître.
