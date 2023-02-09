@@ -24,12 +24,24 @@ representations:
     datestext: 8 - 11 janvier 2020
 photos: []
 generique: >-
-  ### P﻿RODUCTION
+  ### C﻿RÉDITS
 
 
-  U﻿ne production faite avec amours. Si vous voulez venir nous voir soyez sympas.
+  Conception et interprétation **Romain Daroles**
 
 
-  [L﻿ien vers une photo cool.](https://www.tnp-villeurbanne.com/manifestation/lavare/)
+  Collaboration artistique **Mathias Brossard, François-Xavier Rouyer et Romain Daroles**
+
+
+  Accompagnement artistique **Michèle Pralong**
+
+
+  Production **La Filiale Fantôme**
+
+
+  Administration **ISKANDAR – Marianne Aguado**
+
+
+  Soutiens **Société Alba Gestion (Michel Bosio), Loterie Romande, La Corodis.**
 ---
 Romain Daroles, seul en scène, interprète une figure de professeur-conférencier inspirée de son parcours universitaire, occasion pour lui d’un précipité en forme d’hommage à quelques-uns de ses héros littéraires. Alors qu’il donne son dernier cours d’une longue série sur la notion de Vita Nova en littérature, il est pris d’un coup de folie gorgée d’érudition lorsqu’il pense avoir découvert l’implication d’un certain Louis Poirier dans la mort de l’auteur Roland Barthes.
