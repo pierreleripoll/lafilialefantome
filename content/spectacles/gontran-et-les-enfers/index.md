@@ -1,6 +1,6 @@
 ---
-title: Gontran et les enfers
-statut: En cours
+title: Vita Nova
+statut: Passé
 representations:
   - datedebut: 2021-11-18T16:57:07.768Z
     datefin: 2022-10-02T15:57:07.786Z
@@ -21,6 +21,4 @@ generique: >-
 
   [L﻿ien vers une photo cool.](https://www.tnp-villeurbanne.com/manifestation/lavare/)
 ---
-Un super spectacle avec Gontran qui va aux enfers.
-
-Vivamus non velit id dui tempor molestie in ac est. Sed sagittis nisi ut justo porta, a rhoncus leo varius. Maecenas ante elit, tempor id purus ut, fermentum gravida mi. Fusce vehicula fermentum eleifend. Donec sagittis arcu quis diam tincidunt, et vehicula arcu dapibus. Phasellus ex libero, aliquam ut ante a, placerat fermentum augue. Sed erat enim, molestie vitae augue vitae, sagittis ullamcorper libero. Cras scelerisque turpis orci, ac sagittis mauris lobortis id. Donec tincidunt arcu non massa rhoncus, sit amet sollicitudin mi dignissim. Aenean nec lacinia arcu. Suspendisse non consectetur nibh, sed aliquam eros. Vivamus non luctus urna. Donec aliquet fringilla elit, quis mattis orci fringilla pretium. Sed mattis magna ut metus porta posuere.
+Romain Daroles, seul en scène, interprète une figure de professeur-conférencier inspirée de son parcours universitaire, occasion pour lui d’un précipité en forme d’hommage à quelques-uns de ses héros littéraires. Alors qu’il donne son dernier cours d’une longue série sur la notion de Vita Nova en littérature, il est pris d’un coup de folie gorgée d’érudition lorsqu’il pense avoir découvert l’implication d’un certain Louis Poirier dans la mort de l’auteur Roland Barthes.
