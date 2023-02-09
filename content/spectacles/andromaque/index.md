@@ -7,47 +7,39 @@ representations:
     datestext: "2014"
     theatre: La Manufacture - Haute Ecoles des Arts de la scène, Lausanne (CH)
     lien: "https://www.manufacture.ch/ "
-  - datedebut: 2022-08-08T15:11:02.269Z
-    datefin: 2022-10-09T15:11:02.285Z
+  - datedebut: 2015-09-09T15:11:00.000Z
+    datefin: 2015-09-13T15:11:02.285Z
     theatre: New/Now Festival, Artistes Emergents Européens Amsterdam (NL)
     lien: https://newnow-festival.com/en
     datestext: 9 au 13 septembre 2015
-  - datedebut: 2023-10-07T15:11:02.269Z
-    datefin: 2023-10-09T15:11:02.285Z
-    theatre: Comédie de Geneve
-    lien: https://arsenic.ch/
-    datestext: Janvier 2023
-photos: []
+  - datedebut: 2016-02-19T16:11:02.269Z
+    datefin: 2016-04-10T15:11:02.285Z
+    theatre: Quartier Général, Centre d’Art Contemporain La-Chaux-de-Fonds (CH)
+    lien: https://www.guide-contemporain.ch/en/evenements/francois-xavier-rouyer-qg-chaux-de-fonds/
+    datestext: 19 février - 10 avril 2016
+photos:
+  - photo: thumbnail_160311103825yor-8_p1.jpg
+  - photo: thumbnail_capture-d’écran-2022-11-07-à-11.21.49.png
+  - photo: thumbnail_index.jpg
+  - photo: thumbnail_index2.jpg
 generique: >-
-  ### Distribution
+  ### Equipe
 
 
-  Une pièce de **Old Masters** 
+  Conception et réalisation : **François-Xavier Rouyer** \
+
+  Scénographie : **Hervé Coqueret** \
+
+  Conception logiciel : **Andrew Sempere** \
+
+  Montage image et son : **Frédéric-Pierre Saget** \
+
+  Collaboration artistique et administration : **Mathias Brossard**
 
 
-  Musique originale : **Nicholas Stücklin** 
+  Comédien.nes: 
 
 
-  Texte, mise en scène, scénographie, costumes, interprétation : **Sarah André, Marius Schaffter et Jérôme Stünzi** 
-
-
-  Création lumières : **Joana Oliveira** 
-
-
-  Collaboration artistique : **Anne Delahaye** 
-
-
-  Administration : **Laure Chapel – Pâquis production** 
-
-
-  Diffusion : **Tristan Barani** 
-
-
-  Co-production : **Le Grütli, Genève et Arsenic – Centre d’art scénique contemporain, Lausanne**
+  JULIEN ALEMBIK / TATIANA BAUMGARTNER / PIERA BELLATO KORALINE DE BAERE / ÉMILIE BLASER / ALAIN BOREK VINCENT BRAYER / MATHIAS BROSSARD / ÉMILIE CHARRIOT CYPRIEN COLOMBO / OCÉANE COURT / OLIVIA CSIKY TRNKA ROMAIN DAROLES / MEHDI DJAADI / TOMAS GONZALEZ MAXIME GORBATCHEVSKY / JUDITH GOUDAL / ALAIN GUERRY AGATHE HAZARD-RABOUD / MAGALI HEU / ARNAUD HUGUENIN CAROLINE IMHOF/ AURORE JECKER / LARA KHATTABI JONAS LAMBELET / MAUDE LANÇON / LOÏC LE MANAC’H MÉLINA MARTIN / CAMILLE MERMET / JEAN-FRANÇOIS MICHELET BAPTISTE MORISOD / AURÉLIEN PATOUILLARD / VIVIANE PAVILLON SELVI PÜRRO / LOLA RICCABONI / MARIE RIPOLL JEAN-BAPTISTE ROYBON / SIMON ROMANG / PAULINE SCHNEIDER SARAH-LISE SALOMON MAUFFROY / NASTASSJA TANNER RAPHAEL VACHOUX / MARGOT VAN HOVE / ÉMILIE VAUDOU ISABELLE VESSERON et LINA ET ELLA PÜRRO-MICHELET
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
-
-Vivamus non velit id dui tempor molestie in ac est. Sed sagittis nisi ut justo porta, a rhoncus leo varius. Maecenas ante elit, tempor id purus ut, fermentum gravida mi. Fusce vehicula fermentum eleifend. Donec sagittis arcu quis diam tincidunt, et vehicula arcu dapibus. Phasellus ex libero, aliquam ut ante a, placerat fermentum augue. Sed erat enim, molestie vitae augue vitae, sagittis ullamcorper libero. Cras scelerisque turpis orci, ac sagittis mauris lobortis id. Donec tincidunt arcu non massa rhoncus, sit amet sollicitudin mi dignissim. Aenean nec lacinia arcu. Suspendisse non consectetur nibh, sed aliquam eros. Vivamus non luctus urna. Donec aliquet fringilla elit, quis mattis orci fringilla pretium. Sed mattis magna ut metus porta posuere.
-
-Etiam ac semper lorem, sed bibendum est. Fusce massa tortor, ullamcorper sed mi ac, imperdiet vulputate justo. In cursus egestas orci, sed consectetur nunc tristique in. Duis interdum velit sit amet diam varius fringilla. Morbi suscipit dolor nisl, a sagittis mauris hendrerit blandit. Duis sit amet luctus turpis. Cras finibus diam at massa ultrices ultrices. Sed molestie ut nulla id vestibulum. Sed convallis libero ac lorem mollis porta. Nunc vulputate semper elit eget viverra. Fusce hendrerit eros molestie fermentum consectetur. Vivamus in euismod risus, sit amet eleifend orci. Vestibulum ornare euismod sapien sed aliquam. Aenean eu enim a nunc ultricies rutrum.
+Hôtel City est une installation d’art contemporain à la croisée du cinéma et du théâtre. Le spectateur pénètre dans une salle de surveillance laissée à l’abandon où de nombreux ordinateurs, écrans, cartes interactives sont en libre accès. Au spectateur de devenir acteur de l’œuvre et d’en résoudre les énigmes en enquêtant à l’intérieur même de l’installation, jungle de signes, de références, de fausses pistes et de symboles.
