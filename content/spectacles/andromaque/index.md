@@ -16,7 +16,7 @@ representations:
     datefin: 2016-04-10T15:11:02.285Z
     theatre: Quartier Général, Centre d’Art Contemporain La-Chaux-de-Fonds (CH)
     lien: https://www.guide-contemporain.ch/en/evenements/francois-xavier-rouyer-qg-chaux-de-fonds/
-    datestext: 19 février - 10 avril 2016
+    datestext: 19 février au 10 avril 2016
 photos:
   - photo: thumbnail_160311103825yor-8_p1.jpg
   - photo: thumbnail_capture-d’écran-2022-11-07-à-11.21.49.png
