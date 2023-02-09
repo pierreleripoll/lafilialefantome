@@ -2,16 +2,27 @@
 title: Vita Nova
 statut: Passé
 representations:
-  - datedebut: 2021-11-18T16:57:07.768Z
-    datefin: 2022-10-02T15:57:07.786Z
-    theatre: TNP Villeurbanne
-    lien: https://www.tnp-villeurbanne.com/
-    datestext: Hiver 2021
-photos:
-  - photo: large_metropolis_moc_blu-ray_1m-copie-.jpg
-    alt: Robot Metropolis
-  - photo: large_metropolis_moc_blu-ray_eye.jpg
-    alt: Oeil dans Metropolis
+  - datedebut: 2018-08-20T12:38:27.436Z
+    datefin: 2020-01-29T13:38:27.447Z
+    theatre: Far°, Nyon (CH)
+    lien: https://far-nyon.ch/a-propos/section-creation/creations-2018/copie-de-vita-nova.html
+    datestext: 20 - 21 août 2018
+  - datedebut: 2019-09-03T12:38:39.338Z
+    datefin: 2019-09-04T12:38:00.000Z
+    theatre: Théâtre Saint-Gervais Genève (CH)
+    lien: https://saintgervais.ch/spectacle/vita-nova/
+    datestext: 3 - 4 octobre 2019
+  - datedebut: 2023-02-09T13:38:39.769Z
+    datefin: 2023-02-09T13:38:39.786Z
+    theatre: Petithéâtre de Sion (CH)
+    lien: https://petitheatre.ch/
+    datestext: 5 - 6 octobre 2019
+  - datedebut: 2020-01-08T13:38:40.184Z
+    datefin: 2020-01-11T13:38:00.000Z
+    lien: https://vidy.ch/en/event/romain-daroles-vita-nova/
+    theatre: Théâtre Vidy-Lausanne (CH)
+    datestext: 8 - 11 janvier 2020
+photos: []
 generique: >-
   ### P﻿RODUCTION
 
