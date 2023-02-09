@@ -12,6 +12,21 @@ representations:
     theatre: Théâtre Saint-Gervais Genève (CH)
     lien: https://saintgervais.ch/spectacle/la-possession/
     datestext: 4 - 8 novembre 2020
+  - datedebut: 2021-11-21T13:59:19.961Z
+    datefin: 2021-11-28T13:59:00.000Z
+    theatre: Théâtre Nanterre-Amandiers, Nanterre (FR)
+    lien: https://nanterre-amandiers.com/evenement/la-possession-francois-xavier-rouyer/
+    datestext: 21 - 28 novembre 2021
+  - datedebut: 2021-10-20T13:00:29.762Z
+    datefin: 2021-10-24T13:00:00.000Z
+    theatre: Théâtre Saint-Gervais Genève (CH)
+    lien: https://saintgervais.ch/spectacle/la-possession-2/
+    datestext: 20 - 24 octobre 2021
+  - datedebut: 2021-10-28T13:01:20.466Z
+    datefin: 2021-10-30T13:01:20.481Z
+    theatre: Le Carreau du Temple, Paris (FR)
+    lien: https://www.lecarreaudutemple.eu/evenements/la-possession/
+    datestext: 28 - 30 octobre 2021
 generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
   scelerisque lacinia odio, ut vestibulum enim mattis varius.
 ---
