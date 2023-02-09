@@ -1,9 +1,12 @@
 ---
 title: Mathias Brossard
 photos:
-    - photo: brossard.jpg
-    - photo: mathias-brossard.jpg
-    - photo: f-fd0-54f847550719e.jpg
----
+  - photo: brossard.jpg
+  - photo: mathias-brossard.jpg
+  - photo: f-fd0-54f847550719e.jpg
+generique: |-
+  P﻿ROCHAINS PROJETS
 
-**Mathias Brossard** est metteur en scène et comédien. Il achève en 2015 son Bachelor de comédien à La Manufacture à Lausanne. Depuis sans cesser de jouer, il cultive son goût pour la mise en scène en assistant notamment Denis Maillefer, Nicolas Stemann, François Gremaud, Jean-Louis Johannides ou François-Xavier Rouyer. Il cofonde en 2014 avec François-Xavier Rouyer La Filiale Fantôme, structure qui permettra d’élaborer et de développer le projet transmédia *Hotel City* présenté à Lausanne, Amsterdam et La-Chaux-de-Fonds. Puis ils se retrouvent tous les deux pour une création scénique commune avec Romain Daroles, *Vita Nova*, présentée en août 2018 au far° à Nyon et actuellement en tournée. Au sein du Collectif CCC il développe une pratique théâtrale in situ, en initiant notamment un projet au long cours autour de Platonov de Tchekhov, créant chaque année un nouvel acte de la pièce avec une quinzaine de comédiens en plein air dans une forêt cévenole. Ou en s’attelant, dans le cadre de sa résidence 18-19 à l’Abri à Genève, à l’adaptation d’une BD de Brecht Evens, *Les Rigoles*, dont la forme finale devrait voir le jour au printemps 2021.
+  PERCHEE, Automne 2024
+---
+Mathias Brossard a grandi dans les Cévennes. Il se forme ensuite au jeu d’acteur à Paris au sein de l’École Charles Dullin et à La Manufacture à Lausanne tout en poursuivant en parallèle un cursus de philosophie à l’Université Paris 8. À sa sortie, il se tourne également vers la mise en scène en assistant Denis Maillefer, Nicolas Stemann et François Gremaud, ainsi qu’en développant ses premières créations. Il est partisan d’un théâtre décloisonné et cherche des manières d’occuper artistiquement et politiquement des lieux qui ne sont habituellement pas dévolus à recevoir des propositions artistiques. Il cofonde en 2014 La Filiale Fantôme avec Romain Daroles et François-Xavier Rouyer et intègre dès sa création, en 2015, le collectif CCC - ensemble de Comédiennes et Comédiens à Ciel ouvert qui partagent le goût pour une pratique épique d’un théâtre in situ. C’est avec ce collectif qu’il initie une série de laboratoires autour de *Platonov* de Tchekhov au cœur d’une forêt cévenole. En 2018, il collabore avec François-Xavier Rouyer sur *La Possession*, spectacle coproduit par le Théâtre Vidy-Lausanne et participe en 2021 au *Théâtre des futurs possibles*, qui vient clore un cycle de rencontres et d’expérimentation collective avec la philosophe Vinciane Despret. La même année, il met en scène *Les Rigoles*, l’adaptation d’une BD de Brecht Evens,, créé en mai 2021 dans différents espaces urbains et industriels aux alentours du TLH- Sierre.  En 2022, il finalise la mise en scène de *Platonov* d’Anton Tchekhov en coproduction avec le Théâtre Vidy-Lausanne et la Comédie de Genève. Il collabore également avec le collectif BPM pour *Vers l’oiseau Vert* créé à l’automne 22 à la Comédie de Genève et joue dans *Bundren !*, autre projet in situ du collectif CCC, mis en en scène par Loïc Le Manac’h.
