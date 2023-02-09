@@ -7,6 +7,16 @@ representations:
     theatre: Théâtre Les Halles, Sierre (CH)
     lien: https://www.theatre-leshalles.ch/
     datestext: 18 - 23 mai 2021
+  - datedebut: 2021-07-27T13:12:59.779Z
+    datefin: 2021-07-30T13:12:00.000Z
+    theatre: Théâtre L'Orangerie, Genève (CH)
+    lien: https://www.theatreorangerie.ch/
+    datestext: 27 - 30 juillet 2021
+  - datedebut: 2021-08-18T13:11:56.324Z
+    datefin: 2021-08-20T13:11:00.000Z
+    theatre: Far°, Nyon (CH)
+    lien: https://far-nyon.ch/festival/section-edition/programme-2021/les-rigoles.html
+    datestext: 18 - 20 août 2021
 generique: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
   scelerisque lacinia odio, ut vestibulum enim mattis varius.
 ---
