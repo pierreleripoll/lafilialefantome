@@ -3,12 +3,7 @@ title: Collectif CCC
 photos:
   - photo: 325x283-mag17-32_0.jpg
 ---
-À notre sortie de La Manufacture nous nous sommes réunis une première fois pour une adaptation du roman de Boulgakov, *Le Maître et Marguerite*, mis en scène sur un parking par Loïc Le Manac'h et Margot Van Hove.\
-Ce projet nous a fait découvrir et explorer le potentiel insoupçonné d'un théâtre in situ, à même le goudron et les murs des immeubles environnants.
-
-L’ensemble de Comédiennes et Comédiens à Ciel ouvert, notre collectif CCC, est né de cet enthousiasme à faire théâtre de tout avec presque rien, à le faire en groupe, en confrontant le texte choisi aux aléas du réel.\
-Suite à cette expérience, je leur ai proposé de recommencer dans un contexte différent, en pleine nature, dans l'écrin d'une hêtraie cévenole, une des régions les plus rurales et les moins peuplées du sud du Massif central, là où j'ai grandi. Ça a été le point de départ d'une aventure qui a duré plus de 6 ans. Chaque été, de 2016 à 2020, nous nous sommes retrouvés pour monter un acte de Platonov. Il nous aura donc fallu cinq étés pour traverser toute la pièce et aboutir à la version que nous allons déployer cet automne dans une forêt genevoise.
-
-N﻿on et puis vraiment c'est un super collectif ! Vous avez vu Platonov ?
-
-V﻿oilà ici je fais une modification qui sera sauvegardée :)
+Le collectif CCC – ensemble de Comédiennes et Comédiens à Ciel ouvert est né en 2015. Il rassemble une quinzaine d'acteur-ices, pour la plupart, issu-es de La Manufacture – Haute Ecole des Arts de la scène de Suisse Romande. C’est la volonté d'explorer les codes et les possibles d'un théâtre dit in situ, à même la ville, à même la campagne, et de le faire ensemble et en nombre, qui est à l'origine de la création de ce collectif.
+Choisir des espaces ouverts, parfois immenses, des espaces changeants selon la météo ou selon leur occupation humaine ou animale, y répéter, y vivre, s'en inspirer. Chercher à déployer les possibilités qu'ils offrent (profondeur de champ, reliefs et différentes hauteurs, absence de hors-champ, emploi de véhicules, poésie des imprévus, simultanéité des actions, etc.) en y confrontant une oeuvre littéraire à adapter sur place. Revendiquer notre goût pour une forte présence de comédien-nes à la scène, rendue nécessaires par la démesure des espaces de jeu et l'engagement physique que requiert leur peuplement narratif.
+Un ou plusieurs membres de l'ensemble peut à tout moment proposer un nouveau projet et en assumer la mise en scène et la conception. Les metteur-ses en scène étant donc appelée à varier d'un spectacle à l'autre.
+Les différentes créations sont portés en coproduction entre l'ensemble CCC et la compagnie du, de la ou des porteur-ses de projet.
