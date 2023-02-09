@@ -25,6 +25,8 @@ representations:
 photos:
   - photo: far-nyon-extra-time-julien-gremaud-2018-hd-100.jpg
     alt: © Julien Gremaud
+  - photo: far-nyon-extra-time-julien-gremaud-2018-hd-105.jpg
+    alt: © Julien Gremaud
 generique: >-
   ### C﻿RÉDITS
 
