@@ -4,26 +4,20 @@ statut: Passé
 representations:
   - datedebut: 2014-09-10T12:01:00.000Z
     datefin: 2014-09-30T15:10:18.879Z
-    datestext: "En 2014? 2015? "
+    datestext: "2014"
     theatre: La Manufacture - Haute Ecoles des Arts de la scène, Lausanne (CH)
     lien: "https://www.manufacture.ch/ "
   - datedebut: 2022-08-08T15:11:02.269Z
     datefin: 2022-10-09T15:11:02.285Z
-    theatre: Arsenic
-    lien: https://arsenic.ch/
-    datestext: 7, 8 et 9 octobre
+    theatre: New/Now Festival, Artistes Emergents Européens Amsterdam (NL)
+    lien: https://newnow-festival.com/en
+    datestext: 9 au 13 septembre 2015
   - datedebut: 2023-10-07T15:11:02.269Z
     datefin: 2023-10-09T15:11:02.285Z
     theatre: Comédie de Geneve
     lien: https://arsenic.ch/
     datestext: Janvier 2023
-photos:
-  - photo: 20201023-la-possession-©samuelrubio-29-web.jpg
-    alt: Scénographie de test
-  - photo: 20201023-la-possession-©samuelrubio-45-web.jpg
-    alt: Hamlet est en période
-  - photo: 20201023-la-possession-©samuelrubio-51-web.jpg
-  - photo: l_evefuture__alinepaley-5561-2-150x150.jpg
+photos: []
 generique: >-
   ### Distribution
 
