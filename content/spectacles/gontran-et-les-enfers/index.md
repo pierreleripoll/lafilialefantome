@@ -22,7 +22,9 @@ representations:
     lien: https://vidy.ch/en/event/romain-daroles-vita-nova/
     theatre: Théâtre Vidy-Lausanne (CH)
     datestext: 8 - 11 janvier 2020
-photos: []
+photos:
+  - photo: far-nyon-extra-time-julien-gremaud-2018-hd-100.jpg
+    alt: © Julien Gremaud
 generique: >-
   ### C﻿RÉDITS
 
