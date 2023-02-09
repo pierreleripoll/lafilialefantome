@@ -4,17 +4,12 @@ photos:
   - photo: petits-cubes-600x360.jpg
   - photo: f-bf5-56a3bda067477.jpg
   - photo: romain_daroles_5407.jpg
-generique: >-
+generique: |-
   ### Prochains projets
 
-
-  ﻿KIAC ONSEN MIRACLE TALE **[A﻿ndromaque](/spectacles/andromaque/)**Ars Nova - Création 2024 
-
-
-
+  Ars Nova - Création 2024 
 
   ### *C﻿ontact*
-
 
   *f﻿rancois-xavier@gmail.com*
 ---
