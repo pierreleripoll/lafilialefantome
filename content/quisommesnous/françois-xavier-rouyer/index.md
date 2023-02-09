@@ -5,18 +5,14 @@ photos:
     alt: François Xavier penseur
   - photo: fx_2.jpeg
     alt: FX au soleil
-generique: >-
+generique: |-
   ### Prochains projets
 
-
-  ﻿KIAC ONSEN MIRACLE TALE **[A﻿ndromaque](/spectacles/andromaque/)**du 1er au 20 mars 2023 
-
+  ﻿KIAC ONSEN MIRACLE TALE du 1er au 20 mars 2023 
 
   *E﻿nseignement à la **Manufacture** printemps 2023*
 
-
   ### *C﻿ontact*
-
 
   *f﻿rancois-xavier@gmail.com*
 ---
