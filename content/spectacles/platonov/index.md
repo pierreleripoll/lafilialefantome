@@ -1,5 +1,5 @@
 ---
-title: Platonov
+title: Platonov (2022)
 statut: En cours
 representations:
   - datedebut: 2022-06-14T13:16:54.491Z
