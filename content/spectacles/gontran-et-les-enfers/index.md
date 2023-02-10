@@ -12,8 +12,8 @@ representations:
     theatre: Théâtre Saint-Gervais Genève (CH)
     lien: https://saintgervais.ch/spectacle/vita-nova/
     datestext: 3 - 4 octobre 2019
-  - datedebut: 2023-02-09T13:38:39.769Z
-    datefin: 2023-02-09T13:38:39.786Z
+  - datedebut: 2019-10-05T12:38:39.769Z
+    datefin: 2019-10-05T12:38:00.000Z
     theatre: Petithéâtre de Sion (CH)
     lien: https://petitheatre.ch/
     datestext: 5 - 6 octobre 2019
