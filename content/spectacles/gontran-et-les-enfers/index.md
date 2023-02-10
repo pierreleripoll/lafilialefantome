@@ -1,5 +1,5 @@
 ---
-title: Vita Nova
+title: Vita Nova (2018)
 statut: Passé
 representations:
   - datedebut: 2018-08-20T12:38:27.436Z
