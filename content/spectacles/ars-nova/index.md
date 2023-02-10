@@ -1,5 +1,5 @@
 ---
-title: "Ars Nova "
+title: Ars Nova (2024)
 statut: En cours
 photos:
   - photo: 11-37474-.png
