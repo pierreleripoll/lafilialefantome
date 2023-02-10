@@ -63,17 +63,17 @@ generique: >-
 
 ### L﻿a presse en parle...
 
-« En transposant les codes du cinéma d’horreur à la scène, François-Xavier Rouyer et ses formidables comédiens vous invitent à vivre une métempsychose en direct. »
-	La Tribune de Genève - Katia Berger - Oct.2021
+« *En transposant les codes du cinéma d’horreur à la scène, François-Xavier Rouyer et ses formidables comédiens vous invitent à vivre une métempsychose en direct.* »\
+La Tribune de Genève - Katia Berger - Oct.2021
 
-«Les âmes permutent dans les corps des autres, les personnages sont pris au piège comme dans un jeu de miroirs dont ils ne peuvent sortir. Il faut un talent fou pour réus-sir à feindre de s’intégrer dans d’autres corps, plus encore pour nous faire comprendre qui est qui. Le quatuor de comédiens réuni par François-Xavier Rouyer y parvient avec brio, comblant les failles d’un texte angoissant mais aux raccourcis idéologiques parfois un peu faciles, porté par une mise en scène épurée, intelligente et efficace. » 
-	Transfuge - Marjorie Bertin - Nov. 2021 
+«*Les âmes permutent dans les corps des autres, les personnages sont pris au piège comme dans un jeu de miroirs dont ils ne peuvent sortir. Il faut un talent fou pour réus-sir à feindre de s’intégrer dans d’autres corps, plus encore pour nous faire comprendre qui est qui. Le quatuor de comédiens réuni par François-Xavier Rouyer y parvient avec brio, comblant les failles d’un texte angoissant mais aux raccourcis idéologiques parfois un peu faciles, porté par une mise en scène épurée, intelligente et efficace.* » \
+Transfuge - Marjorie Bertin - Nov. 2021 
 
-« La puissance magnétique de François-Xavier Rouyer. Le dramaturge et metteur en scène donne naissance à une fable horrifique. Portée par un quatuor de comédiens bluffants, elle saisit autant par l’effroi qu’elle provoque que par sa puissance réflexive ». 
-	Scène web magazine - Vincent Bouquet - Nov. 2021
+« *La puissance magnétique de François-Xavier Rouyer. Le dramaturge et metteur en scène donne naissance à une fable horrifique. Portée par un quatuor de comédiens bluffants, elle saisit autant par l’effroi qu’elle provoque que par sa puissance réflexive* ». \
+Scène web magazine - Vincent Bouquet - Nov. 2021
 
-« Déjà excellent dans Phèdre ! de François Gremaud, Romain Daroles, méconnaissable, pétrifie en sorcier des temps modernes, ca-pable de transformer le trio féminin qui lui fait face en marionnettes sous emprise »
-	 I/O  Gazette - Victor Inisan - Nov. 2020
+« *Déjà excellent dans Phèdre ! de François Gremaud, Romain Daroles, méconnaissable, pétrifie en sorcier des temps modernes, capable de transformer le trio féminin qui lui fait face en marionnettes sous emprise* »\
+I/O  Gazette - Victor Inisan - Nov. 2020
 
-« Dans La Possession, François-Xavier Rouyer, à l’écriture et à la mise en scène, glisse un motif fantastique – des humains capables de posséder ce qui les entoure –  dans un univers psychologique, avec un accent presque social. De quoi offrir à cette Possession l’aura de ces spectacles qui conditionnent le chemin du retour et restent durablement en mémoire.» 
-	Scène-Web France - Vincent Bouquet - Oct. 2021
+« *Dans La Possession, François-Xavier Rouyer, à l’écriture et à la mise en scène, glisse un motif fantastique – des humains capables de posséder ce qui les entoure –  dans un univers psychologique, avec un accent presque social. De quoi offrir à cette Possession l’aura de ces spectacles qui conditionnent le chemin du retour et restent durablement en mémoire.*» \
+Scène-Web France - Vincent Bouquet - Oct. 2021
