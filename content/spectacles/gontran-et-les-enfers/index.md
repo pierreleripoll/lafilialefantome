@@ -43,7 +43,7 @@ generique: >-
   Production **La Filiale Fantôme**
 
 
-  Administration **ISKANDAR – Marianne Aguado**
+  Administration **Marianne Aguado - ISKANDAR**
 
 
   Soutiens **Société Alba Gestion (Michel Bosio), Loterie Romande, La Corodis.** 
