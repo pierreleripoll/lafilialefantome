@@ -1,5 +1,5 @@
 ---
-title: Restaurer le Mont-Blanc
+title: Restaurer le Mont-Blanc (2025)
 statut: Futur
 generique: Conception et porteur du projet François-Xavier Rouyer
 ---
