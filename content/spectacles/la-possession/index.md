@@ -61,7 +61,7 @@ generique: >-
 
 
 
-### L﻿a presse en parle...
+## L﻿a presse en parle...
 
 « *En transposant les codes du cinéma d’horreur à la scène, François-Xavier Rouyer et ses formidables comédiens vous invitent à vivre une métempsychose en direct.* »\
 La Tribune de Genève - Katia Berger - Oct.2021
