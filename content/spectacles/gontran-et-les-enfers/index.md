@@ -53,18 +53,16 @@ generique: >-
 ---
 Romain Daroles, seul en scène, interprète une figure de professeur-conférencier inspirée de son parcours universitaire, occasion pour lui d’un précipité en forme d’hommage à quelques-uns de ses héros littéraires. Alors qu’il donne son dernier cours d’une longue série sur la notion de Vita Nova en littérature, il est pris d’un coup de folie gorgée d’érudition lorsqu’il pense avoir découvert l’implication d’un certain Louis Poirier dans la mort de l’auteur Roland Barthes.
 
-
-
 ## L﻿a presse en parle...
 
-«Truffé de références littéraires, ce bijou scénique brille par sa drôlerie enrobée d’érudition » 
-	Tribune de Genève -Natacha Rossel - Janv.2020
+« ***Truffé de références littéraires, ce bijou scénique brille par sa drôlerie enrobée d’érudition*** » \
+Tribune de Genève -Natacha Rossel - Janv.2020
 
-«Ce succès qu’il doit à son talent \[…] ce seul en scène est un bijou de malice »
-	 RTS Radio – Philippe Sartoretti - Janv. 2020
+« ***Ce succès qu’il doit à son talent \[…] ce seul en scène est un bijou de malice*** »\
+RTS Radio – Philippe Sartoretti - Janv. 2020
 
-« Un spectacle qui emprunte au monde universitaire, un ton vieux prof interprété par un comédien précis. Juste et souriant, ravi et vraiment heureux d’être sur scène. Une heure de promenade réussie dans les souvenirs de fac du public.  »
-	La Pépinière - Jacques Salin - Oct.2019
+« ***Un spectacle qui emprunte au monde universitaire, un ton vieux prof interprété par un comédien précis. Juste et souriant, ravi et vraiment heureux d’être sur scène. Une heure de promenade réussie dans les souvenirs de fac du public.***  »\
+La Pépinière - Jacques Salin - Oct.2019
 
-«L’un de ses plus beaux fruits, tombé de l’arbre fait partie de cette richette programmation, avec une création qui fait la part belle à une autre passion du jeune homme»
-	Journal Matin Dimanche - Août 2018
+« ***L’un de ses plus beaux fruits, tombé de l’arbre fait partie de cette richette programmation, avec une création qui fait la part belle à une autre passion du jeune homme.*** »\
+Journal Matin Dimanche - Août 2018
