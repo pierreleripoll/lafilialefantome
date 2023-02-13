@@ -43,3 +43,9 @@ generique: >-
   JULIEN ALEMBIK / TATIANA BAUMGARTNER / PIERA BELLATO KORALINE DE BAERE / ÉMILIE BLASER / ALAIN BOREK VINCENT BRAYER / MATHIAS BROSSARD / ÉMILIE CHARRIOT CYPRIEN COLOMBO / OCÉANE COURT / OLIVIA CSIKY TRNKA ROMAIN DAROLES / MEHDI DJAADI / TOMAS GONZALEZ MAXIME GORBATCHEVSKY / JUDITH GOUDAL / ALAIN GUERRY AGATHE HAZARD-RABOUD / MAGALI HEU / ARNAUD HUGUENIN CAROLINE IMHOF/ AURORE JECKER / LARA KHATTABI JONAS LAMBELET / MAUDE LANÇON / LOÏC LE MANAC’H MÉLINA MARTIN / CAMILLE MERMET / JEAN-FRANÇOIS MICHELET BAPTISTE MORISOD / AURÉLIEN PATOUILLARD / VIVIANE PAVILLON SELVI PÜRRO / LOLA RICCABONI / MARIE RIPOLL JEAN-BAPTISTE ROYBON / SIMON ROMANG / PAULINE SCHNEIDER SARAH-LISE SALOMON MAUFFROY / NASTASSJA TANNER RAPHAEL VACHOUX / MARGOT VAN HOVE / ÉMILIE VAUDOU ISABELLE VESSERON et LINA ET ELLA PÜRRO-MICHELET
 ---
 Hôtel City est une installation d’art contemporain à la croisée du cinéma et du théâtre. Le spectateur pénètre dans une salle de surveillance laissée à l’abandon où de nombreux ordinateurs, écrans, cartes interactives sont en libre accès. Au spectateur de devenir acteur de l’œuvre et d’en résoudre les énigmes en enquêtant à l’intérieur même de l’installation, jungle de signes, de références, de fausses pistes et de symboles.
+
+
+
+[Découvrez notre nouveau teaser en cliquant ici.](https://www.youtube.com/watch?v=mWCpUQZMc_g)
+
+![]()
