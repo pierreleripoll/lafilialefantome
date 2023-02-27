@@ -1,0 +1,86 @@
+<div>
+    <div class="row-logo first-row-logo">
+        <div class="block-logo"></div>
+        <div class="block-logo">
+            <h1 class="align-right title-logo ">la</h1>
+        </div>
+    </div>
+    <div class="row-logo second-row-logo">
+        <div class="block-logo"></div>
+        <div class="block-logo"><h1 class="title-logo">Filiale</h1></div>
+    </div>
+    <div class="row-logo third-row-logo">
+        <div class="block-logo"><h1 class="title-logo">Fantôme</h1></div>
+        <div class="block-logo"></div>
+    </div>
+</div>
+
+<style>
+    .title-logo {
+        font-size: 3em;
+        font-weight: 100;
+        color: rgb(30,30,30);
+    }
+
+    .align-right {
+        text-align: right;
+    }
+
+    .row-logo {
+        width: 100%;
+        height: 150px;
+    }
+
+    .row-logo .block-logo:first-child{
+         width:45%;
+    }
+
+    .row-logo .block-logo:last-child{
+        width:55%;
+    }
+
+    .block-logo {
+        height: 100%;
+        float: left;
+    }
+
+    .first-row-logo div:first-child{
+        border-bottom: solid 18px;
+    }
+
+    .first-row-logo div:last-child{
+        border-top: solid 18px;
+        border-right: solid 18px;
+        border-bottom: solid 18px;
+    }
+
+    .second-row-logo div:first-child{
+        border-bottom: solid 18px;
+        border-left:  solid 18px;
+    }
+
+    .second-row-logo div:last-child{
+        border-right: solid 18px;
+    }
+
+    .third-row-logo div:first-child{
+        border-left:  solid 18px;
+    }
+{{/*
+    .third-row-logo div:last-child{
+    }  */}}
+
+
+
+    {{/*  .first-row-logo {
+        border-bottom: solid 18px;
+    }
+
+    .second-row-logo {
+        border-bottom: solid 18px;
+    }
+
+    .third-row-logo {
+        border-bottom: solid 18px;
+    }  */}}
+</style>

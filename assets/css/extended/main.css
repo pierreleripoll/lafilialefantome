@@ -1,12 +1,13 @@
 :root {
-    --main-bg: #ffeabe8a;
+    --main-bg: #fffffff;
     --underline-theme: 2px underline double var(--theme);
-    --theme: #5f87c9;
+    --theme: rgb(30, 30, 30);
     --radius: 0deg;
     --title-effect: drop-shadow(4px 2px 0.5px var(--theme));
     --main-border: 5px solid;
     --main-padding: 50px;
     --main-width: calc(var(--nav-width) + 25vw);
+    --title-logo-boder: 18px solid var(--theme);
 }
 
 .title-effect {
@@ -25,29 +26,37 @@ a.active {
 
 @media screen and (min-width: 600px) and (max-width: 1000px) {
     body {
-        max-width: 90vw;
+        max-width: 100vw;
     }
 }
 @media screen and (max-width: 600px) {
     body {
-        max-width: 85vw;
+        max-width: 100vw;
     }
 }
 
 @media screen and (min-width: 1000px) and (max-width: 1407px) {
     body {
-        max-width: 85vw;
+        max-width: 100vw;
     }
 }
 @media screen and (min-width: 1407px) {
     body {
-        max-width: 85vw;
+        max-width: 100vw;
     }
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Light';
+    src: url('/fonts/HelveticaNeue-Light.woff2') format('woff2'),
+        url('/fonts/HelveticaNeue-Light.ttf') format('ttf');
 }
 body {
     background-color: var(--main-bg);
-    margin: 1vh auto;
-    font-family: 'Neue Haas Unica Pro', Arial, sans-serif;
+    margin: auto auto;
+    font-family: 'Helvetica Neue Light', 'Neue Haas Unica Pro', Arial,
+        sans-serif;
+    scrollbar-width: thin;
 }
 
 .logo {
