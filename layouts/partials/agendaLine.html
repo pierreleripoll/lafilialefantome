@@ -1,13 +1,9 @@
 <li>
-    <a
-        class="representation"
-        href="{{ .lienspectacle }}"
-        title="{{ .theatre | default "Lien théâtre" }}"
-    >
+    <a class="representation" href="{{ .lienspectacle }}">
         <span class="left">
-            <h4>
+            <h2 class="secondary-header">
                 {{ .name }}
-            </h4>
+            </h2>
             <span class="dates">
                 {{ .theatre }}
             </span>

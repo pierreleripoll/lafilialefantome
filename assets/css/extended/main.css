@@ -2,6 +2,8 @@
     --main-bg: #fffffff;
     --underline-theme: 3px underline solid var(--theme);
     --underline-theme-offset: 4px;
+    --underline-theme-hover: 1px underline solid var(--theme);
+    --underline-theme-hover-offset: 3px;
     --theme: rgb(30, 30, 30);
     --radius: 0deg;
     --title-effect: drop-shadow(4px 2px 0.5px var(--theme));
@@ -11,9 +13,11 @@
     --main-padding: 50px;
     --title-logo-boder: 18px solid var(--theme);
     --row-logo-height: 100px;
-    --h1-size: 3em;
+    --h1-size: 3rem;
     --h1-weight: 100;
-    --h2-size: 1.5em;
+    --h2-weight: 100;
+    --h2-size: 1.4rem;
+    --header-padding-top: 80px;
 }
 
 .title-effect {
@@ -22,8 +26,8 @@
 }
 
 a:hover {
-    text-decoration: 2px underline wavy var(--theme);
-    text-underline-offset: 3px;
+    text-decoration: var(--underline-theme-hover);
+    text-underline-offset: var(--underline-theme-hover-offset);
     text-decoration-skip-ink: none;
 }
 a.active {
@@ -68,6 +72,7 @@ body {
     margin: auto auto;
     font-family: 'Helvetica Neue Light', 'Neue Haas Unica Pro', Arial,
         sans-serif;
+    font-size: var(--main-font-size);
 }
 
 .logo {
@@ -99,6 +104,7 @@ body {
     margin: 0;
     padding: 1px;
     padding-left: var(--logo-border-size);
+    justify-content: space-between;
 }
 
 .content {

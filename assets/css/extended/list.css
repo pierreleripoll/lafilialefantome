@@ -85,3 +85,11 @@
 .entry-content .saison :is(h1, h2, h3, h4, h5, h6) {
     text-align: right;
 }
+
+.post-entry:hover .entry-content .secondary-header {
+    text-decoration: var(--underline-theme-hover);
+}
+
+.content h1:not(:first-child) {
+    margin-top: var(--header-padding-top);
+}
