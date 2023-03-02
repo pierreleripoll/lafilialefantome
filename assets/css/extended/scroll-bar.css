@@ -24,38 +24,11 @@
     background: none;
 }
 
-/* from post-single */
-.post-content .highlighttable td .highlight pre code::-webkit-scrollbar {
-    display: none;
-}
-
-.post-content :not(table) ::-webkit-scrollbar-thumb {
-    border: none;
-    background: none;
-}
-
-.post-content :not(table) ::-webkit-scrollbar-thumb:hover {
-    background: none;
-}
-
-.gist table::-webkit-scrollbar-thumb {
-    border: none;
-    background: none;
-}
-
-.gist table::-webkit-scrollbar-thumb:hover {
-    background: none;
-}
-
-.post-content table::-webkit-scrollbar-thumb {
-    border: none;
-}
-
 /* from zmedia */
 @media screen and (min-width: 768px) {
     /* reset */
     ::-webkit-scrollbar {
-        width: 19px;
+        width: var(--logo-border-size);
         height: 11px;
     }
 }

@@ -43,14 +43,15 @@
 .entry-photo {
     width: 600px;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: right;
+    flex-shrink: 0;
 }
 
 .entry-photo img {
     height: 100%;
     width: auto;
-    max-height: 300px;
+    max-height: 350px;
     max-width: 500px;
 }
 
@@ -63,6 +64,8 @@
 
     font-size: medium;
     text-align: right;
+    margin: 0;
+    max-width: 600px;
     /* gap: 100px 10px; */
 }
 
