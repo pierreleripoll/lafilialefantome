@@ -20,6 +20,10 @@
     --header-padding-top: 80px;
 }
 
+html {
+    overflow: hidden;
+}
+
 .title-effect {
     filter: var(--title-effect);
     font-weight: 600;
