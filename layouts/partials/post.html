@@ -28,7 +28,12 @@
 
       {{ $photoOne := index $photos 0 }}
       {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
-      {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $photoRessource.Width $photoRessource.Height)}}
+      {{ $aspectRatio := div (float $photoRessource.Height) (float $photoRessource.Width) }}
+
+      {{ $newWidth := int (math.Min $photoRessource.Width 800)}}
+      {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio) )}}
+
+      {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q90 CatmullRom" $newWidth $newHeight)}}
 
     <div class ="entry-photo"> 
       <a
