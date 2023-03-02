@@ -7,6 +7,8 @@ representations:
     theatre: Kinosaki Art Center, Toyooka (JP)
     lien: http://kiac.jp/en/artist/727/
     datestext: 1 - 20 mars 2023
+photos:
+  - photo: simonbandeau_carre.jpg
 generique: >-
   Conception et mise en scène **François Xavier-Rouyer**\
 
