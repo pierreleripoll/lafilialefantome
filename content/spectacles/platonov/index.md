@@ -17,6 +17,10 @@ representations:
     theatre: Théâtre de Mende / Scènes Croisées de Lozère
     lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
     datestext: 24 - 25 juin 2023
+photos:
+  - photo: large_metropolis_moc_blu-ray_eye.jpg
+  - photo: large_days_of_heaven_blu-ray1x.jpg
+  - photo: large_nausicaa_valley_wind_blu-ray_4.jpg
 generique: >-
   Texte **Anton Tchekhov** \
 
