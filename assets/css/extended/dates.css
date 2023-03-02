@@ -21,10 +21,14 @@ a.representation {
 }
 
 a.representation .right {
-    text-align: right;
+    text-align: end;
 }
 
-.saison:not(:first-child) {
+a.representation .lieu {
+    text-align: end;
+}
+
+.agenda .saison:not(:first-child) {
     margin-top: var(--header-padding-top);
 }
 

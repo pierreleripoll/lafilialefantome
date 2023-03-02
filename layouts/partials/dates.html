@@ -1,5 +1,8 @@
 {{ if isset .Params "representations" }}
-    {{ $representations := sort .Params.Representations "datefin" }}
+
+
+
+    {{ $representations := sort .Params.Representations "datefin" "desc" }}
 
     {{ $used := slice }}
 
@@ -40,7 +43,7 @@
         <div class="saison">
             {{/*  <h3>Saisons passées</h3>  */}}
             <ul class="representations">
-                {{- range $index, $representation := $representations }}
+                {{- range $index, $representation := sort $representations "datefin" "desc"}}
                     {{ if not ( in $used $index) }}
                         {{ partial "dateLine.html" $representation }}
                     {{- end }}
