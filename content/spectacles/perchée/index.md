@@ -1,6 +1,9 @@
 ---
 title: Perchée (2024)
 statut: Futur
+photos:
+  - photo: large_twin_peaks_fire_walk_blu-ray_2x.jpg
+    alt: David Lynch's finest
 generique: Mise en scène Mathias Brossard
 ---
 Sur invitation du Théâtre Am Stram Gram de Genève, Mathias Brossard travaille sur un nouveau projet in situ à destination du tout public. *Perchée (titre provisoire)* sera une adaptation du *Baron perché* d’Italo Calvino revisité au prisme des luttes écologiques actuelles. Le spectacle sera joué en majeure partie en hauteur dans les arbres au-dessus du public. 
