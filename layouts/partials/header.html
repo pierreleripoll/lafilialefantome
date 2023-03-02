@@ -1,60 +1,15 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-{{/*  <link href="https://fonts.googleap    is.com/css2?family=Amarante&display=swap" rel="stylesheet">   */}}
-{{/*  <link href="/fonts/Apercu-Light.woff2" rel="stylesheet"> 
-<link href="/fonts/Apercu-Regular.woff2" rel="stylesheet"> 
-<link href="/fonts/Apercu-Bold.woff2" rel="stylesheet">   */}}
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+{{/* <link href="https://fonts.googleap    is.com/css2?family=Amarante&display=swap" rel="stylesheet"> */}}
+{{/* <link href="/fonts/Apercu-Light.woff2" rel="stylesheet">
+    <link href="/fonts/Apercu-Regular.woff2" rel="stylesheet">
+    <link href="/fonts/Apercu-Bold.woff2" rel="stylesheet">
+*/}}
 
-<link rel="icon" href="/favicon.ico">
 
+<link rel="icon" href="/favicon.ico" />
 
 <header class="header">
     {{ partial "logo.html" . }}
 
-    <nav class="nav">
-        
-        
-        {{- $currentPage := . }}
-        <div class="menuContainer">
-            <ul id="menu" class="menu">
-                {{- range site.Menus.main }}
-                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
-                {{- $page_url:= $currentPage.Permalink | absLangURL }}
-                {{- $sectionId := .Identifier}}
-
-                {{- $sublinks := where site.RegularPages "Section" $sectionId}}
-                {{- $hasSubmenu := ge (len $sublinks) 1 }}
-                {{ $isNotMainSection := not (in site.Params.mainSections $sectionId )}}
-
-                
-                {{/* {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }} */}}
-                <li>
-                    <a href="{{- cond (and $hasSubmenu $isNotMainSection) `/` .URL  }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond (and $hasSubmenu $isNotMainSection) ` noLink` `` }} {{- cond (in $page_url
-                        $menu_item_url) ` active` `` }}" title=" {{ .Title | default .Name }}">
-
-                        <span>
-                            {{- .Pre }}
-                            {{- .Name -}}
-                            {{ .Post -}}
-                        </span>
-                    </a>
-                    {{- if $hasSubmenu}}
-                    <ul class="submenu">
-                        {{- range $sublinks}}
-                        <li>
-                            <a href="{{ .RelPermalink  }}" class="{{- cond (in $page_url .RelPermalink) `
-                                active` `` }}" title="{{ .Title | default .Name }}">
-                                <span>
-                                    {{- .Name -}}
-                                </span>
-                        </li>
-                        {{- end}}
-                    </ul>
-                    {{- end}}
-                </li>
-                {{- end }}
-            </ul>
-        </div>
-
-    </nav>
 </header>

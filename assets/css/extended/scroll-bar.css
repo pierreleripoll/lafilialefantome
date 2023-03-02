@@ -8,7 +8,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: none;
+    background: var(--theme);
     border: none;
 }
 
@@ -17,7 +17,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: none;
+    background: var(--theme);
 }
 
 ::-webkit-scrollbar:not(.highlighttable, .highlight table, .gist .highlight) {

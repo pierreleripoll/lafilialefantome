@@ -6,7 +6,7 @@
     {{- end }}
 
 
-    <h1 class="list-title">Projets en cours</h1>
+    <h1 class="main-header list-title">en développement</h1>
 
     {{- range where $pages "Params.statut" "En cours" }}
 
@@ -14,7 +14,7 @@
     {{- end }}
 
 
-    <h1 class="list-title">Projets à venir</h1>
+    <h1 class="main-header list-title">à venir</h1>
 
     {{- range where $pages "Params.statut" "Futur" }}
 
@@ -22,7 +22,7 @@
     {{- end }}
 
 
-    <h1 class="list-title">Projets passés</h1>
+    <h1 class="main-header list-title">passés</h1>
 
     {{- range where $pages "Params.statut" "Passé" }}
 

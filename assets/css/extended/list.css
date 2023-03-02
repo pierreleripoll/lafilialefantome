@@ -59,7 +59,9 @@
 .list-title {
     margin-bottom: 1em;
     text-align: right;
-    text-transform: uppercase;
+    text-decoration: var(--underline-theme);
+    text-underline-offset: var(--underline-theme-offset);
+    text-decoration-skip-ink: none;
 }
 .list-entry {
     /* background: #fff; */
