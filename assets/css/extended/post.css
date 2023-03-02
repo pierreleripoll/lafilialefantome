@@ -1,11 +1,9 @@
-.post-title {
-    margin-bottom: calc(2vh + 10px);
-    font-size: 60px;
-    text-transform: uppercase;
+.post-single .secondary-header {
+    text-align: end;
+    margin-bottom: 3em;
 }
-
-.post-title.right {
-    text-align: right;
+.post-single {
+    margin-bottom: 3em;
 }
 
 /* @media screen and (max-width: 600px) {
@@ -22,33 +20,45 @@
     display: flex;
     flex-wrap: wrap;
     margin: auto;
+    flex-direction: row;
+    gap: calc(30px + 5vw);
 }
+
+.post-main .col-1 {
+    flex: 2 0;
+}
+
+.post-main .col-2 {
+    flex: 1 0 10px;
+}
+
 .post-main p a {
     color: var(--theme);
     box-shadow: none;
+    text-align: end;
 }
 
 .post-content {
     color: #000;
     text-align: justify;
     font-size: medium;
+    margin-bottom: var(--main-padding);
 }
 .post-content :is(h1, h2, h3, h4, h5, h6) {
     margin: 0;
     margin-bottom: 3vh;
 }
+
+.no-dates-warning {
+    text-align: right;
+}
+
 .post-generique {
-    padding: var(--main-padding);
-    font-size: large;
-    border: 5px solid;
+    text-align: justify;
 }
-.post-generique :is(p, ul) {
-    margin-bottom: 6px;
-    font-size: medium;
-}
-.post-generique :is(h1, h2, h3, h4, h5, h6) {
-    text-transform: uppercase;
-    margin-bottom: 10px;
+
+.post-generique p:not(:first-child) {
+    margin-top: var(--main-padding);
 }
 
 .post-generique :is(h1, h2, h3, h4, h5, h6):not(:first-child) {
@@ -59,17 +69,6 @@
     margin-bottom: 10px;
 }
 
-.post-generique .saison :is(h1, h2, h3, h4, h5, h6) {
-    text-align: left;
-}
-
-.pswp-gallery img:hover {
-    filter: brightness(0.8);
-}
 .pswp-gallery {
     gap: 1vh 2vh;
-}
-
-.post-generique .saison :is(h1, h2, h3, h4, h5, h6) {
-    text-align: left;
 }

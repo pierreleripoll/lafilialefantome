@@ -30,24 +30,19 @@
       {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
       {{ $aspectRatio := div (float $photoRessource.Height) (float $photoRessource.Width) }}
 
-      {{ $newWidth := int (math.Min $photoRessource.Width 800)}}
+      {{ $newWidth := int (math.Min $photoRessource.Width 600)}}
       {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio) )}}
 
-      {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q90 CatmullRom" $newWidth $newHeight)}}
+      {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q95 CatmullRom" $newWidth $newHeight)}}
 
     <div class ="entry-photo"> 
-      <a
-      href="{{ $photoWebp.RelPermalink }}"
-      data-pswp-width="{{ $photoWebp.Width }}"
-      data-pswp-height="{{ $photoWebp.Height }}"
-      data-pswp-webp-src="{{ $photoWebp.RelPermalink }}"
-      target="_blank"
-       >
+
         <img
+            width="{{ $photoRessource.Width }}"
+            height="{{ $photoRessource.Height }}"
             src="{{ $photoWebp.RelPermalink }}"
             alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
        />  
-      </a>
     </div>
      
     {{ else }}

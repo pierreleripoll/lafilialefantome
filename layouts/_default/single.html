@@ -28,16 +28,39 @@
 
 
 
-  <h1 class="post-title">
+  <h1 class="secondary-header">
     {{ .Title }}
     {{/* {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }} */}}
   </h1>
 
   <div class="post-main">
+    
+
+    <div class="col-2">
 
 
+      {{- if .Params.representations}}
 
-    <div class="{{ cond (or (isset .Params "generique") (isset .Params "infos")) "post-col1" ""  }}">
+      <div class="dates">
+            {{- partial "dates.html" . -}}          
+      </div>
+      
+      {{ else }}
+
+      <p class="no-dates-warning">
+        Pas de dates pour le moment
+      </p>
+      
+      {{- end}}
+
+
+      <div class="post-gallery">
+        {{- partial "gallery.html" . }}
+      </div>
+
+    </div>
+
+    <div class="col-1">
       <div class="post-content">
 
 
@@ -49,39 +72,17 @@
 
 
       </div>
-      <div class="post-gallery">
-        {{- partial "gallery.html" . }}
-      </div>
-    </div>
 
-
-    <div class="post-col2">
-      {{- if or .Params.generique .Params.representations}}
       <div class="post-generique">
-        {{- if .Params.representations}}
-          {{- partial "dates.html" . -}}          
-        {{- end -}}
         {{- if .Params.generique}}
         {{ .Params.generique | markdownify}}
         {{- end -}}
 
-        
-
       </div>
 
-      {{- end}}
     </div>
 
-
-
-
-
-
-
   </div>
-
-
-
 
   <footer class="post-footer">
     {{- if .Params.tags }}
@@ -97,9 +98,6 @@
 
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}

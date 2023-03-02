@@ -6,14 +6,14 @@
     >
         {{- with $pages.Next . }}
             <a class="prev" href="{{ .Permalink }}">
-                <span class="title">« Précédent </span>
+                <span class="title">Précédent </span>
                 <br />
                 <span>{{- .Name -}}</span>
             </a>
         {{- end }}
         {{- with $pages.Prev . }}
             <a class="next" href="{{ .Permalink }}">
-                <span class="title"> Suivant »</span>
+                <span class="title"> Suivant</span>
                 <br />
                 <span>{{- .Name -}}</span>
             </a>

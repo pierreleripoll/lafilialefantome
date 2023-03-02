@@ -7,6 +7,7 @@
     background-color: var(--main-bg);
     border: 0;
     padding: 0;
+    margin-bottom: 30px;
 }
 
 .post-entry:active {
@@ -33,7 +34,7 @@
     display: flex;
     flex-direction: row;
     justify-content: right;
-    min-height: 300px;
+    min-height: 150px;
 }
 
 .entry-photo :is(h1, h2, h3, h4) {
@@ -65,8 +66,12 @@
     font-size: medium;
     text-align: right;
     margin: 0;
-    max-width: 600px;
+    max-width: 800px;
     /* gap: 100px 10px; */
+}
+
+.entry-content .secondary-header {
+    margin-bottom: 1rem;
 }
 
 .no-photo .entry-content {

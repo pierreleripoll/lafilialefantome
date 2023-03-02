@@ -110,6 +110,7 @@ body {
 .content {
     overflow-y: scroll;
     flex-grow: 1;
+    padding-left: calc(10vw + 30px);
     padding-right: 55px;
 }
 .full-height-container {

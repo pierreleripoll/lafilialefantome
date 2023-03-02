@@ -38,6 +38,8 @@ params:
     hideSummary: false
     showtoc: false
     tocopen: false
+    assets:
+        disableHLJS: true
 
     label:
         text: 'La filiale fantôme'

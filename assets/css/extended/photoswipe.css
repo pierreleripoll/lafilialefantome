@@ -43,26 +43,6 @@
     --pswp-error-text-color: var(--pswp-icon-color);
 }
 
-.pswp-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 4vh 0;
-    justify-content: flex-start;
-}
-
-.pswp-gallery > * {
-    /* margin-inline-end: 1vw; */
-    width: 200px;
-    /* margin-block-end: 1vw; */
-}
-
-.pswp-gallery img {
-    border: 2px solid;
-    object-fit: cover;
-    height: 8em;
-    width: 100%;
-}
-
 /*
 	Styles for basic PhotoSwipe (pswp) functionality (sliding area, open/close transitions)
 */
@@ -459,8 +439,26 @@ div.pswp__img--placeholder,
     display: none;
 }
 
+.pswp-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4vh 0;
+    justify-content: flex-end;
+}
+
+.pswp-gallery > * {
+    /* margin-inline-end: 1vw; */
+    /* margin-block-end: 1vw; */
+}
+
+.pswp-gallery img {
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+}
+
 @media screen and (min-width: 800px) and (max-width: 1000px) {
-    .pswp-gallery > * {
+    /* .pswp-gallery > * {
         width: 45%;
     }
     .pswp-gallery img {
@@ -469,11 +467,11 @@ div.pswp__img--placeholder,
 
     .pswp-gallery {
         justify-content: space-between;
-    }
+    } */
 }
 
 @media screen and (max-width: 800px) {
-    .pswp-gallery > * {
+    /* .pswp-gallery > * {
         width: 100%;
     }
     .pswp-gallery img {
@@ -482,5 +480,5 @@ div.pswp__img--placeholder,
 
     .pswp-gallery {
         justify-content: space-between;
-    }
+    } */
 }
