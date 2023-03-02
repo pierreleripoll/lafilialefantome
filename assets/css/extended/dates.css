@@ -10,22 +10,14 @@ a.representation {
     display: flex;
     justify-content: space-between;
     list-style: none;
+    flex-direction: column;
+    margin-bottom: 10px;
 }
 
 a.representation span {
-    margin: auto;
-}
-
-a.representation span.left {
-    flex: 1;
-    display: flex;
-}
-
-a.representation span.left::after {
-    content: ' ';
-    flex: 1;
-    margin: 11px;
-    border-bottom: 2px solid var(--theme);
+    text-align: right;
+    font-size: 1.4em;
+    line-height: normal;
 }
 
 a.representation span.dates {
@@ -33,10 +25,6 @@ a.representation span.dates {
 }
 a.representation span :is(h1, h2, h3, h4, h5, h6) {
     white-space: nowrap;
-}
-
-a.representation .right {
-    text-align: right;
 }
 
 .saison h3 {

@@ -11,28 +11,10 @@
 {{ end }}  */}}
   <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}">
 
-    {{ if $hasPhotos}}
-
-    {{ $photoOne := index $photos 0 }}
-    {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
-    {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $photoRessource.Width $photoRessource.Height)}}
-
-    <div class="entry-header " style="background: url( {{$photoWebp.RelPermalink}} ) ; background-size: cover; background-position: center;">
-
-      <h2 class="post-title" >
-        {{- .Title }} 
-      </h2>
-    </div>
-    {{ else}}
-    <div class="entry-header title-effect">
-
-      <h2 class="title-effect" >
-        {{- .Title }} 
-      </h2>
-    </div>
-    {{end}}
-    
     <div class="entry-content">
+      <h2 class="secondary-header" >
+        {{- .Title }} 
+      </h2>
       {{/*  <h3 >
         {{- .Title }} 
       </h3>  */}}
@@ -41,6 +23,34 @@
       {{- partial "dates.html" . -}}
       
     </div>
+
+    {{ if $hasPhotos}}
+
+      {{ $photoOne := index $photos 0 }}
+      {{ $photoRessource := .Resources.GetMatch $photoOne.photo}}
+      {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q80 CatmullRom" $photoRessource.Width $photoRessource.Height)}}
+
+    <div class ="entry-photo"> 
+      <a
+      href="{{ $photoWebp.RelPermalink }}"
+      data-pswp-width="{{ $photoWebp.Width }}"
+      data-pswp-height="{{ $photoWebp.Height }}"
+      data-pswp-webp-src="{{ $photoWebp.RelPermalink }}"
+      target="_blank"
+       >
+        <img
+            src="{{ $photoWebp.RelPermalink }}"
+            alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
+       />  
+      </a>
+    </div>
+     
+    {{ else }}
+    <div class="entry-photo"></div>
+
+    {{end}}
+    
+   
   </div>
 
 

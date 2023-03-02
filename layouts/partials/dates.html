@@ -21,10 +21,10 @@
         {{ if ge (len $list) 1 }}
 
             <div class="saison">
-                <h3>
+                {{/*  <h3>
                     Saison {{ printf "%d" (add $year 2021) }} -
                     {{ printf "%d" (add $year 2022) }}
-                </h3>
+                </h3>  */}}
                 <ul class="representations">
                     {{- range $list }}
                         {{ partial "dateLine.html" . }}
@@ -38,7 +38,7 @@
     {{ if lt (len $used) (len $representations) }}
 
         <div class="saison">
-            <h3>Saisons passées</h3>
+            {{/*  <h3>Saisons passées</h3>  */}}
             <ul class="representations">
                 {{- range $index, $representation := $representations }}
                     {{ if not ( in $used $index) }}
