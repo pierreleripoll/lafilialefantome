@@ -18,6 +18,8 @@
     --h2-weight: 100;
     --h2-size: 1.4rem;
     --header-padding-top: 80px;
+    --left-row-width: 45%;
+    --right-row-width: calc(100% - var(--left-row-width));
 }
 
 html {
@@ -63,7 +65,7 @@ a.active {
 } */
 
 body {
-    max-width: 1950;
+    max-width: 1950px;
     margin: auto;
 }
 @font-face {

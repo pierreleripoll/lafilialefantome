@@ -8,6 +8,11 @@
     const lightbox = new PhotoSwipeLightbox({
         gallery: '#gallery',
         children: 'a',
+        showHideAnimationType: 'none',
+
+        // optionally disable zoom transition,
+        // to create more consistent experience
+        zoomAnimationDuration: false,
         pswpModule: () => {
             console.log('pswpModule');
             return import('/photoswipe/photoswipe.esm.js');

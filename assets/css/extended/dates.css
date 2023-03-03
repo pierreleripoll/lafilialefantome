@@ -9,7 +9,7 @@ a.representation {
     margin-top: 10px;
     margin-bottom: 15px;
     margin-left: auto;
-    font-size: var(--h2-size);
+    font-size: medium;
 }
 
 .agenda a.representation {
@@ -17,6 +17,7 @@ a.representation {
     justify-content: space-between;
     flex-direction: row;
     margin-left: auto;
+    margin-bottom: 2em;
 }
 
 a.representation .right {
@@ -31,9 +32,8 @@ a.representation .lieu {
     margin-top: var(--header-padding-top);
 }
 
-.post-main .representation {
-    text-align: right;
-    font-size: medium;
+.post-main .representation .dates {
+    text-align: end;
 }
 
 @media screen and (max-width: 1000px) {
