@@ -8,7 +8,7 @@
 {{ $hasPhotos := isset .Params "photos" }}
 
 
-  <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}">
+  <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}"  href="{{ .RelPermalink }}">
 
     <div class="entry-content">
       <h2 class="secondary-header" >
