@@ -33,7 +33,7 @@
     flex-shrink: 0;
 }
 
-.entry-photo img {
+.entry-photo > * {
     height: 100%;
     width: auto;
     max-height: 350px;

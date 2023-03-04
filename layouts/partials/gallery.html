@@ -3,7 +3,7 @@
 <script type="module">
     import PhotoSwipeLightbox from '/photoswipe/photoswipe-lightbox.esm.js';
 
-    console.log('Swipebox required');
+    {{/*  console.log('Swipebox required');  */}}
 
     const lightbox = new PhotoSwipeLightbox({
         gallery: '#gallery',
@@ -14,13 +14,13 @@
         // to create more consistent experience
         zoomAnimationDuration: false,
         pswpModule: () => {
-            console.log('pswpModule');
+            {{/*  console.log('pswpModule');  */}}
             return import('/photoswipe/photoswipe.esm.js');
         }
     });
 
     lightbox.on('uiRegister', function () {
-        console.log('Register ! ');
+        {{/*  console.log('Register ! ');  */}}
 
         lightbox.pswp.ui.registerElement({
             name: 'download-button',
@@ -82,7 +82,7 @@
         if (webpSrc) {
             itemData.webpSrc = webpSrc;
         }
-        console.log(itemData);
+        {{/*  console.log(itemData);  */}}
         return itemData;
     });
 
@@ -140,9 +140,7 @@
     });
 
     lightbox.init();
-</script>
-
-{{ $title := .Title }}
+</script> {{ $title := .Title }}
 {{ $Resources := .Resources }}
 
 

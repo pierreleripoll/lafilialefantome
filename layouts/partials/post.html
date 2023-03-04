@@ -6,9 +6,8 @@
 
 {{ $photos := .Params.photos}}
 {{ $hasPhotos := isset .Params "photos" }}
-{{/*  {{ if $hasPhotos}}
-{{ $isPhotosNotEmpty := ge (len $photos) 1}}
-{{ end }}  */}}
+
+
   <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}">
 
     <div class="entry-content">
@@ -54,7 +53,15 @@
     </div>
      
     {{ else }}
-    <div class="entry-photo"></div>
+    <div class="entry-photo">
+      {{ if  (in site.Params.mainSections .Type)}}
+      <p class="summary">
+        {{.Summary | plainify | htmlUnescape }}
+
+      </p>          
+        
+      {{ end }}
+    </div>
 
     {{end}}
     

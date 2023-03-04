@@ -147,3 +147,7 @@ body {
 .left {
     text-align: left;
 }
+
+.summary {
+    text-align: justify;
+}
