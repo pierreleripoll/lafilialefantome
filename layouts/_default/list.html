@@ -3,7 +3,7 @@
 
 
     <div class="list">
-        {{ if not (in site.Params.mainSections .Section ) }}
+        {{ if  not (or (in site.Params.mainSections .Section ) (.IsHome) ) }}
             {{- range $pages }}
                 {{ partial "post.html" . }}
             {{- end }}
