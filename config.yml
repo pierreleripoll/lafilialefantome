@@ -12,6 +12,8 @@ minify:
     disableXML: true
     minifyOutput: true
 
+summaryLength: 50
+
 params:
     env: dev # to enable google analytics, opengraph, twitter-cards and schema.
     title: La filiale fantôme

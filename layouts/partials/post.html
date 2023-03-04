@@ -20,7 +20,15 @@
       </h3>  */}}
       {{/*  <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>  */}}
       
+      {{ if  (in site.Params.mainSections .Type)}}
       {{- partial "dates.html" . -}}
+      {{ else }}
+      <p class="summary">
+        {{.Summary | plainify | htmlUnescape }}
+
+      </p>
+        
+      {{ end }}
       
     </div>
 
