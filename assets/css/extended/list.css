@@ -7,27 +7,11 @@
     background-color: var(--main-bg);
     border: 0;
     padding: 0;
-    margin-bottom: 30px;
+    margin-bottom: 4rem;
 }
 
 .post-entry:active {
     transform: none;
-}
-.list {
-    background: var(--main-bg);
-}
-
-.list-title {
-    margin-bottom: 1em;
-    text-align: right;
-    /* text-decoration: var(--underline-theme);
-    text-underline-offset: var(--underline-theme-offset);
-    text-decoration-skip-ink: none; */
-}
-.list-entry {
-    /* background: #fff; */
-    padding: 1em;
-    margin: 3em auto;
 }
 
 .entry-main {

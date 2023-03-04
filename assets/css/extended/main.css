@@ -138,3 +138,11 @@ body {
     color: var(--theme);
     text-transform: uppercase;
 }
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}

@@ -38,7 +38,7 @@
             {{ if ge (len $list) 1 }}
 
                 <div class="saison">
-                    <h1 class="main-header list-title">
+                    <h1 class="main-header">
                         saison {{ printf "%d" (add $year 2021) }} -
                         {{ printf "%d" (add $year 2022) }}
                     </h1>
@@ -55,7 +55,7 @@
         {{ if lt (len $used) (len $representations) }}
 
             <div class="saison">
-                <h1 class="main-header list-title">saisons passées</h1>
+                <h1 class="main-header">saisons passées</h1>
                 <ul class="representations">
                     {{- range $index, $representation:= $representations }}
                         {{ if not ( in $used $index) }}
