@@ -13,7 +13,7 @@
         
         {{/* {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }} */}}
         <li>
-            <a href="{{- cond (and $hasSubmenu $isNotMainSection) `/` .URL  }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond (and $hasSubmenu $isNotMainSection) ` noLink` `` }} {{- cond (in $page_url
+            <a href="{{- .URL  }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond (and $hasSubmenu $isNotMainSection) ` noLink` `` }} {{- cond (in $page_url
                 $menu_item_url) ` active` `` }}">
 
                 <span class="main-header">

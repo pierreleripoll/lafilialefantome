@@ -1,50 +1,59 @@
 {{- define "main" }}
     {{- $pages := union .RegularPages .Sections }}
 
-    {{- if .IsHome }}
-
-        {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-
-    {{- end }}
-
-    {{ $enCours := (where $pages "Params.statut" "En cours") }}
-    {{ $hasEnCours := ge (len $enCours) 1 }}
-
 
     <div class="list">
-        {{ if $hasEnCours }}
-            <h1 class="main-header list-title">en développement</h1>
-            {{- range $enCours }}
-
-                {{ partial "post.html" . }}
-            {{- end }}
-        {{- end }}
-
-        {{ $futur := (where $pages "Params.statut" "Futur") }}
-        {{ $hasFutur := ge (len $futur) 1 }}
-
-        {{ if $hasFutur }}
-            <h1 class="main-header list-title">à venir</h1>
-
-            {{- range $futur }}
-                {{ partial "post.html" . }}
-            {{- end }}
-        {{ end }}
-
-        {{ $passe := (where $pages "Params.statut" "Passé") }}
-        {{ $hasPasse := ge (len $passe) 1 }}
-
-        {{ if $hasPasse }}
-            <h1 class="main-header list-title">passés</h1>
-
-            {{- range $passe }}
+        {{ if not (in site.Params.mainSections .Section ) }}
+            {{- range $pages }}
                 {{ partial "post.html" . }}
             {{- end }}
 
-        {{ end }}
+        {{ else }}
+            {{/* THIS IS FOR SPECTACLES & AUTRES */}}
+            {{- if .IsHome }}
 
-        {{ if and (not $hasEnCours) (not $hasFutur) (not $hasPasse) }}
-            <h1 class="main-header list-title">rien pour le moment</h1>
+                {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+            {{- end }}
+
+            {{ $enCours := (where $pages "Params.statut" "En cours") }}
+            {{ $hasEnCours := ge (len $enCours) 1 }}
+
+            {{ if $hasEnCours }}
+                <h1 class="main-header list-title">en développement</h1>
+                {{- range $enCours }}
+
+                    {{ partial "post.html" . }}
+                {{- end }}
+            {{- end }}
+
+            {{ $futur := (where $pages "Params.statut" "Futur") }}
+            {{ $hasFutur := ge (len $futur) 1 }}
+
+            {{ if $hasFutur }}
+                <h1 class="main-header list-title">à venir</h1>
+
+                {{- range $futur }}
+                    {{ partial "post.html" . }}
+                {{- end }}
+            {{ end }}
+
+            {{ $passe := (where $pages "Params.statut" "Passé") }}
+            {{ $hasPasse := ge (len $passe) 1 }}
+
+            {{ if $hasPasse }}
+                <h1 class="main-header list-title">passés</h1>
+
+                {{- range $passe }}
+                    {{ partial "post.html" . }}
+                {{- end }}
+
+            {{ end }}
+
+            {{ if and (not $hasEnCours) (not $hasFutur) (not $hasPasse) }}
+                <h1 class="main-header list-title">rien pour le moment</h1>
+            {{ end }}
+
         {{ end }}
     </div>
 {{- end }}{{- /* end main */ -}}
