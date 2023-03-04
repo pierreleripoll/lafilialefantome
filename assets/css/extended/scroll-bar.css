@@ -3,10 +3,6 @@
     background: none;
 }
 
-.list:not(.dark)::-webkit-scrollbar-track {
-    background: none;
-}
-
 ::-webkit-scrollbar-thumb {
     background: var(--theme);
     border: none;
@@ -14,10 +10,6 @@
 
 .list:not(.dark)::-webkit-scrollbar-thumb {
     border: none;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: var(--theme);
 }
 
 ::-webkit-scrollbar:not(.highlighttable, .highlight table, .gist .highlight) {
@@ -29,5 +21,7 @@
     /* reset */
     ::-webkit-scrollbar {
         height: 11px;
+        width: 18px;
+        min-height: 180px;
     }
 }

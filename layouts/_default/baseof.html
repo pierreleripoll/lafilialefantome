@@ -7,24 +7,7 @@
         {{- partial "head.html" . }}
     </head>
 
-    <body
-        class="
-{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
-            {{- print "list" -}}
-        {{- end -}}
-        
-        
-        
-        
-        
-        
-
-{{- if eq site.Params.defaultTheme `dark` -}}
-            {{- print " dark" }}
-        {{- end -}}
-"
-        id="top"
-    >
+    <body>
         <div class="full-height-container">
             {{- partialCached "header.html" . .Page -}}
 
