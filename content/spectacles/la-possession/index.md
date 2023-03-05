@@ -27,6 +27,10 @@ representations:
     theatre: Le Carreau du Temple, Paris (FR)
     lien: https://www.lecarreaudutemple.eu/evenements/la-possession/
     datestext: 28 - 30 octobre 2021
+photos:
+  - photo: 20201023-la-possession-©samuelrubio-48-web.jpg
+  - photo: 20201023-la-possession-©samuelrubio-51-web.jpg
+  - photo: 20201023-la-possession-©samuelrubio-42-web.jpg
 generique: >-
   Texte et mise en scène : **François-Xavier Rouyer**\
 
