@@ -47,6 +47,10 @@
     .row-logo .logo-header {
         right: 0px;
     }
+
+    header {
+        margin-bottom: 3rem;
+    }
 }
 
 @media screen and (min-width: 600px) {
