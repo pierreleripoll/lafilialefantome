@@ -20,6 +20,7 @@
     justify-content: right;
     min-height: 150px;
     flex-wrap: wrap;
+    row-gap: 1.5rem;
 }
 
 .entry-photo :is(h1, h2, h3, h4) {
@@ -27,17 +28,34 @@
 }
 
 .entry-photo {
-    width: 700px;
     display: flex;
     align-items: baseline;
     justify-content: right;
 }
 
-.entry-photo > * {
-    height: 100%;
-    width: auto;
-    max-height: 350px;
-    max-width: 500px;
+@media screen and (max-width: 600px) {
+    .entry-photo {
+        width: 100%;
+        max-height: 65vh;
+    }
+
+    .entry-photo > * {
+        height: 100%;
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .entry-photo {
+        width: 700px;
+    }
+
+    .entry-photo > * {
+        max-height: 350px;
+        max-width: 500px;
+        height: 100%;
+        width: auto;
+    }
 }
 
 .entry-content {

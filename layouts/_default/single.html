@@ -28,7 +28,7 @@
 
 
 
-  <h1 class="secondary-header">
+  <h2 class="secondary-header">
     {{ .Title }}
     {{/* {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }} */}}
   </h1>
@@ -47,9 +47,11 @@
       
       {{ else }}
 
-      <p class="no-dates-warning">
-        Pas de dates pour le moment
-      </p>
+        {{ if  (in site.Params.mainSections .Type)}}
+          <p class="no-dates-warning">
+            Pas de dates pour le moment
+          </p>
+        {{ end}}
       
       {{- end}}
 

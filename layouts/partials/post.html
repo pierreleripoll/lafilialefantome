@@ -45,9 +45,10 @@
     <div class ="entry-photo"> 
 
         <img
-            width="{{ $photoRessource.Width }}"
-            height="{{ $photoRessource.Height }}"
+            width="{{ $newWidth }}"
+            height="{{ $newHeight }}"
             src="{{ $photoWebp.RelPermalink }}"
+            loading="lazy"
             alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
        />  
     </div>
