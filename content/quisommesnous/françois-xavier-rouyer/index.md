@@ -1,10 +1,9 @@
 ---
 title: François-Xavier Rouyer
 photos:
+  - photo: kamilla-k-stanley-s-e1640235858989.png
   - photo: fx.jpeg
     alt: François Xavier penseur
-  - photo: fx_2.jpeg
-    alt: FX au soleil
 generique: >-
   ### Prochains projets
 
