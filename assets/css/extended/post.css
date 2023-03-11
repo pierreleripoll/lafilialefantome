@@ -41,7 +41,7 @@
 }
 
 .post-main p a {
-    color: var(--theme);
+    /* color: var(--theme); */
     box-shadow: none;
     text-align: end;
 }
@@ -50,6 +50,7 @@
     color: #000;
     text-align: justify;
     font-size: medium;
+    line-height: initial;
     margin-bottom: var(--main-padding);
 }
 .post-content :is(h1, h2, h3, h4, h5, h6) {

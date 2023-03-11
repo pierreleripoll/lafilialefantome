@@ -11,6 +11,7 @@ a.representation {
     margin-left: auto;
     font-size: medium;
     line-height: normal;
+    color: var(--theme);
 }
 
 .agenda a.representation {
@@ -31,6 +32,10 @@ a.representation .lieu {
 
 .agenda .saison:not(:first-child) {
     margin-top: var(--header-padding-top);
+}
+
+.post-main a.representation {
+    color: -webkit-link;
 }
 
 .post-main .representation .dates {

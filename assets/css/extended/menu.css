@@ -23,6 +23,21 @@
     flex-direction: column;
 }
 
+.menu a {
+    color: var(--theme);
+}
+
+.menu a:hover,
+.menu a.active {
+    color: #0000ee;
+}
+
+a.active {
+    /* text-decoration: var(--underline-theme);
+    text-underline-offset: var(--underline-theme-offset);
+    text-decoration-skip-ink: none; */
+}
+
 @media screen and (max-width: 600px) {
     .menu {
         align-items: end;
@@ -32,9 +47,6 @@
 @media screen and (min-width: 600px) {
     .menu {
         align-items: start;
-    }
-    .menu > li {
-        padding-bottom: 10px;
     }
 }
 

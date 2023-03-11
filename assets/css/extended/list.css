@@ -16,7 +16,7 @@
 
 .entry-main {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     justify-content: right;
     min-height: 150px;
     flex-wrap: wrap;
@@ -47,7 +47,7 @@
 
 @media screen and (min-width: 600px) {
     .entry-photo {
-        width: 700px;
+        width: 600px;
     }
 
     .entry-photo > * {
@@ -68,7 +68,7 @@
     font-size: medium;
     text-align: right;
     margin: 0;
-    width: 400px;
+    width: 500px;
     /* gap: 100px 10px; */
 }
 
@@ -94,7 +94,8 @@
 }
 
 .post-entry:hover .entry-content .secondary-header {
-    text-decoration: var(--underline-theme-hover);
+    /* text-decoration: var(--underline-theme-hover); */
+    color: #0000ee;
 }
 
 .content h1:not(:first-child) {

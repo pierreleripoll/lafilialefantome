@@ -2,12 +2,13 @@
     overflow-wrap: normal;
     white-space: nowrap;
     position: absolute;
-    padding: calc(2px + var(--logo-border-size));
+    padding: var(--small-main-padding)
+        calc(var(--small-main-padding) + var(--logo-border-size));
 }
 
 .row-logo {
     width: 100%;
-    height: 100px;
+    height: var(--row-logo-height);
     position: relative;
 }
 
@@ -19,29 +20,59 @@
     width: var(--right-row-width);
 }
 
+.first-row-logo .block-logo:first-child {
+    width: calc(var(--left-row-width) - 10px);
+}
+
+.first-row-logo .block-logo:last-child {
+    width: calc(var(--right-row-width) + 10px);
+}
+
+.second-row-logo .block-logo:first-child {
+    width: calc(var(--left-row-width) + 10px);
+}
+
+.second-row-logo .block-logo:last-child {
+    width: calc(var(--right-row-width) - 10px);
+}
+
 .block-logo {
     height: 100%;
     float: left;
 }
 
 .first-row-logo div:last-child {
-    border-top: var(--logo-border);
+    border-top: var(--logo-border-middle);
+    /* border-bottom: var(--logo-border-middle); */
     border-right: var(--logo-border);
 }
 
+.first-row-logo {
+    height: calc(var(--row-logo-height) - var(--logo-border-middle-size));
+}
+
+.third-row-logo {
+    height: calc(var(--row-logo-height) - var(--logo-border-middle-size));
+}
+
+.second-row-logo {
+    border-top: var(--logo-border-middle);
+}
+
 .second-row-logo div:first-child {
-    border-top: var(--logo-border);
+    /* border-top: var(--logo-border-middle); */
+    border-bottom: var(--logo-border-middle);
     border-left: var(--logo-border);
 }
 
 .second-row-logo div:last-child {
     border-right: var(--logo-border);
-    border-top: var(--logo-border);
+    /* border-top: var(--logo-border-middle); */
 }
 
 .third-row-logo div:first-child {
     border-left: var(--logo-border);
-    border-top: var(--logo-border);
+    /* border-top: var(--logo-border-middle); */
 }
 @media screen and (max-width: 600px) {
     .row-logo .logo-header {
@@ -54,11 +85,9 @@
 }
 
 @media screen and (min-width: 600px) {
-    .first-row-logo .logo-header {
-        right: 0px;
-    }
-
+    .first-row-logo .logo-header,
     .second-row-logo .logo-header {
-        right: 45%;
+        right: 0px;
+        top: 8px;
     }
 }
