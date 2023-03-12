@@ -7,7 +7,7 @@
     background-color: var(--main-bg);
     border: 0;
     padding: 0;
-    margin-bottom: 4rem;
+    margin-bottom: var(--gap);
 }
 
 .post-entry:active {
@@ -20,7 +20,7 @@
     justify-content: right;
     min-height: 150px;
     flex-wrap: wrap;
-    row-gap: 1.5rem;
+    row-gap: var(--content-gap);
 }
 
 .entry-photo :is(h1, h2, h3, h4) {

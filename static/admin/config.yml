@@ -44,7 +44,8 @@ collections:
                 name: 'generique',
                 required: false,
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
-                widget: 'markdown'
+                widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two']
             }
     - name: 'collaborations'
       label: 'Les ami.e.s'
@@ -80,7 +81,8 @@ collections:
                 name: 'generique',
                 required: false,
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
-                widget: 'markdown'
+                widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two']
             }
 
     - label: 'Pages'
@@ -97,7 +99,8 @@ collections:
                 - {
                       label: 'Contenu de la page',
                       name: 'body',
-                      widget: 'markdown'
+                      widget: 'markdown',
+                      buttons: ['italic', 'link', 'heading-two']
                   }
                 - label: 'Images'
                   required: false
@@ -175,7 +178,8 @@ collections:
                 name: 'generique',
                 required: false,
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
-                widget: 'markdown'
+                widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two']
             }
 
           - {
@@ -254,7 +258,8 @@ collections:
                 name: 'generique',
                 required: false,
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius.',
-                widget: 'markdown'
+                widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two']
             }
 
           - {

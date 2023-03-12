@@ -1,23 +1,23 @@
 ---
 title: François-Xavier Rouyer
 photos:
-    - photo: kamilla-k-stanley-s-e1640235858989.png
-    - photo: fx.jpeg
-      alt: François Xavier penseur
+  - photo: kamilla-k-stanley-s-e1640235858989.png
+  - photo: fx.jpeg
+    alt: François Xavier penseur
 generique: >-
-    ## Prochains projets
-    
-    
-    ﻿KIAC ONSEN MIRACLE TALE au JAPON ([KIAC](http://kiac.jp/en/)) du 1er au 20 mars 2023 
-    
-    
-    *E﻿nseignement à la *Manufacture* printemps 2023*
-    
-    
-    ## *C﻿ontact*
-    
-    
-    *fxrouyer@yahoo.fr*
+  ## Prochains projets
+
+
+  ﻿KIAC ONSEN MIRACLE TALE au JAPON ([KIAC](http://kiac.jp/en/)) du 1er au 20 mars 2023 
+
+
+  E﻿nseignement à la Manufacture printemps 2023
+
+
+  ## C﻿ontact
+
+
+  Adresse email : fxrouyer@yahoo.fr
 ---
 
 <!--StartFragment-->
