@@ -46,6 +46,10 @@
     text-align: end;
 }
 
+.post-main :is(h1, h2) {
+    text-align: end;
+}
+
 .post-content {
     color: #000;
     text-align: justify;
