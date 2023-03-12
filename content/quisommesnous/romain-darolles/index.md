@@ -9,7 +9,7 @@ generique: |-
 
   Ars Nova - Création 2024 
 
-  [A﻿ccédez à son portofolio ici.](static/img/romain-daroles-_portfolio.pdf)
+  [A﻿ccédez à son portofolio ici.](/img/romain-daroles-_portfolio.pdf)
 
   C﻿ontact : *f﻿rancois-xavier@gmail.com*
 ---
