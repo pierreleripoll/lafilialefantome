@@ -6,10 +6,8 @@ photos:
     - photo: romain_daroles_5407.jpg
 generique: |-
     ## Prochains projets
-
     Ars Nova - Création 2024 
-
-  [A﻿ccédez à son portofolio ici.](media/romain-daroles-_portfolio.pdf)
+    [A﻿ccédez à son portofolio ici.](media/romain-daroles-_portfolio.pdf)
 
     C﻿ontact : *f﻿rancois-xavier@gmail.com*
 ---
