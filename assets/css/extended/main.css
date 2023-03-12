@@ -141,15 +141,19 @@ body {
 
 h1,
 .main-header {
-    font-size: var(--h1-size);
-    font-weight: var(--h1-weight);
+    font-size: var(--h1-size) !important;
+    font-weight: var(--h1-weight) !important;
     /* color: var(--theme); */
 }
 
 h2,
+h3,
+h4,
+h5,
+h6,
 .secondary-header {
-    font-size: var(--h2-size);
-    font-weight: var(--h2-weight);
+    font-size: var(--h2-size) !important;
+    font-weight: var(--h2-weight) !important;
     /* color: var(--theme); */
     text-transform: uppercase;
 }

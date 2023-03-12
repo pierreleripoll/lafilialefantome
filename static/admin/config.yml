@@ -5,9 +5,9 @@ backend:
 # when using the default proxy server port
 local_backend: true
 
-media_folder: static/img/
+media_folder: /media/
 
-public_folder: /img
+public_folder: /media
 locale: 'en'
 collections:
     - name: 'quisommesnous'
@@ -24,6 +24,7 @@ collections:
                 name: 'body',
                 required: true,
                 widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two'],
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.'
             }
           - label: 'Images'
@@ -59,6 +60,7 @@ collections:
                 name: 'body',
                 required: true,
                 widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two'],
                 default: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.'
             }
           - label: 'Images'
@@ -87,12 +89,29 @@ collections:
           - label: 'Page Contact'
             name: 'contact'
             file: 'content/contact/_index.md'
+            folder: 'content/contact/'
+            media_folder: ''
+            public_folder: ''
+            create: true
             fields:
                 - {
                       label: 'Contenu de la page',
                       name: 'body',
-                      widget: markdown
+                      widget: 'markdown'
                   }
+                - label: 'Images'
+                  required: false
+                  name: 'photos'
+                  widget: 'list'
+                  fields:
+                      - { label: 'Image', name: 'photo', widget: 'image' }
+                      - {
+                            label: 'Titre',
+                            name: 'alt',
+                            required: false,
+                            widget: 'string'
+                        }
+
     - name: 'autre'
       label: 'Autres projets'
       label_singular: 'Autre projet'
@@ -164,6 +183,7 @@ collections:
                 name: 'body',
                 required: false,
                 widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two'],
                 default:
                     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
 
@@ -242,6 +262,7 @@ collections:
                 name: 'body',
                 required: false,
                 widget: 'markdown',
+                buttons: ['italic', 'link', 'heading-two'],
                 default:
                     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
 

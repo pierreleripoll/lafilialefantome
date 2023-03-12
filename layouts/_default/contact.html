@@ -1,7 +1,24 @@
 {{- define "main" }}
     <h1 class="main-header">Contact</h1>
 
-    <div class="right ">
-        {{ .Content }}
+    <div class="post-main">
+        <div class="col-2">
+            <div class="post-gallery">
+                {{- partial "gallery.html" . }}
+            </div>
+        </div>
+
+        <div class="col-1">
+            <div class="post-content">
+                {{- if .Content }}
+                    {{- if not (.Param "disableAnchoredHeadings") }}
+                        {{- partial "anchored_headings.html" .Content -}}
+                    {{- else }}
+                        {{ .Content }}
+                    {{ end }}
+                {{- end }}
+
+            </div>
+        </div>
     </div>
 {{- end }}
