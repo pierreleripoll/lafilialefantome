@@ -18,10 +18,20 @@
 
 /* from zmedia */
 @media screen and (min-width: 768px) {
-    /* reset */
     ::-webkit-scrollbar {
         height: 11px;
         width: 18px;
         min-height: 180px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    ::-webkit-scrollbar {
+        -webkit-appearance: none !important;
+        display: none;
     }
 }

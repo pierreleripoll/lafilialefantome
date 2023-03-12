@@ -11,7 +11,6 @@ a.representation {
     margin-left: auto;
     font-size: medium;
     line-height: normal;
-    color: var(--theme);
 }
 
 .agenda a.representation {
@@ -30,12 +29,28 @@ a.representation .lieu {
     text-align: end;
 }
 
+.list .representation {
+    text-decoration: none;
+}
+
 .agenda .saison:not(:first-child) {
     margin-top: var(--header-padding-top);
 }
 
-.post-main a.representation {
-    color: -webkit-link;
+.agenda .representation {
+    text-decoration: none;
+}
+
+.agenda .representation .right {
+    text-decoration: underline var(--underline-link);
+}
+
+.content .representation h2 {
+    margin-bottom: 0;
+}
+
+.content .representation:hover h2 {
+    color: var(--blue);
 }
 
 .post-main .representation .dates {

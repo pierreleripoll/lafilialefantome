@@ -5,10 +5,10 @@
     margin-bottom: 3em;
 }
 
-/* @media screen and (max-width: 600px) {
+/* @media screen and (max-width: 768px) {
 }
 
-@media screen and (min-width: 600px) and (max-width: 1000px) {
+@media screen and (min-width: 768px) and (max-width: 1000px) {
 }
 @media screen and (min-width: 1000px) and (max-width: 1407px) {
 }
@@ -23,13 +23,13 @@
     gap: calc(30px + 5vw);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     .post-main {
         flex-direction: column-reverse;
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
 }
 
 .post-main .col-1 {

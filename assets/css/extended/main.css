@@ -1,39 +1,41 @@
 :root {
     --main-bg: white;
     --code-bg: white;
-    --underline-theme: 3px underline solid var(--theme);
-    --underline-theme-offset: 4px;
-    --underline-theme-hover: 1px underline solid var(--theme);
-    --underline-theme-hover-offset: 3px;
+
     --theme: rgb(30, 30, 30);
-    --radius: 0deg;
-    --title-effect: drop-shadow(4px 2px 0.5px var(--theme));
+    --blue: rgb(52, 52, 255);
+
+    --underline-link: 1px solid var(--blue);
+
     --logo-border-size: 18px;
     --small-main-padding: 5px;
     --logo-border-middle-size: 16px;
     --logo-border: solid var(--logo-border-size) var(--theme);
     --logo-border-middle: solid var(--logo-border-middle-size) var(--theme);
+
     --main-border: solid 9px;
     --main-padding: 50px;
-    --title-logo-boder: 18px solid var(--theme);
     --row-logo-height: 100px;
+
     --h1-size: 2.8rem;
     --h1-weight: 200;
     --h2-weight: 200;
     --h2-size: 1.5rem;
     --header-padding-top: 80px;
+
     --left-row-width: 50%;
     --right-row-width: calc(100% - var(--left-row-width));
     --col-width: 500px;
 
-    --width-mobile: 600px;
+    --width-mobile: 768px;
 }
 
 html {
     overflow: hidden;
 }
 a {
-    color: -webkit-link;
+    text-decoration: underline var(--underline-link);
+    /* text-underline-offset: 3px; */
 }
 
 a:hover {
@@ -41,13 +43,13 @@ a:hover {
     text-underline-offset: var(--underline-theme-hover-offset);
     text-decoration-skip-ink: none; */
     /* color: #551a8b; */
-    color: #0000ee;
+    color: var(--blue);
 }
 a.active {
     /* text-decoration: var(--underline-theme);
     text-underline-offset: var(--underline-theme-offset);
     text-decoration-skip-ink: none; */
-    color: #0000ee;
+    color: var(--blue);
 }
 
 body {
@@ -110,7 +112,7 @@ body {
     flex-direction: column;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     .main {
         flex-wrap: wrap;
         overflow: visible;
@@ -125,7 +127,7 @@ body {
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
     .main {
         max-width: 100vw;
         padding: 0;

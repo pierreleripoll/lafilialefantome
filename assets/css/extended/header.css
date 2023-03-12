@@ -2,8 +2,10 @@
     overflow-wrap: normal;
     white-space: nowrap;
     position: absolute;
-    padding: var(--small-main-padding)
-        calc(var(--small-main-padding) + var(--logo-border-size));
+    padding: 2px calc(var(--small-main-padding) + var(--logo-border-size));
+}
+.first-row-logo .logo-header {
+    top: var(--logo-border-middle-size);
 }
 
 .row-logo {
@@ -74,7 +76,7 @@
     border-left: var(--logo-border);
     /* border-top: var(--logo-border-middle); */
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     .row-logo .logo-header {
         right: 0px;
     }
@@ -84,10 +86,9 @@
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
     .first-row-logo .logo-header,
     .second-row-logo .logo-header {
         right: 0px;
-        top: 8px;
     }
 }

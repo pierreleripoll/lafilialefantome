@@ -25,11 +25,12 @@
 
 .menu a {
     color: var(--theme);
+    text-decoration: none;
 }
 
 .menu a:hover,
 .menu a.active {
-    color: #0000ee;
+    color: var(--blue);
 }
 
 a.active {
@@ -38,13 +39,13 @@ a.active {
     text-decoration-skip-ink: none; */
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     .menu {
         align-items: end;
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
     .menu {
         align-items: start;
     }
