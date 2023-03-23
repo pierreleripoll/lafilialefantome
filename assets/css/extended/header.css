@@ -82,7 +82,7 @@
     }
 
     header {
-        margin-bottom: var(--gap);
+        /* margin-bottom: calc(var(--gap) / 2); */
     }
 }
 

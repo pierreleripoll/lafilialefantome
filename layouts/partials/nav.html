@@ -1,6 +1,21 @@
      
 {{- $currentPage := . }}
     <ul  class="menu">
+
+        <li class="menu-toggle">
+            <a>
+                
+                <span class="main-header">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                      </span>
+                    Menu
+                </span>
+            </a>
+        </li>
+
+
+
         {{- range site.Menus.main }}
         {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
         {{- $page_url:= $currentPage.Permalink | absLangURL }}
@@ -38,3 +53,22 @@
         </li>
         {{- end }}
     </ul>
+
+    <script>
+
+        var menuToggle = document.querySelector('li.menu-toggle');
+        var menu = document.querySelector('ul.menu');
+        var menuItems = document.querySelectorAll('.menu li:not(.menu-toggle)');
+
+        menuToggle.addEventListener('click', function (e) {
+            console.log("Menu toggle")
+            menu.classList.toggle('open');
+        });
+
+        menuItems.forEach(function (menuItem) {
+            menuItem.addEventListener('click', function (e) {
+                menu.classList.remove('open');
+            });
+        });
+
+    </script>
