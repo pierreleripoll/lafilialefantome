@@ -19,7 +19,7 @@
     flex-direction: row-reverse;
     justify-content: right;
     min-height: 150px;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     row-gap: var(--content-gap);
 }
 
@@ -75,16 +75,8 @@
     /* gap: 100px 10px; */
 }
 
-.entry-content .secondary-header {
-    margin-bottom: 1rem;
-}
-
 .no-photo .entry-content {
     border: none;
-}
-
-.entry-content ul {
-    margin-top: 10px;
 }
 
 .entry-content p {

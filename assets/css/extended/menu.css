@@ -57,11 +57,12 @@ a.active {
     .menu {
         align-items: start;
         position: sticky;
-        top: 0px;
-        padding: 6px 0px 12px 0px;
-        z-index: 10;
+        top: -2px;
+        padding: 8px 2px 12px;
+        margin: -2px;
+        z-index: 1;
         background-color: white;
-        width: 100%;
+        margin-bottom: var(--gap);
     }
 
     .menu:not(.open) {
@@ -72,6 +73,9 @@ a.active {
 
     .menu li:not(.menu-toggle) {
         display: none;
+    }
+    .content {
+        position: relative;
     }
 }
 

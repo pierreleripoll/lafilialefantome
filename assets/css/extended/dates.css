@@ -6,8 +6,7 @@ a.representation {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 0.5rem;
     margin-left: auto;
     font-size: medium;
     line-height: normal;
