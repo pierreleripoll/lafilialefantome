@@ -20,7 +20,7 @@
             {{ $hasEnCours := ge (len $enCours) 1 }}
 
             {{ if $hasEnCours }}
-                <h1 class="main-header list-title">en développement</h1>
+                <h1 class="main-header list-title">en cours</h1>
                 {{- range $enCours }}
 
                     {{ partial "post.html" . }}
@@ -31,7 +31,7 @@
             {{ $hasFutur := ge (len $futur) 1 }}
 
             {{ if $hasFutur }}
-                <h1 class="main-header list-title">à venir</h1>
+                {{/* <h1 class="main-header list-title">à venir</h1> */}}
 
                 {{- range $futur }}
                     {{ partial "post.html" . }}
