@@ -118,7 +118,8 @@ body {
     .main {
         flex-wrap: wrap;
         overflow: visible;
-        padding: var(--small-main-padding) var(--logo-border-size);
+        padding: var(--small-main-padding)
+            calc(var(--small-main-padding) + var(--logo-border-size));
         justify-content: end;
         min-height: fit-content;
     }

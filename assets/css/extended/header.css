@@ -76,10 +76,15 @@
     border-left: var(--logo-border);
     /* border-top: var(--logo-border-middle); */
 }
+
+.first-row-logo .logo-header,
+.second-row-logo .logo-header {
+    right: 0px;
+}
 @media screen and (max-width: 768px) {
-    .row-logo .logo-header {
+    /* .row-logo .logo-header {
         right: 0px;
-    }
+    } */
 
     header {
         /* margin-bottom: calc(var(--gap) / 2); */
@@ -87,8 +92,4 @@
 }
 
 @media screen and (min-width: 768px) {
-    .first-row-logo .logo-header,
-    .second-row-logo .logo-header {
-        right: 0px;
-    }
 }

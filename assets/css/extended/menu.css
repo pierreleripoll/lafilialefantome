@@ -55,13 +55,19 @@ a.active {
 
 @media screen and (max-width: 768px) {
     .menu {
-        align-items: end;
+        align-items: start;
         position: sticky;
         top: 0px;
         padding: 6px 0px 12px 0px;
         z-index: 10;
         background-color: white;
         width: 100%;
+    }
+
+    .menu:not(.open) {
+        flex-direction: row;
+        gap: 0 10px;
+        flex-wrap: wrap;
     }
 
     .menu li:not(.menu-toggle) {
