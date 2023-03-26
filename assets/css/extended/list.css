@@ -18,7 +18,6 @@
     display: flex;
     flex-direction: row-reverse;
     justify-content: right;
-    min-height: 150px;
     flex-wrap: wrap-reverse;
     row-gap: var(--content-gap);
 }

@@ -8,8 +8,11 @@
     const lightbox = new PhotoSwipeLightbox({
         gallery: '#gallery',
         children: 'a',
+        bgOpacity: 1,
         showHideAnimationType: 'none',
-
+        initialZoomLevel: 'fit',
+        secondaryZoomLevel: 1,
+        maxZoomLevel: 2,
         // optionally disable zoom transition,
         // to create more consistent experience
         zoomAnimationDuration: false,
@@ -27,6 +30,7 @@
             order: 9,
             isButton: true,
             tagName: 'a',
+            padding: '3rem',
 
             // SVG with outline
             html: {
@@ -70,76 +74,77 @@
                                 .getAttribute('alt');
                         }
                     }
-                    el.innerHTML = captionHTML || '';
+                    el.innerHTML = '<span>' + (captionHTML || '') + '</span>';
                 });
             }
         });
     });
 
     // Parse data-pswp-webp-src attribute
-    lightbox.addFilter('itemData', (itemData, index) => {
-        const webpSrc = itemData.element.dataset.pswpWebpSrc;
-        if (webpSrc) {
-            itemData.webpSrc = webpSrc;
+lightbox.addFilter('itemData', (itemData, index) => {
+    const webpSrc = itemData.element.dataset.pswpWebpSrc;
+    if (webpSrc) {
+      itemData.webpSrc = webpSrc;
+    }
+    return itemData;
+  });
+
+  // use <picture> instead of <img>
+  lightbox.on('contentLoad', (e) => {
+      const { content, isLazy } = e;
+
+      if (content.data.webpSrc) {
+        // prevent to stop the default behavior
+        e.preventDefault();
+
+        content.pictureElement = document.createElement('picture');
+
+        const sourceWebp = document.createElement('source');
+        sourceWebp.srcset = content.data.webpSrc;
+        sourceWebp.type = 'image/webp';
+
+        const sourceJpg = document.createElement('source');
+        sourceJpg.srcset = content.data.src;
+        sourceJpg.type = 'image/jpeg';
+
+        content.element = document.createElement('img');
+        content.element.src = content.data.src;
+        content.element.setAttribute('alt', '');
+        content.element.setAttribute('style','width:400px;')
+        content.element.className = 'pswp__img';
+
+        content.pictureElement.appendChild(sourceWebp);
+        content.pictureElement.appendChild(sourceJpg);
+        content.pictureElement.appendChild(content.element);
+
+        content.state = 'loading';
+
+        if (content.element.complete) {
+          content.onLoaded();
+        } else {
+          content.element.onload = () => {
+            content.onLoaded();
+          };
+
+          content.element.onerror = () => {
+            content.onError();
+          };
         }
-        {{/*  console.log(itemData);  */}}
-        return itemData;
-    });
+      }
+  });
 
-    // use <picture> instead of <img>
-    lightbox.on('contentLoadImage', (e) => {
-        const { content, isLazy } = e;
 
-        if (content.data.webpSrc) {
-            // prevent to stop the default behavior
-            e.preventDefault();
+  // by default PhotoSwipe appends <img>,
+  // but we want to append <picture>
+  lightbox.on('contentAppend', (e) => {
+    const { content } = e;
+    if (content.pictureElement && !content.pictureElement.parentNode) {
+      e.preventDefault();
+      content.slide.container.appendChild(content.pictureElement);
+    }
+  });
 
-            content.pictureElement = document.createElement('picture');
-
-            const sourceWebp = document.createElement('source');
-            sourceWebp.srcset = content.data.webpSrc;
-            sourceWebp.type = 'image/webp';
-
-            const sourceJpg = document.createElement('source');
-            sourceJpg.srcset = content.data.src;
-            sourceJpg.type = 'image/jpeg';
-
-            content.element = document.createElement('img');
-            content.element.src = content.data.src;
-            content.element.setAttribute('alt', '');
-            content.element.className = 'pswp__img';
-
-            content.pictureElement.appendChild(sourceWebp);
-            content.pictureElement.appendChild(sourceJpg);
-            content.pictureElement.appendChild(content.element);
-
-            content.state = 'loading';
-
-            if (content.element.complete) {
-                content.onLoaded();
-            } else {
-                content.element.onload = () => {
-                    content.onLoaded();
-                };
-
-                content.element.onerror = () => {
-                    content.onError();
-                };
-            }
-        }
-    });
-
-    // by default PhotoSwipe appends <img>,
-    // but we want to append <picture>
-    lightbox.on('contentAppendImage', (e) => {
-        const { content } = e;
-        if (content.pictureElement && !content.pictureElement.parentNode) {
-            e.preventDefault();
-            content.slide.container.appendChild(content.pictureElement);
-        }
-    });
-
-    lightbox.init();
+  lightbox.init();
 </script> {{ $title := .Title }}
 {{ $Resources := .Resources }}
 

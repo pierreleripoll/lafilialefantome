@@ -15,7 +15,7 @@
 
     --main-border: solid 9px;
     --content-gap: 1rem;
-    --gap: 4rem;
+    --gap: 6rem;
 
     --row-logo-height: 100px;
 
@@ -168,7 +168,7 @@ h6,
     margin-bottom: 2rem;
 }
 .content h2 {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .right {
