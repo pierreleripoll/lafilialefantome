@@ -12,7 +12,7 @@
             {{- partialCached "header.html" . .Page -}}
 
 
-            <main class="main">
+            <main id="main" class="main">
                 {{ partial "nav.html" . }}
                 <div class="content">
                     {{- block "main" . }}{{ end }}

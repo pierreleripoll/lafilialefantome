@@ -24,6 +24,11 @@
         min-height: 180px;
     }
 
+    .content {
+        scrollbar-width: normal;
+        scrollbar-color: var(--theme);
+    }
+
     ::-webkit-scrollbar-thumb {
         border-radius: 0;
     }

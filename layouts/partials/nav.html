@@ -25,11 +25,15 @@
         {{- $hasSubmenu := ge (len $sublinks) 1 }}
         {{ $isNotMainSection := not (in site.Params.mainSections $sectionId )}}
 
+        {{- $selected := cond (in $page_url $menu_item_url) `selected` ``}}  
+        {{- $noLink := cond (and $hasSubmenu $isNotMainSection) ` noLink` `` }} 
+        {{- $active := cond (in $page_url $menu_item_url) ` active` ``}}
         
+        {{ $class := printf "%s %s %s" $selected $noLink $active  }}
+
         {{/* {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }} */}}
-        <li>
-            <a href="{{- .URL  }}" class="{{- cond (in $page_url $menu_item_url) `selected` ``}}  {{- cond (and $hasSubmenu $isNotMainSection) ` noLink` `` }} {{- cond (in $page_url
-                $menu_item_url) ` active` `` }}">
+        <li class="{{ $class }}">
+            <a href="{{- .URL  }}" class="{{ $class }}">
 
                 <span class="main-header">
                     {{- .Pre }}

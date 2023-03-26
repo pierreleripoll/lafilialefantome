@@ -1,6 +1,7 @@
 .paginavbar {
     display: flex;
     justify-content: space-between;
+    gap: 6rem;
 }
 
 .paginavbar .prev {
