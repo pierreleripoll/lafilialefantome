@@ -1,0 +1,30 @@
+<script>
+    const content = document.getElementById({{ . }});
+    const contentScrollable = content.scrollHeight > content.clientHeight;
+
+    if (contentScrollable) {
+        function onLoad(e) {
+            if (
+                history.state &&
+                history.state.scrollTop &&
+                content.scrollTop !== history.state.scrollTop
+            )
+                content?.scrollTo({
+                    top: history.state.scrollTop
+                });
+        }
+        onLoad();
+        window.addEventListener('DOMContentLoaded', onLoad);
+
+        window.onbeforeunload = (event) => {
+            window.removeEventListener('DOMContentLoaded', onLoad);
+            window.history.replaceState(
+                {
+                    scrollTop: content.scrollTop
+                },
+                '',
+                window.location.pathname
+            );
+        };
+    }
+</script>

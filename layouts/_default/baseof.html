@@ -14,10 +14,12 @@
 
             <main id="main" class="main">
                 {{ partial "nav.html" . }}
-                <div class="content">
+                <div id="content" class="content">
                     {{- block "main" . }}{{ end }}
+                    {{ partialCached "scroll-restoration" "content" }}
                 </div>
             </main>
+
             {{/* {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
             */}}
         </div>
