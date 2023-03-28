@@ -40,7 +40,7 @@ a.active {
         margin: -2px;
         z-index: 1;
         background-color: white;
-        margin-bottom: var(--gap);
+        margin-bottom: var(--middle-gap);
     }
 
     .menu:not(.open) {

@@ -14,9 +14,9 @@
     --logo-border-middle: solid var(--logo-border-middle-size) var(--theme);
 
     --main-border: solid 9px;
-    --content-gap: 1rem;
-    --gap: 6rem;
-    --middle-gap: 4rem;
+    --content-gap: 1.2rem;
+    --gap: 5.5rem;
+    --middle-gap: 2.8rem;
 
     --row-logo-height: 100px;
 
@@ -170,10 +170,10 @@ h6,
 }
 
 .content h1 {
-    margin-bottom: 3rem;
+    margin-bottom: var(--middle-gap);
 }
 .content h2 {
-    margin-bottom: 1.5rem;
+    margin-bottom: var(--content-gap);
 }
 
 .right {
