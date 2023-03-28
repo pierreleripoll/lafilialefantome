@@ -16,6 +16,7 @@
     --main-border: solid 9px;
     --content-gap: 1rem;
     --gap: 6rem;
+    --middle-gap: 4rem;
 
     --row-logo-height: 100px;
 
@@ -141,6 +142,7 @@ html {
     .content {
         padding-right: var(--logo-border-size);
         overflow-y: scroll;
+        width: 100%;
     }
     .full-height-container {
         height: 100vh;
@@ -151,6 +153,7 @@ h1,
 .main-header {
     font-size: var(--h1-size) !important;
     font-weight: var(--h1-weight) !important;
+    text-align: right;
     /* color: var(--theme); */
 }
 
@@ -167,10 +170,10 @@ h6,
 }
 
 .content h1 {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 .content h2 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .right {

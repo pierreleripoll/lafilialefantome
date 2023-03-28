@@ -18,10 +18,16 @@ a.representation {
     flex-direction: row;
     margin-left: auto;
     margin-bottom: 2em;
+    gap: var(--content-gap);
+}
+
+a.representation .left {
+    flex: 2 1;
 }
 
 a.representation .right {
     text-align: end;
+    flex: 1 1;
 }
 
 a.representation .lieu {
@@ -56,5 +62,8 @@ a.representation .lieu {
     text-align: end;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1008px) {
+    .agenda {
+        margin-left: calc(12vw + var(--content-gap));
+    }
 }

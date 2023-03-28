@@ -421,7 +421,7 @@ div.pswp__img--placeholder,
 .pswp-gallery {
     display: flex;
     flex-wrap: wrap;
-    margin: var(--gap) 0;
+    /* margin: var(--gap) 0; */
     justify-content: flex-end;
 }
 

@@ -28,61 +28,76 @@
 
 
 
-  <h1>
-    {{ .Title }}
-    {{/* {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }} */}}
-  </h1>
+ 
 
   <div class="post-main">
     
 
-    <div class="col-2">
-
-
-      {{- if .Params.representations}}
-
-      <div class="dates">
-            {{- partial "dates.html" . -}}          
-      </div>
-      
-      {{ else }}
-
-        {{ if  (in site.Params.mainSections .Type)}}
-          <p class="no-dates-warning">
-            Pas de dates pour le moment
-          </p>
-        {{ end}}
-      
-      {{- end}}
-
-
-      <div class="post-gallery">
-        {{- partial "gallery.html" . }}
-      </div>
-
-    </div>
-
-    <div class="col-1">
-      <div class="post-content">
-
-
+    <div class="col1">
+      <h1>
+        {{ .Title }}
+      </h1>
+  
+      <div class=" post-div post-content">
+  
+  
         {{- if .Content }}
         {{- if not (.Param "disableAnchoredHeadings") }}
         {{- partial "anchored_headings.html" .Content -}}
         {{- else }}{{ .Content }}{{ end }}
         {{- end }}
-
-
+  
       </div>
+  
+  
+    {{- if .Params.representations}}
+  
+    <div class=" post-div dates">
+          {{- partial "dates.html" . -}}          
+    </div>
+    
+    {{ else }}
+  
+      {{ if  (in site.Params.mainSections .Type)}}
+        <p class="no-dates-warning">
+          Pas de dates pour le moment
+        </p>
+      {{ end}}
+    
+    {{- end}}
 
-      <div class="post-generique">
-        {{- if .Params.generique}}
-        {{ .Params.generique | markdownify}}
-        {{- end -}}
+    <div class=" post-div post-generique">
+      {{- if .Params.generique}}
+      {{ .Params.generique | markdownify}}
+      {{- end -}}
 
+    </div>
+    
+    </div>
+    
+     
+
+    <div class="col2">
+      <div class=" post-div post-gallery">
+        {{- partial "gallery.html" . }}
       </div>
 
     </div>
+
+      
+
+      
+        
+  <div class="col3">
+    <div class=" post-div post-generique">
+      {{- if .Params.generique}}
+      {{ .Params.generique | markdownify}}
+      {{- end -}}
+
+    </div>
+  </div>
+      
+
 
   </div>
 

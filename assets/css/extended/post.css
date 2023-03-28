@@ -16,20 +16,46 @@
 } */
 
 .post-main {
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    flex-direction: row;
-    gap: calc(30px + 5vw);
+    display: block;
+}
+.post-div {
+    margin-bottom: var(--middle-gap);
 }
 
 @media screen and (max-width: 768px) {
-    .post-main {
-        flex-direction: column-reverse;
+    .col1 .post-generique {
+        display: none;
     }
 }
 
 @media screen and (min-width: 768px) {
+    .post-main {
+        flex-direction: row;
+        display: flex;
+        gap: var(--gap);
+        flex-wrap: wrap-reverse;
+        justify-content: space-between;
+    }
+
+    .col1 {
+        order: 2;
+        flex: 1 1 400px;
+        max-width: 800px;
+    }
+
+    .col2 {
+        order: 1;
+        flex: 1 1 400px;
+        max-width: 600px;
+    }
+
+    .col3 {
+        display: none;
+    }
+}
+
+.post-generique {
+    text-align: justify;
 }
 
 .post-main .col-1 {
@@ -46,43 +72,23 @@
     text-align: end;
 }
 
-/* .post-main :is(h1, h2) {
-    text-align: end;
-} */
-
-.post-main h2 {
+.post-main p:not(:last-child) {
     margin-bottom: var(--content-gap);
 }
+
+.post-main p:last-child {
+    margin-bottom: 0px;
+}
+
 .post-content {
     color: var(--theme);
     text-align: justify;
     font-size: medium;
     line-height: initial;
-    margin-bottom: calc(3 * var(--content-gap));
-}
-.post-content :is(h1, h2, h3, h4, h5, h6) {
-    margin: 0;
-    margin-bottom: var(--content-gap);
 }
 
 .no-dates-warning {
     text-align: right;
-}
-
-.post-generique {
-    text-align: justify;
-}
-
-/* .post-generique p:not(:first-child) {
-    margin-top: var(--content-gap);
-} */
-
-.post-generique :is(h1, h2, h3, h4, h5, h6):not(:first-child) {
-    margin-top: 1.5rem;
-}
-
-.post-generique .saison {
-    margin-bottom: 1rem;
 }
 
 .pswp-gallery {

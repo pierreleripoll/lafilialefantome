@@ -51,13 +51,21 @@
 
     .entry-photo > * {
         max-height: 350px;
-        max-width: 500px;
+        max-width: 600px;
         height: 100%;
         width: auto;
     }
 
+    .entry-main {
+        column-gap: var(--gap);
+    }
+
     .entry-content {
-        width: 500px;
+        flex: 1 1 300px;
+        max-width: 650px;
+    }
+    .entry-photo {
+        /* flex: 1 0; */
     }
 }
 

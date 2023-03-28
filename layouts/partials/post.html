@@ -54,15 +54,16 @@
     </div>
      
     {{ else }}
+    <div class="entry-photo">
+
       {{ if  (in site.Params.mainSections .Type)}}
-      {{/*  <div class="entry-photo">
-        <p class="summary">
+        {{/*  <p class="summary">
         {{.Summary | plainify | htmlUnescape }}
 
-      </p>          
-    </div>  */}}
+      </p>            */}}
 
       {{ end }}
+    </div>
 
     {{end}}
     
