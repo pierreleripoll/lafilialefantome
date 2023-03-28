@@ -59,9 +59,11 @@
     {{ else }}
   
       {{ if  (in site.Params.mainSections .Type)}}
-        <p class="no-dates-warning">
-          Pas de dates pour le moment
-        </p>
+        <div class="post-div">
+          <p class="no-dates-warning">
+            Pas de dates pour le moment
+          </p>
+        </div>
       {{ end}}
     
     {{- end}}

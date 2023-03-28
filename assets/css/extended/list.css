@@ -46,18 +46,24 @@
 
 @media screen and (min-width: 768px) {
     .entry-photo {
-        width: 768px;
+        width: 40vw;
+        min-width: 450px;
+        max-width: 650px;
+        flex-shrink: 1;
+        flex-grow: 1;
+        flex-basis: 40vw;
     }
 
     .entry-photo > * {
-        max-height: 350px;
-        max-width: 600px;
+        max-height: 400px;
+        max-width: max(650px, 40vw);
+        min-width: 400px;
         height: 100%;
         width: auto;
     }
 
     .entry-main {
-        column-gap: var(--gap);
+        column-gap: var(--middle-gap);
     }
 
     .entry-content {
