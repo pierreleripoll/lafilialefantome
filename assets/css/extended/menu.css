@@ -39,7 +39,7 @@ a.active {
         padding: 8px 2px 12px;
         margin: -2px;
         z-index: 1;
-        background-color: white;
+        background-color: transparent;
         margin-bottom: var(--middle-gap);
     }
 
