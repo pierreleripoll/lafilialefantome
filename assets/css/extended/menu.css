@@ -37,10 +37,9 @@ a.active {
         position: sticky;
         top: -2px;
         padding: 8px 2px 12px;
-        margin: -2px;
+        margin: -8px -2px var(--middle-gap) -2px;
         z-index: 1;
         background-color: transparent;
-        margin-bottom: var(--middle-gap);
     }
 
     .menu:not(.open) {

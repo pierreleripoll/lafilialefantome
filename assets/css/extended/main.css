@@ -147,12 +147,14 @@ html {
         justify-content: space-between;
     }
 
-    .menu {
-        padding-top: calc(3 * var(--row-logo-height));
+    .menu,
+    .content {
+        padding-top: calc(
+            3 * var(--row-logo-height) - var(--logo-border-middle-size)
+        );
     }
     .content {
-        padding-top: calc(3 * var(--row-logo-height));
-        padding-right: var(--logo-border-size);
+        padding-right: var(--content-gap);
         overflow-y: scroll;
         width: 100%;
     }

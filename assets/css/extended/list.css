@@ -106,10 +106,10 @@
     color: var(--blue);
 }
 
-.content h1:not(:first-child) {
-    margin-top: var(--header-padding-top);
+.content .list h1 {
+    margin-bottom: 0;
+    margin: var(--gap) auto;
 }
-
 .entry-link-wrapper:hover {
     cursor: pointer;
 }

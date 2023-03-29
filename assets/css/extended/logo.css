@@ -92,15 +92,8 @@
 }
 
 @media screen and (min-width: 769px) {
-    .third-row-logo {
-        background: transparent;
-        width: calc(100vw - var(--logo-border-size) - 2px);
-    }
     .row-logo {
         z-index: 100;
         background-color: transparent;
     }
-    /* .third-row-logo .block-logo {
-        background-color: transparent;
-    } */
 }

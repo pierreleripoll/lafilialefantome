@@ -98,13 +98,13 @@ menu:
           url: /quisommesnous/
           weight: 35
         - identifier: collaborations
-          name: 'Les ami·e·s'
+          name: 'Ami·e·s'
           url: /collaborations/
           weight: 40
         - identifier: autres
           name: 'Autres'
           url: /autres/
-          weight: 25
+          weight: 40
         - identifier: contact
           name: Contact
           url: /contact/

@@ -20,7 +20,7 @@
             {{ $hasEnCours := ge (len $enCours) 1 }}
 
             {{ if $hasEnCours }}
-                <h1 class="main-header list-title">en cours</h1>
+                {{/* <h1 class="main-header list-title">en cours</h1> */}}
                 {{- range $enCours }}
 
                     {{ partial "post.html" . }}
@@ -42,7 +42,7 @@
             {{ $hasPasse := ge (len $passe) 1 }}
 
             {{ if $hasPasse }}
-                <h1 class="main-header list-title">passés</h1>
+                <h1 class="main-header list-title">projets passés</h1>
 
                 {{- range $passe }}
                     {{ partial "post.html" . }}
