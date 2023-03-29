@@ -135,11 +135,11 @@ html {
     .main {
         position: relative;
         top: calc(
-            -1 * (var(--row-logo-height) - var(--logo-border-middle-size))
+            -1 * (3 * var(--row-logo-height) - var(--logo-border-middle-size))
         );
         min-height: 0;
         margin-bottom: calc(
-            -1 * (var(--row-logo-height) - var(--logo-border-middle-size)) + 2px
+            -1 * (3 * var(--row-logo-height) - var(--logo-border-middle-size))
         );
         max-width: 100vw;
         padding: 0;
@@ -148,10 +148,10 @@ html {
     }
 
     .menu {
-        padding-top: var(--row-logo-height);
+        padding-top: calc(3 * var(--row-logo-height));
     }
     .content {
-        padding-top: var(--row-logo-height);
+        padding-top: calc(3 * var(--row-logo-height));
         padding-right: var(--logo-border-size);
         overflow-y: scroll;
         width: 100%;
