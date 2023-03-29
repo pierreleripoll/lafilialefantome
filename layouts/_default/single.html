@@ -36,7 +36,18 @@
     <div class="col1">
       <h1>
         {{ .Title }}
+        {{ if .Params.year }}
+      <span>
+        <h2>
+          {{ .Params.year}}
+        </h2>
+      </span>
+        
+      {{ end }}
       </h1>
+      
+
+      
   
       <div class=" post-div post-content">
   

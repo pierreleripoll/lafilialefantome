@@ -149,6 +149,7 @@ collections:
                 options: ['En cours', 'Passé', 'Futur'],
                 default: 'En cours'
             }
+          - { label: 'Année', name: 'year', required: false, widget: 'number' }
           - label: 'Représentations'
             name: 'representations'
             widget: 'list'
@@ -221,6 +222,8 @@ collections:
       #     preview: true
       fields:
           - { label: 'Titre', name: 'title', required: true, widget: 'string' }
+          - { label: 'Année', name: 'year', required: false, widget: 'number' }
+
           - {
                 label: 'Statut du projet',
                 name: 'statut',

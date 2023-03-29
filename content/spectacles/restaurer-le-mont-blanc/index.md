@@ -1,5 +1,6 @@
 ---
-title: Restaurer le Mont-Blanc (2025)
+title: Restaurer le Mont-Blanc
+year: 2025
 statut: Futur
 photos:
   - photo: atlas-of-places-viollet-le-duc-le-massif-du-mont-blanc-gph-5.jpg
