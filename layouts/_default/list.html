@@ -4,7 +4,10 @@
 
     <div class="list">
         {{ if  not (or (in site.Params.mainSections .Section ) (.IsHome) ) }}
-            {{- range $pages }}
+
+            {{ $pages_sorted := sort $pages "Weight" "desc" }}
+
+            {{- range $pages_sorted }}
                 {{ partial "post.html" . }}
             {{- end }}
 

@@ -1,5 +1,6 @@
 ---
 title: Collectif CCC
+weight: 10
 photos:
   - photo: 325x283-mag17-32_0.jpg
 ---

@@ -1,5 +1,6 @@
 ---
 title: Romain Daroles
+weight: 10
 photos:
     - photo: petits-cubes-600x360.jpg
     - photo: f-bf5-56a3bda067477.jpg

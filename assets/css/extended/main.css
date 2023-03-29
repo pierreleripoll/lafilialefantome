@@ -8,7 +8,7 @@
     --underline-link: 1px solid var(--blue);
 
     --logo-border-size: 18px;
-    --small-main-padding: 5px;
+    --small-main-padding: 0.8rem;
     --logo-border-middle-size: 16px;
     --logo-border: solid var(--logo-border-size) var(--theme);
     --logo-border-middle: solid var(--logo-border-middle-size) var(--theme);
@@ -154,7 +154,7 @@ html {
         );
     }
     .content {
-        padding-right: var(--content-gap);
+        padding-right: var(--small-main-padding);
         overflow-y: scroll;
         width: 100%;
     }

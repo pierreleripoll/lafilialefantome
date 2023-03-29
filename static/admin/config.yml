@@ -20,6 +20,13 @@ collections:
       fields:
           - { label: 'Nom', name: 'title', required: true, widget: 'string' }
           - {
+                label: 'Poids ( + grand => + haut )',
+                name: 'weight',
+                required: true,
+                default: 10,
+                widget: 'number'
+            }
+          - {
                 label: 'Description',
                 name: 'body',
                 required: true,
@@ -56,6 +63,13 @@ collections:
       public_folder: ''
       fields:
           - { label: 'Nom', name: 'title', required: true, widget: 'string' }
+          - {
+                label: 'Poids ( + grand => + haut )',
+                name: 'weight',
+                required: true,
+                default: 10,
+                widget: 'number'
+            }
           - {
                 label: 'Description',
                 name: 'body',

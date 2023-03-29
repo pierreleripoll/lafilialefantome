@@ -1,9 +1,10 @@
 ---
-title: 'La Compagnie '
+title: "La Compagnie "
+weight: 100
 generique: |-
-    [Instagram](https://www.instagram.com/lafilialefantome/)
+  [Instagram](https://www.instagram.com/lafilialefantome/)
 
-    ![]()
+  ![]()
 ---
 
 La Filiale Fantôme est une compagnie de production théâtrale créée en 2014, dont la direction artistique est assumée conjointement par Mathias Brossard, Romain Daroles et François-Xavier Rouyer.
