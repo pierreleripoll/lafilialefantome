@@ -131,15 +131,27 @@ html {
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     .main {
+        position: relative;
+        top: calc(
+            -1 * (var(--row-logo-height) - var(--logo-border-middle-size))
+        );
         min-height: 0;
+        margin-bottom: calc(
+            -1 * (var(--row-logo-height) - var(--logo-border-middle-size)) + 2px
+        );
         max-width: 100vw;
         padding: 0;
         padding-left: calc(var(--small-main-padding) + var(--logo-border-size));
         justify-content: space-between;
     }
+
+    .menu {
+        padding-top: var(--row-logo-height);
+    }
     .content {
+        padding-top: var(--row-logo-height);
         padding-right: var(--logo-border-size);
         overflow-y: scroll;
         width: 100%;

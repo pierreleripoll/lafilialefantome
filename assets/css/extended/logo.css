@@ -91,5 +91,10 @@
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
+    .third-row-logo {
+        z-index: 100;
+        background: white;
+        width: calc(100% - var(--logo-border-size));
+    }
 }

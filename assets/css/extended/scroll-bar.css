@@ -17,7 +17,7 @@
 }
 
 /* from zmedia */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     ::-webkit-scrollbar {
         height: 11px;
         width: 18px;
