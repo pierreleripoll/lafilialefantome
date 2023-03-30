@@ -1,0 +1,10 @@
+/*.woff2
+    Cache-Control: public, max-age=86400, immutable
+/*.css
+    Cache-Control: public, max-age=0, immutable
+/*.js
+    Cache-Control: public, max-age=0, immutable
+/*.webp
+    Cache-Control: public, max-age=86400, immutable
+/*.jpg
+    Cache-Control: public, max-age=86400, immutable

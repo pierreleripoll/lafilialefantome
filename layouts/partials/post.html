@@ -43,12 +43,14 @@
       {{ $photoWebp := $photoRessource.Resize (printf "%dx%d webp q95 CatmullRom" $newWidth $newHeight)}}
 
     <div class ="entry-photo"> 
+      {{ $index := .Scratch.Get "index"}}
+      {{ $lazyImg := or (eq $index nil) (ge (.Scratch.Get "index") 5) }}
 
         <img
             width="{{ $newWidth }}"
             height="{{ $newHeight }}"
             src="{{ $photoWebp.RelPermalink }}"
-            loading="lazy"
+            loading="{{ cond ($lazyImg)  `lazy` `eager` }}"
             alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
        />  
     </div>

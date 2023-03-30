@@ -59,6 +59,7 @@ body {
     font-family: 'Helvetica Neue Light';
     src: url('/fonts/HelveticaNeue-Light.woff2') format('woff2'),
         url('/fonts/HelveticaNeue-Light.ttf') format('ttf');
+    font-display: swap;
 }
 body {
     background-color: var(--main-bg);

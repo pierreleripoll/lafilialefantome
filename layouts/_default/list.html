@@ -24,8 +24,11 @@
 
             {{ if $hasEnCours }}
                 {{/* <h1 class="main-header list-title">en cours</h1> */}}
-                {{- range $enCours }}
+                {{ .Scratch.Set "index" 0 }}
 
+                {{- range $enCours }}
+                    {{ $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) }}
+                    {{ .Scratch.Set "index" ($.Scratch.Get "index") }}
                     {{ partial "post.html" . }}
                 {{- end }}
             {{- end }}

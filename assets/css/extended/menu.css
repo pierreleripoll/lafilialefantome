@@ -36,8 +36,8 @@ a.active {
         align-items: start;
         position: sticky;
         top: -2px;
-        padding: 8px 2px 12px;
-        margin: -18px -2px var(--middle-gap) -2px;
+        padding: 8px 0px 12px;
+        margin: -28px 0px var(--middle-gap) -2px;
         z-index: 1;
         background-color: transparent;
     }
