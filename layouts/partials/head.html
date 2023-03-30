@@ -193,23 +193,23 @@
 {{- /* Favicons */}}
 <link
     rel="icon"
-    href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}"
+    href="{{ site.Params.assets.favicon | default "/favicon/favicon.ico" | absURL }}"
 />
 <link
     rel="icon"
     type="image/png"
     sizes="16x16"
-    href="{{ site.Params.assets.favicon16x16 | default "favicon-16x16.png" | absURL }}"
+    href="{{ site.Params.assets.favicon16x16 | default "/favicon/favicon-16x16.png" | absURL }}"
 />
 <link
     rel="icon"
     type="image/png"
     sizes="32x32"
-    href="{{ site.Params.assets.favicon32x32 | default "favicon-32x32.png" | absURL }}"
+    href="{{ site.Params.assets.favicon32x32 | default "/favicon/favicon-32x32.png" | absURL }}"
 />
 <link
     rel="apple-touch-icon"
-    href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}"
+    href="{{ site.Params.assets.apple_touch_icon | default "/favicon/apple-touch-icon.png" | absURL }}"
 />
 <link
     rel="mask-icon"
