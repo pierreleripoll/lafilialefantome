@@ -19,9 +19,10 @@ representations:
     lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
     datestext: 24 - 25 juin 2023
 photos:
-  - photo: large_metropolis_moc_blu-ray_eye.jpg
-  - photo: large_days_of_heaven_blu-ray1x.jpg
-  - photo: large_nausicaa_valley_wind_blu-ray_4.jpg
+  - photo: acte-2e-c-robin-dupuis-i.jpg
+  - photo: platonov8.jpeg
+  - photo: acte-5c-c-joan-mompart-i.jpg
+  - photo: acte-4-c-joan-mompart-i-scaled.jpg
 generique: >-
   Texte *Anton Tchekhov* \
 
