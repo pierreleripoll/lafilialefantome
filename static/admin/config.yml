@@ -229,7 +229,7 @@ collections:
                 name: 'statut',
                 required: true,
                 widget: 'select',
-                options: ['En cours', 'Passé', 'Futur'],
+                options: ['En cours', 'Passé'],
                 default: 'En cours'
             }
           - label: 'Représentations'

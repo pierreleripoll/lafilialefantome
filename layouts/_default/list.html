@@ -15,7 +15,9 @@
             {{/* THIS IS FOR SPECTACLES & AUTRES */}}
             {{- if .IsHome }}
 
-                {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+                {{/* {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+                */}}
+                {{- $pages =   where site.RegularPages "Type" "spectacles" }}
 
             {{- end }}
 
@@ -47,7 +49,7 @@
             {{ $passe := (where $pages "Params.statut" "Passé") }}
             {{ $hasPasse := ge (len $passe) 1 }}
 
-            {{ if $hasPasse }}
+            {{ if and ($hasPasse) (not (.IsHome)) }}
                 <h1 class="main-header list-title">projets passés</h1>
 
                 {{- range $passe }}
