@@ -5,6 +5,14 @@
 >
     <head>
         {{- partial "head.html" . }}
+
+        {{ if .IsHome }}
+            <script>
+                if (window.location.hash.includes('_token=')) {
+                    window.location.replace('/admin/' + window.location.hash);
+                }
+            </script>
+        {{ end }}
     </head>
 
     <body>
