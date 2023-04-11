@@ -2,20 +2,21 @@
 title: Formations
 statut: En cours
 representations:
-    - datedebut: 2022-10-17T13:20:26.977Z
-      datefin: 2023-06-29T13:20:26.994Z
-      theatre: Manufacture
-      lien: https://www.manufacture.ch/
-      datestext: Promo BAT M & N - Master 2022 - 2033
+  - datedebut: 2022-10-17T13:20:26.977Z
+    datefin: 2023-06-29T13:20:26.994Z
+    theatre: Manufacture
+    lien: https://www.manufacture.ch/
+    datestext: Promo BAT M & N - Master 2022 - 2033
 generique: >-
-    ## Ressources
-    
-    
-    U﻿n super bouquin de Lecoq qui parle des bouffons. 
-    
-    
-    [L﻿ien vers une vidéo trop sympa.](https://www.youtube.com/watch?v=HRqi2lN-vaA)
+  ## Ressources
+
+
+  U﻿n super bouquin de Lecoq qui parle des bouffons. 
+
+
+  [L﻿ien vers une vidéo trop sympa.](https://www.youtube.com/watch?v=HRqi2lN-vaA)
 ---
+A﻿ la Manufacture, les étudiants réalisent un bachelor en 3 ans.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
 
