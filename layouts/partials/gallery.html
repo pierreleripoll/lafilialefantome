@@ -153,21 +153,23 @@ lightbox.addFilter('itemData', (itemData, index) => {
     {{ range $photo := .Param "photos" }}
 
         {{ $image := $Resources.GetMatch $photo.photo }}
-        {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" $image.Width $image.Height) }}
-        {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
+        {{ if $image }}
+            {{ $imageWebp := $image.Resize (printf "%dx%d webp q95 CatmullRom" $image.Width $image.Height) }}
+            {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
 
 
-        <a
-            href="{{ $image.RelPermalink }}"
-            data-pswp-width="{{ $image.Width }}"
-            data-pswp-height="{{ $image.Height }}"
-            data-pswp-webp-src="{{ $imageWebp.RelPermalink }}"
-            target="_blank"
-        >
-            <img
-                src="{{ $thumbnail.RelPermalink }}"
-                alt="{{ $photo.alt | default (strings.TrimSuffix (path.Ext $image.Name) $image.Name) }}"
-            />
-        </a>
+            <a
+                href="{{ $image.RelPermalink }}"
+                data-pswp-width="{{ $image.Width }}"
+                data-pswp-height="{{ $image.Height }}"
+                data-pswp-webp-src="{{ $imageWebp.RelPermalink }}"
+                target="_blank"
+            >
+                <img
+                    src="{{ $thumbnail.RelPermalink }}"
+                    alt="{{ $photo.alt | default (strings.TrimSuffix (path.Ext $image.Name) $image.Name) }}"
+                />
+            </a>
+        {{ end }}
     {{ end }}
 </div>
