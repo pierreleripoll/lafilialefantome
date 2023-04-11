@@ -1,18 +1,32 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Content Manager</title>
+        <!-- Include the script that enables Netlify Identity on this page. -->
+        <script src="/admin/netlify-identity-widget.js"></script>
+    </head>
 
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-  <!-- Include the script that enables Netlify Identity on this page. -->
-  <script src="/admin/netlify-identity-widget.js"></script>
-</head>
-
-<body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="/admin/netlify-cms.js"></script>
-</body>
-
-
+    <body>
+        <!-- Include the script that builds the page and powers Netlify CMS -->
+        <script src="/admin/netlify-cms.js"></script>
+        <a
+            class="build-status-badge"
+            href="https://app.netlify.com/sites/lafilialefantome/deploys"
+            rel="nofollow"
+            ><img
+                src="https://camo.githubusercontent.com/796e10a0f052dbca6dc0561d90fc6bf1a98f55bf00f25f1ea5f44d537cfb7bde/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f31303164323137632d633566612d343062322d613135302d3131353235323333643038382f6465706c6f792d737461747573"
+                alt="Netlify Status"
+                data-canonical-src="https://api.netlify.com/api/v1/badges/101d217c-c5fa-40b2-a150-11525233d088/deploy-status"
+                style="max-width: 100%;"
+        /></a>
+    </body>
+    <style>
+        .build-status-badge {
+            position: fixed;
+            bottom: 0px;
+            right: 0px;
+        }
+    </style>
 </html>
