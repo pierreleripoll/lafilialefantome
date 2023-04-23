@@ -1,10 +1,4 @@
 :root {
-    --main-bg: white;
-    --code-bg: white;
-
-    --theme: rgb(30, 30, 30);
-    --blue: rgb(52, 52, 255);
-
     --underline-link: 1px solid var(--blue);
 
     --logo-border-size: 18px;
@@ -30,6 +24,31 @@
 
     --width-mobile: 768px;
 }
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --main-bg: white;
+        --code-bg: white;
+
+        --theme: rgb(30, 30, 30);
+        --primary: black;
+        --secondary: var(--theme);
+        --blue: rgb(52, 52, 255);
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main-bg: black;
+        --code-bg: black;
+
+        --theme: rgb(245, 245, 245);
+        --primary: white;
+        --secondary: var(--theme);
+        --blue: rgb(52, 52, 255);
+    }
+}
+
 a {
     text-decoration: underline var(--underline-link);
     text-underline-offset: 2px;

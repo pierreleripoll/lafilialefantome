@@ -76,7 +76,7 @@
 }
 
 .entry-content {
-    color: black;
+    color: var(--primary);
     /* background: white; */
     display: flex;
     /* border: solid; */
@@ -93,7 +93,7 @@
 }
 
 .entry-content p {
-    color: black;
+    color: var(--primary);
     text-align: justify;
 }
 

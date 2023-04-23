@@ -1,8 +1,8 @@
 /*! PhotoSwipe main CSS by Dmytro Semenov | photoswipe.com */
 
 .pswp {
-    --pswp-bg: white;
-    --pswp-placeholder-bg: white;
+    --pswp-bg: var(--main-bg);
+    --pswp-placeholder-bg: var(--main-bg);
 
     --pswp-root-z-index: 100000;
 
@@ -12,12 +12,16 @@
     /* defined via js:
   --pswp-transition-duration: 333ms; */
 
-    --pswp-icon-color: var(-theme);
-    --pswp-icon-color-secondary: white;
-    --pswp-icon-stroke-color: white;
+    --pswp-icon-color: var(--primary);
+    --pswp-icon-color-secondary: var(--main-bg);
+    --pswp-icon-stroke-color: var(--main-bg);
     --pswp-icon-stroke-width: 2px;
 
     --pswp-error-text-color: var(--pswp-icon-color);
+}
+
+.pswp__top-bar {
+    background-color: var(--main-bg);
 }
 
 /*
@@ -464,10 +468,6 @@ div.pswp__img--placeholder,
     height: 34px;
     overflow: hidden;
     pointer-events: none;
-}
-
-.pswp__top-bar {
-    background-color: white;
 }
 
 .hidden-caption-content {
