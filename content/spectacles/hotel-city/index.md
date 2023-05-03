@@ -46,6 +46,6 @@ generique: >-
 
 Hôtel City est une installation d’art contemporain à la croisée du cinéma et du théâtre. Le spectateur pénètre dans une salle de surveillance laissée à l’abandon où de nombreux ordinateurs, écrans, cartes interactives sont en libre accès. Au spectateur de devenir acteur de l’œuvre et d’en résoudre les énigmes en enquêtant à l’intérieur même de l’installation, jungle de signes, de références, de fausses pistes et de symboles.
 
-[Découvrez notre nouveau teaser en cliquant ici.](https://www.youtube.com/watch?v=mWCpUQZMc_g)
+
 
 ![]()
