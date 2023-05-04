@@ -1,5 +1,5 @@
 ---
-title: Vita Nova
+title: Vita Nova, Romain Daroles
 year: 2018
 statut: Passé
 representations:
@@ -34,15 +34,27 @@ generique: >-
 
   Conception et interprétation *Romain Daroles*
 
+
+
   Collaboration artistique *Mathias Brossard, François-Xavier Rouyer et Romain Daroles*
+
+
 
   Accompagnement artistique *Michèle Pralong*
 
+
+
   Production *La Filiale Fantôme*
+
+
 
   Administration *Marianne Aguado - ISKANDAR*
 
+
+
   Soutiens *Société Alba Gestion (Michel Bosio), Loterie Romande, La Corodis.* 
+
+
 
   Remerciements *La Manufacture - Haute Ecoles des Arts de la Scène, L'Arsenic - Centre d'art scénique contemporain*
 ---
