@@ -3,21 +3,36 @@ title: Les Rigoles
 year: 2021
 statut: En cours
 representations:
-  - datedebut: 2021-05-18T13:07:34.595Z
-    datefin: 2021-05-23T13:07:00.000Z
-    theatre: Théâtre Les Halles, Sierre (CH)
-    lien: https://www.theatre-leshalles.ch/
-    datestext: 18 - 23 mai 2021
-  - datedebut: 2021-07-27T13:12:59.779Z
-    datefin: 2021-07-30T13:12:00.000Z
-    theatre: Théâtre L'Orangerie, Genève (CH)
-    lien: https://www.theatreorangerie.ch/
-    datestext: 27 - 30 juillet 2021
   - datedebut: 2021-08-18T13:11:56.324Z
     datefin: 2021-08-20T13:11:00.000Z
     theatre: Far°, Nyon (CH)
     lien: https://far-nyon.ch/festival/section-edition/programme-2021/les-rigoles.html
     datestext: 18 - 20 août 2021
+  - datedebut: 2021-07-27T13:12:59.779Z
+    datefin: 2021-07-30T13:12:00.000Z
+    theatre: Théâtre L'Orangerie, Genève (CH)
+    lien: https://www.theatreorangerie.ch/
+    datestext: 27 - 30 juillet 2021
+  - datedebut: 2021-05-18T13:07:34.595Z
+    datefin: 2021-05-23T13:07:00.000Z
+    theatre: Théâtre Les Halles, Sierre (CH)
+    lien: https://www.theatre-leshalles.ch/
+    datestext: 18 - 23 mai 2021
+photos:
+  - photo: rigoles_3-_t.zurbuchen-®_-11-sur-16-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_3-_t.zurbuchen-®_-8-sur-16-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_4-_t.zurbuchen-®_-1-sur-22-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_4-_t.zurbuchen-®_-19-sur-22-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_4-_t.zurbuchen-®_-22-sur-22-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_5-_t.zurbuchen-®_-7-sur-8-.jpg
+    alt: "© Timothée Zurbuchen "
+  - photo: rigoles_5-_t.zurbuchen-®_-8-sur-8-.jpg
+    alt: "© Timothée Zurbuchen "
 generique: >-
   Texte *Brecht Evens* \
 
