@@ -1,23 +1,57 @@
 ---
-title: Formations
+title: "FORMATION, BA·Théâtre · promo N : Les Amants Magnifiques"
 statut: En cours
+year: 2022
 representations:
-  - datedebut: 2022-10-17T13:20:26.977Z
-    datefin: 2023-06-29T13:20:26.994Z
-    theatre: Manufacture
-    lien: https://www.manufacture.ch/
-    datestext: Promo BAT M & N - Master 2022 - 2033
+  - datedebut: 2023-05-24T13:20:26.977Z
+    datefin: 2023-05-25T13:20:00.000Z
+    theatre: Théâtre du Jura
+    lien: https://www.theatre-du-jura.ch/f/programme/detail/220-les-amants-magnifiques
+    datestext: "BA·Théâtre · promo N : Les Amants Magnifiques"
+photos:
+  - photo: https://www.theatre-du-jura.ch/uploads/800_800_platonov_2019-j._mompart0251.jpeg
+    alt: Photo tirée de "Platonov", mis en scène de Mathias Brossard
 generique: >-
-  ## Ressources
+  <!--StartFragment-->
 
 
-  U﻿n super bouquin de Lecoq qui parle des bouffons. 
+  Mise en scène : Mathias Brossard, [Mélina Martin](https://www.manufacture.ch/fr/1585/Melina-Martin)\
+
+  \
+
+  avec les étudiant·es du Bachelor Théâtre, promotion N\
+
+  [Noam Azouz](https://www.manufacture.ch/fr/5872/Noam-Azouz), [Louis Balan](https://www.manufacture.ch/fr/5887/Louis-Balan), [Enora Cini](https://www.manufacture.ch/fr/5873/Enora-Cini), [Nina Crespillo](https://www.manufacture.ch/fr/5874/Nina-Crespillo), [Louise Crouzet](https://www.manufacture.ch/fr/5875/Louise-Crouzet), [Claire Danalet](https://www.manufacture.ch/fr/5876/Claire-Danalet), [Lorna Dessaux](https://www.manufacture.ch/fr/5877/Lorna-Dessaux), [Marie Fuhrer](https://www.manufacture.ch/fr/5878/Marie-Fuhrer), [Tobia Giorla](https://www.manufacture.ch/fr/5879/Tobia-Giorla), [Lisa Giudice](https://www.manufacture.ch/fr/5880/Lisa-Giudice), [Mathis Josselin](https://www.manufacture.ch/fr/5881/Mathis-Josselin), [Gabrielle Pialoux](https://www.manufacture.ch/fr/5882/Gabrielle-Pialoux), [Emile Renaudot](https://www.manufacture.ch/fr/5883/Emile-Renaudot), [Bilgi Sahin](https://www.manufacture.ch/fr/5884/Bilgi-Sahin), [Zoé Simon](https://www.manufacture.ch/fr/5885/Zoe-Simon), [Yohann Thenaisie](https://www.manufacture.ch/fr/5886/Yohann-Thenaisie)\
+
+  \
+
+  Technique : Robin Dupuis
 
 
-  [L﻿ien vers une vidéo trop sympa.](https://www.youtube.com/watch?v=HRqi2lN-vaA)
+  <!--EndFragment-->
 ---
-A﻿ la Manufacture, les étudiants réalisent un bachelor en 3 ans.
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque lacinia odio, ut vestibulum enim mattis varius. Nam tincidunt est et ipsum lobortis porttitor. Etiam lobortis mattis est, in finibus enim fringilla ac. Fusce sed tempor diam, sit amet pharetra erat. Nam rutrum, nunc vitae fringilla efficitur, quam arcu ultrices elit, at semper orci lacus vel quam. Nulla facilisi. Curabitur venenatis nisl vitae ipsum molestie, vitae vehicula lectus sodales. Aliquam erat volutpat. Ut eu augue laoreet, auctor ipsum non, finibus augue. Pellentesque vulputate accumsan ipsum, vel aliquet nisi sodales non. Donec nulla velit, sodales et lorem eget, tincidunt maximus felis.
+### BA·Théâtre · promo N : Les Amants Magnifiques
 
-Vivamus non velit id dui tempor molestie in ac est. Sed sagittis nisi ut justo porta, a rhoncus leo varius. Maecenas ante elit, tempor id purus ut, fermentum gravida mi. Fusce vehicula fermentum eleifend. Donec sagittis arcu quis diam tincidunt, et vehicula arcu dapibus. Phasellus ex libero, aliquam ut ante a, placerat fermentum augue. Sed erat enim, molestie vitae augue vitae, sagittis ullamcorper libero. Cras scelerisque turpis orci, ac sagittis mauris lobortis id. Donec tincidunt arcu non massa rhoncus, sit amet sollicitudin mi dignissim. Aenean nec lacinia arcu. Suspendisse non consectetur nibh, sed aliquam eros. Vivamus non luctus urna. Donec aliquet fringilla elit, quis mattis orci fringilla pretium. Sed mattis magna ut metus porta posuere.
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Faire de la forêt et de la clairière un nouveau terrain de jeu, c’est l’expérience proposée aux étudiant·es de la promotion N de La Manufacture par Mathias Brossard et Mélina Martin.
+
+Sortir du théâtre, sortir de la boîte noire, quitter le territoire connu pour en explorer un autre. Faire de la forêt, du pré, de la clairière notre nouveau terrain de jeu. C’est l’expérience que vivront les étudiant·es de La Manufacture à travers ce stage sur le théâtre in situ.
+
+Sans tréteaux, sans électricité, à même le sous-bois ou l’herbe verte, avec pour seul décor le coin de montagne que nous nous serons choisis, inventer un théâtre à ciel ouvert loin de la salle de spectacle de La Manufacture que les étudiant·es arpentent le reste de l’année. L’occasion pour les étudiant·es de partir à la rencontre d’un territoire et d’un public qu’ils et elles ne connaissent pas ou peu dans leur quotidien estudiantin à Lausanne. Passer trois semaines en pleine nature, à la campagne, et regarder quel théâtre, quels types de jeu peuvent émerger de cette expérience.
+
+Pendant trois semaines donc les étudiant·es de la promotion N seront accompagnés de Mathias Brossard et Mélina Martin dans les Franches Montagnes pour mettre Molière à l’épreuve des pentes, des ruisseaux et autres points de vue qu'ils et elles rencontreront sur leur chemin. 
+
+À proximité d’une forêt, ils et elles établiront leur camp de base et feront résonner la langue de Molière et les notes de Lully pour donner corps à cette comédie ballet injustement oubliée : *Les Amants Magnifiques*. L’histoire d’une jeune princesse à qui sa reine de mère offre le droit de choisir son futur mari parmi deux princes qui rivalisent de présents, et de félonies, pour s’attirer son cœur et conquérir le pouvoir. Mais notre princesse en aime un autre secrètement et retarde indéfiniment le moment de faire son choix... Apparaîtront alors un astrologue, une fausse déesse Vénus, un chœur de bergers, et même un sanglier pour sceller le sort de nos magnifiques amants.
+
+##### me 24 au ve 25 mai 2023
+
+Commune de Montfaucon 
+
+En partenariat avec le Théâtre du Jura
+
+<!--EndFragment-->
