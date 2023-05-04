@@ -38,7 +38,7 @@ generique: >-
 
   Régisseur général *Achille Dubau* \
 
-  Administration *Marianne Aguado – ISKANDAR*
+  Administration et diffusion *Marianne Aguado – ISKANDAR*
 
 
   Production *La Filiale Fantôme x Collectif CCC*
