@@ -19,10 +19,24 @@ representations:
     lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
     datestext: 24 - 25 juin 2023
 photos:
-  - photo: acte-2e-c-robin-dupuis-i.jpg
+  - photo: pro-capture-one-0062.jpg
+    alt: © Timothée Zurbuchen
   - photo: platonov8.jpeg
-  - photo: acte-5c-c-joan-mompart-i.jpg
+    alt: ""
   - photo: acte-4-c-joan-mompart-i-scaled.jpg
+    alt: © Joan Mompart
+  - photo: acte-5c-c-joan-mompart-i.jpg
+    alt: © Joan Mompart
+  - photo: img-20220606-wa0007.jpg
+    alt: © Timothée Zurbuchen
+  - photo: _dsc0305.jpg
+    alt: © Joan Mompart
+  - photo: platonov_comedie0415-positive.jpg
+    alt: © Timothée Zurbuchen
+  - photo: pro-capture-one-0025.jpg
+    alt: © Timothée Zurbuchen
+  - photo: _dsc0378.jpg
+    alt: © Joan Mompart
 generique: >-
   Texte *Anton Tchekhov* \
 
