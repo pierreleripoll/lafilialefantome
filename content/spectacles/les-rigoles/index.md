@@ -51,7 +51,7 @@ generique: >-
 
   Production *La Filiale Fantôme x Collectif CCC* 
 
-  Coproductions *Théâtre Les Halles de Sierre, Festival du Far° de Nyon, Théâtre de l’Orangerie Genève* 
+  Coproductions *Théâtre Les Halles de Sierre, Festival du Far° de Nyon, Théâtre de l’Orangerie Genève*
 
   Soutiens *Canton de Vaud, Fondation Jan Michalski pour l’écriture, Fondation Nestlé pour l’Art, Loterie Romande Valais, Fondation Ernst Göhner, Fondation SIS, Fondation Philanthropique Famille Sandoz, Ville de Lausanne, Corodis.*
 ---
