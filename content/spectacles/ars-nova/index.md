@@ -1,5 +1,5 @@
 ---
-title: Ars Nova
+title: "Ars Nova, Romain Daroles "
 year: 2024
 statut: En cours
 photos:
