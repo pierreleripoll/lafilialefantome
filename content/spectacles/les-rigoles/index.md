@@ -48,19 +48,22 @@ Adaptation in situ de la bande dessinée de Brecht Evens, Les Rigoles nous invit
 [Journal L’illustré - Mai 2021](https://www.pressreader.com/switzerland/l-illustre/20210519/281659667936691)
 
 « A 31 ans, Mathias Brossard est l’une des figures montantes de la nouvelle génération de metteurs en scène en Suisse. »\
-Heidi News - Jade Albasini - Fév. 2021
+[Heidi News - Jade Albasini - Fév. 2021](https://www.heidi.news/culture/ecolo-il-dessine-le-theatre-du-futur-en-exterieur)
 
 « La ville comme terrain de jeu. » \
 24 heures - Août 2021
 
-«\*\* *On sent la puissance et la force de la nature.»\
-Le Courrier - Cécilia della Torre - Juil.2021
+«On sent la puissance et la force de la nature.»\
+[Le Courrier - Cécilia della Torre - Juil.2021](https://lecourrier.ch/2021/07/27/on-sent-la-puissance-et-la-force-de-la-nature/)
 
-« Les Rigoles est un spectacle simple parce qu’accessible et proche de nous, parce que les histoires et les mots peuvent avoir un écho chez chacun : il tisse le trivial et le poétique – avec quelques questionnements existentiels et philosophiques – en évoquant les tragédies du quotidien. Mais sa forme est aussi fascinante dans sa complexité avec un tressage à plusieurs niveaux\*.\** »\
-La pépinière - Fabien Imhof - Juil. 2021
+« Les Rigoles est un spectacle simple parce qu’accessible et proche de nous, parce que les histoires et les mots peuvent avoir un écho chez chacun : il tisse le trivial et le poétique – avec quelques questionnements existentiels et philosophiques – en évoquant les tragédies du quotidien. Mais sa forme est aussi fascinante dans sa complexité avec un tressage à plusieurs niveaux. »\
+[La pépinière - Fabien Imhof - Juil. 2021](https://lapepinieregeneve.ch/la-nuit-la-ville-laventure/)
 
-« Une expérience extra-muro qui correspond tout à fait à l’esprit du théâtre de Mathias Brossard. »\
-Journal GHI - Marie Prieur - Juil. 2021
+« Une expérience extra-muros qui correspond tout à fait à l’esprit du théâtre de Mathias Brossard. »\
+[Journal GHI - Marie Prieur - Juil. 2021](https://www.ghi.ch/theatre-de-lorangerie-les-rigoles-animent-la-nuit)
 
-« Une sortie inédite à ne pas manquer ! »\
-Journal Le Nouvelliste de Sierre - Mai 2021
+« Une sortie inédite à ne pas manquer ! romenades nocturnes autour du TLH»\
+[Journal Le Nouvelliste de Sierre - Mai 2021](https://www.lenouvelliste.ch/valais/valais-central/sion-district/si-on-sortait-ce-week-end-1074487)
+
+« En extérieur, sur les traces d'oiseaux de nuit »
+[J﻿ournal de Sierre - Mai 2021](https://www.lejds.ch/wp-content/uploads/filebase/2021/JDS-2021-05-14.pdf)
