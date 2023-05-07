@@ -55,7 +55,7 @@
     }
 
     .entry-photo > * {
-        max-height: 400px;
+        max-height: 480px;
         max-width: max(650px, 40vw);
         min-width: 150px;
         height: 100%;
