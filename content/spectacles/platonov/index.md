@@ -35,8 +35,6 @@ photos:
     alt: © Timothée Zurbuchen
   - photo: pro-capture-one-0025.jpg
     alt: © Timothée Zurbuchen
-  - photo: _dsc0378.jpg
-    alt: © Joan Mompart
 generique: >-
   Texte *Anton Tchekhov* \
 
