@@ -61,5 +61,21 @@ generique: >-
 
   Soutiens *Ville de Lausanne, Loterie Romande Vaud, Fondation Leenaards, Fondation Jan Michalski pour l’écriture et la littérature, Fondation du Casino Barrière de Montreux, Fondation Philanthropique Famille Sandoz, Société coopérative Migros Vaud, Fondation Pierre et Nouky Bataillard, Fondation suisse des artistes interprètes SIS, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG), Pro Helvetia - Fondation Suisse pour la Culture, La Corodis.*
 ---
-
 Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna Petrovna. Cet été, ils ne le savent pas encore mais c’est leur dernier été ensemble. Un personnage se distingue et précipite la fin de ce monde : Platonov, aristocrate trentenaire déchu, dont le regard acerbe lui vaut admiration et crainte, et qui mènera à leur perte les différent-es acteur-trices de cette pièce, lui compris. Projet monstre pour une pièce-monde, l’intégrale du spectacle, jouée en pleine forêt, s’étale sur 2 jours pour atteindre environ 12h de spectacle. Les quatre actes de la pièce sont également visibles en 4 épisodes en soir de semaine - Chaque épisode pouvant être vu indépendamment les uns des autres.
+
+## L﻿a presse en parle...
+
+## M﻿édias
+
+📺 RTS infos , Téléjournal le 19h30 - [16 comédiennes et comédiens issus de la Manufacture jouent "Platonov" de Tchekhov en pleine forêt](https://www.rts.ch/play/tv/19h30/video/hauts-de-lausanne-16-comediennes-et-comediens-issus-de-la-manufacture-jouent-platonov-de-tchekhov-en-pleine-foret?urn=urn:rts:video:13176900) (2min30) 
+J﻿uin 2022
+
+🎧 RADIO RTS, EMISSION VERTIGO - [Théâtre au fond des bois](https://www.rts.ch/audio-podcast/2022/audio/platonov-theatre-au-fond-des-bois-25830802.html) (7min)
+T﻿hierry Sartoretti - Juin 2022
+
+📺 [Interview Vidigitale, Partie 1](https://vimeo.com/652879046?embedded=true&source=vimeo_logo&owner=15368748) (3min)
+📺 [Interview Vidigitale, Partie 2](https://vimeo.com/652886075?embedded=true&source=vimeo_logo&owner=15368748) (2min)
+
+📁 [DOSSIER DU SPECTACLE](https://drive.google.com/file/d/14FI8NQhfGOctbUKBRV9t7n6r5DH2gtyo/view?usp=sharing)
+
+📷 [PLUS DE PHOTOS](https://drive.google.com/drive/folders/1dLwEL2fmUl8x5eqPdWzMrQidDf2ICrVi?usp=sharing)
