@@ -65,6 +65,29 @@ Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna
 
 ## L﻿a presse en parle...
 
+Platonov dans la sélection des 7 spectacles qui ont marqué 2022
+[RTS - Thierry Sartoretti - Décembre 2022](https://www.rts.ch/info/culture/spectacles/13656288-retrospective-sept-spectacles-qui-ont-marque-2022.html)
+
+« Son adaptation de Platonov de Tchekohv est un feuilleton dingue d’inventivité et d’énergie, courez-y ! \[...] nous suivrons avec une attention toute particulière le travail de Mathias Brossard. » 
+[Toute la culture - Yaël Hirsch - Septembre 2022](https://toutelaculture.com/spectacles/theatre/platonov-mathias-brossard-et-le-collectif-ccc-proposent-un-passionnant-feuilleton-en-foret/)
+
+« Un échantillon d’humanité \[...] le Français Mathias Brossard s’est mis en tête de briser les carcans. » 
+[Tribune de Genève - Katia Berger - Septembre 2022](https://www.tdg.ch/tchekhov-en-foret-avec-larve-pour-decor-471158030324)
+
+« Impossible de passer à côté de l’aspect innovant de la proposition du Lausannois Mathias Brossard »
+[L’illustré - Jade Albasini - Juin 2022](https://www.illustre.ch/magazine/mathias-brossard-anime-les-forets-romandes-avec-la-piece-platonov-387493)
+
+« Tchekhov plus moderne que jamais. »
+[24 heures - Natacha Rossel - Juin 2022](https://www.24heures.ch/promenons-nous-dans-les-bois-depalinges-avec-platonov-939698745115)
+
+« C’est un projet à la fois humble et fou. »
+[RTS - Thierry Sartoretti - Juin 2022](https://www.rts.ch/info/culture/spectacles/13171750-platonov-de-tchekhov-du-theatre-au-fond-des-bois.html)
+
+« Théâtre déambulatoire dans les Bois de la Chapelle. »
+[Le Palinzard - Juin 2022](https://www.epalinges.ch/agenda/icalrepeat.detail/2022/06/14/4474/-/theatre-deambulatoire-dans-le-bois-de-la-chapelle)
+
+
+
 ## M﻿édias
 
 📺 RTS infos , Téléjournal le 19h30 - [16 comédiennes et comédiens issus de la Manufacture jouent "Platonov" de Tchekhov en pleine forêt](https://www.rts.ch/play/tv/19h30/video/hauts-de-lausanne-16-comediennes-et-comediens-issus-de-la-manufacture-jouent-platonov-de-tchekhov-en-pleine-foret?urn=urn:rts:video:13176900) (2min30) 
