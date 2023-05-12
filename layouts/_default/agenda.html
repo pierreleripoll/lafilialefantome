@@ -1,5 +1,5 @@
 {{- define "main" }}
-    {{ $sections := where $.Site.Pages "Section" "spectacles" }}
+    {{ $sections := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{ $list := slice }}
     {{ range $spectacle := $sections }}
         {{ range $representation
