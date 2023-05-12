@@ -4,7 +4,7 @@ year: 2018
 statut: Passé
 representations:
   - datedebut: 2018-08-20T12:38:27.436Z
-    datefin: 2020-01-29T13:38:27.447Z
+    datefin: 2018-08-21T12:38:00.000Z
     theatre: Far°, Nyon (CH)
     lien: https://far-nyon.ch/a-propos/section-creation/creations-2018/copie-de-vita-nova.html
     datestext: 20 - 21 août 2018
