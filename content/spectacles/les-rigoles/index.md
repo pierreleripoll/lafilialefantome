@@ -81,9 +81,9 @@ Adaptation in situ de la bande dessinée de Brecht Evens, Les Rigoles nous invit
 [Journal Le Nouvelliste de Sierre - Mai 2021](https://www.lenouvelliste.ch/valais/valais-central/sion-district/si-on-sortait-ce-week-end-1074487)
 
 « En extérieur, sur les traces d'oiseaux de nuit »
+
+
 [J﻿ournal de Sierre - Mai 2021](https://www.lejds.ch/wp-content/uploads/filebase/2021/JDS-2021-05-14.pdf)
-
-
 
 ## M﻿édias
 
