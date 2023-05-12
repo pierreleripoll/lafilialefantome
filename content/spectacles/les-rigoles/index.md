@@ -77,12 +77,10 @@ Adaptation in situ de la bande dessinée de Brecht Evens, Les Rigoles nous invit
 « Une expérience extra-muros qui correspond tout à fait à l’esprit du théâtre de Mathias Brossard. »\
 [Journal GHI - Marie Prieur - Juil. 2021](https://www.ghi.ch/theatre-de-lorangerie-les-rigoles-animent-la-nuit)
 
-« Une sortie inédite à ne pas manquer ! romenades nocturnes autour du TLH»\
+« Une sortie inédite à ne pas manquer ! Promenades nocturnes autour du TLH »\
 [Journal Le Nouvelliste de Sierre - Mai 2021](https://www.lenouvelliste.ch/valais/valais-central/sion-district/si-on-sortait-ce-week-end-1074487)
 
 « En extérieur, sur les traces d'oiseaux de nuit »
-
-
 [J﻿ournal de Sierre - Mai 2021](https://www.lejds.ch/wp-content/uploads/filebase/2021/JDS-2021-05-14.pdf)
 
 ## M﻿édias
