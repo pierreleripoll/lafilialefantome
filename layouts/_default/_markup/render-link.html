@@ -1,0 +1,13 @@
+<a
+    {{- $link := .Destination | safeURL -}}
+    {{ if strings.HasPrefix $link "static/media/" }}
+        {{- $link = replace $link "static/media" "/media" -}}
+    {{ end }}
+
+    href="{{ $link | safeURL }}"
+    target="_blank"
+    rel="noopener"
+    >{{ .Text | safeHTML }}
+</a>
+
+{{ partial "console-log" .Destination }}

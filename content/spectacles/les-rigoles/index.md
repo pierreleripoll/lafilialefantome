@@ -92,6 +92,6 @@ M﻿ai 2021
 
 🎥 [TEASER](https://www.facebook.com/watch/?v=2003213716493817), Théâtre l'Orangerie-Genève
 
-📁 [DOSSIER DU SPECTACLE](https://lafilialefantome.netlify.app/media/dossier-les-rigoles-2021-v3.pdf)
+📁 [DOSSIER DU SPECTACLE](static/media/dossier-les-rigoles-2021-v3.pdf)
 
 📷 [PLUS DE PHOTOS](https://drive.google.com/drive/folders/1oenD7nbrxPBKre2g4LeBRJpnqTd9PYlK?usp=sharing)

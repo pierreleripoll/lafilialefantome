@@ -1,5 +1,15 @@
 <li>
-    <a class="representation" target="_blank" href="{{ .lien }}">
+    <a
+        class="representation"
+        target="_blank"
+        {{ if or (strings.HasPrefix .lien "http") (strings.HasPrefix .lien "https") }}
+            href="{{ .lien | safeURL }}"
+        {{ else }}
+            href="https://{{ .lien | safeURL }}"
+        {{ end }}
+        target="_blank"
+        rel="noopener"
+    >
         <span class="dates">{{- .datestext }}</span>
         <span class="lieu">{{ .theatre }}</span>
     </a>
