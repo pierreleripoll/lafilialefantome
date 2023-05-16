@@ -4,9 +4,11 @@
 <article  class ="post-entry" >
   
 
-{{ $photos := .Params.photos}}
-{{ $hasPhotos := isset .Params "photos" }}
-
+  {{ $photos := .Params.photos }}
+  {{ $hasPhotos := false }}
+  {{ with .Params.photos }}
+    {{ $hasPhotos = ge (len .) 1 }}
+  {{ end }}
 
   <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}"  href="{{ .RelPermalink }}">
 
@@ -57,17 +59,17 @@
         />  
       </div>
     {{ end }}
-     
+    <div class ="entry-photo"> 
+
+        <img
+            src="{{ $photoOne.photo }}"
+            loading="lazy"
+            alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
+      />  
+    </div>
     {{ else }}
     <div class="entry-photo">
 
-      {{ if  (in site.Params.mainSections .Type)}}
-        {{/*  <p class="summary">
-        {{.Summary | plainify | htmlUnescape }}
-
-      </p>            */}}
-
-      {{ end }}
     </div>
 
     {{end}}

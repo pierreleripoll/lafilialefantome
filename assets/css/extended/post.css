@@ -37,10 +37,18 @@
         justify-content: space-between;
     }
 
+    .post-main.no-photo {
+        justify-content: right;
+    }
+
     .col1 {
         order: 2;
         flex: 1 1 400px;
         max-width: 800px;
+    }
+
+    .no-photo .col1 {
+        max-width: 1000px;
     }
 
     .col2 {
