@@ -85,6 +85,9 @@
     /* .row-logo .logo-header {
         right: 0px;
     } */
+    .main-title-logo {
+        pointer-events: none;
+    }
 
     header {
         /* margin-bottom: calc(var(--gap) / 2); */
