@@ -85,9 +85,6 @@
     /* .row-logo .logo-header {
         right: 0px;
     } */
-    .main-title-logo {
-        pointer-events: none;
-    }
 
     header {
         /* margin-bottom: calc(var(--gap) / 2); */
@@ -95,6 +92,10 @@
 }
 
 @media screen and (min-width: 769px) {
+    .main-title-logo {
+        pointer-events: none;
+    }
+
     .row-logo {
         z-index: 100;
         background-color: transparent;
