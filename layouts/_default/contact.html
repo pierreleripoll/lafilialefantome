@@ -1,17 +1,17 @@
 {{- define "main" }}
     <div class="post-main">
-        <div class="col2">
-            <div class="post-div post-gallery">
-                {{- partial "gallery.html" . }}
-            </div>
-        </div>
-
         <div class="col1">
             <div class="post-div ">
                 {{- if .Content }}
                     {{ .Content }}
                 {{- end }}
 
+            </div>
+        </div>
+
+        <div class="col2">
+            <div class="post-div post-gallery">
+                {{- partial "gallery.html" . }}
             </div>
         </div>
     </div>

@@ -41,6 +41,10 @@
         justify-content: right;
     }
 
+    .acceuil.post-main {
+        justify-content: right;
+    }
+
     .col1 {
         order: 2;
         flex: 1 1 400px;

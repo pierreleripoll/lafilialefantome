@@ -58,8 +58,9 @@
               alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
         />  
       </div>
-    {{ end }}
-    <div class ="entry-photo"> 
+
+      {{ else }}
+      <div class ="entry-photo"> 
 
         <img
             src="{{ $photoOne.photo }}"
@@ -67,6 +68,8 @@
             alt="{{ $photoOne.alt | default (strings.TrimSuffix (path.Ext $photoOne.Name) $photoOne.Name) }}"
       />  
     </div>
+    {{ end }}
+    
     {{ else }}
     <div class="entry-photo">
 
