@@ -27,38 +27,29 @@
             {{ if $hasEnCours }}
                 {{/* <h1 class="main-header list-title">en cours</h1> */}}
                 {{ .Scratch.Set "index" 0 }}
+                {{ $pages_sorted := sort $enCours "Weight" "desc" }}
 
-                {{- range $enCours }}
+                {{- range $pages_sorted }}
                     {{ $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) }}
                     {{ .Scratch.Set "index" ($.Scratch.Get "index") }}
                     {{ partial "post.html" . }}
                 {{- end }}
             {{- end }}
 
-            {{ $futur := (where $pages "Params.statut" "Futur") }}
-            {{ $hasFutur := ge (len $futur) 1 }}
-
-            {{ if $hasFutur }}
-                {{/* <h1 class="main-header list-title">à venir</h1> */}}
-
-                {{- range $futur }}
-                    {{ partial "post.html" . }}
-                {{- end }}
-            {{ end }}
-
             {{ $passe := (where $pages "Params.statut" "Passé") }}
             {{ $hasPasse := ge (len $passe) 1 }}
 
             {{ if and ($hasPasse) (not (.IsHome)) }}
                 <h1 class="main-header list-title">projets passés</h1>
+                {{ $pages_sorted := sort $passe "Weight" "desc" }}
 
-                {{- range $passe }}
+                {{- range $pages_sorted }}
                     {{ partial "post.html" . }}
                 {{- end }}
 
             {{ end }}
 
-            {{ if and (not $hasEnCours) (not $hasFutur) (not $hasPasse) }}
+            {{ if and (not $hasEnCours) (not $hasPasse) }}
                 <h1 class="main-header list-title">rien pour le moment</h1>
             {{ end }}
 

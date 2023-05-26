@@ -1,6 +1,7 @@
 ---
 title: "FORMATION, BA·Théâtre · promo N : Les Amants Magnifiques"
 statut: En cours
+weight: 10
 porteur: Mathias Brossard
 year: 2022
 representations:

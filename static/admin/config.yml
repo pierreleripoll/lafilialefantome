@@ -135,6 +135,13 @@ collections:
                 default: 'En cours'
             }
           - {
+                label: 'Poids ( + grand => + haut )',
+                name: 'weight',
+                required: true,
+                default: 10,
+                widget: 'number'
+            }
+          - {
                 label: 'Porteur de projet',
                 name: 'porteur',
                 widget: 'relation',
@@ -212,6 +219,13 @@ collections:
       fields:
           - { label: 'Titre', name: 'title', required: true, widget: 'string' }
           - { label: 'Année', name: 'year', required: false, widget: 'number' }
+          - {
+                label: 'Poids ( + grand => + haut )',
+                name: 'weight',
+                required: true,
+                default: 10,
+                widget: 'number'
+            }
           - {
                 label: 'Porteur de projet',
                 name: 'porteur',

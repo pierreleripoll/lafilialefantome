@@ -1,10 +1,11 @@
 ---
 title: Restaurer le Mont-Blanc
-porteur: François-Xavier Rouyer
 year: 2025
+weight: 10
+porteur: François-Xavier Rouyer
 statut: En cours
 photos:
-    - photo: atlas-of-places-viollet-le-duc-le-massif-du-mont-blanc-gph-5.jpg
+  - photo: atlas-of-places-viollet-le-duc-le-massif-du-mont-blanc-gph-5.jpg
 generique: Conception et porteur du projet François-Xavier Rouyer
 ---
 
