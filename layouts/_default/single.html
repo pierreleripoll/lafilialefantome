@@ -15,10 +15,14 @@
     <div class="col1">
       <h1>
         {{ .Title }}
-        {{ if .Params.year }}
+        {{ if or .Params.year .Params.porteur }}
       <span>
+        {{ $porteurPage := .Site.GetPage (printf "/quisommesnous/%s" (.Params.porteur | urlize)) }}
         <h2>
-          {{ .Params.year}}
+          <a href="{{ $porteurPage.RelPermalink }}" >{{- .Params.porteur }}</a> <br/>
+                   {{ .Params.year}} 
+        </h2>
+        <h2>
         </h2>
       </span>
         

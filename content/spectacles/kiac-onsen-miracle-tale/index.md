@@ -1,5 +1,6 @@
 ---
-title: 'Kiac Onsen Miracle Tale, François-Xavier Rouyer '
+title: Kiac Onsen Miracle Tale
+porteur: François-Xavier Rouyer
 year: 2023
 statut: En cours
 representations:

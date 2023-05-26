@@ -13,9 +13,14 @@
   <div class="entry-main {{- cond $hasPhotos `` ` no-photo` }}"  href="{{ .RelPermalink }}">
 
     <div class="entry-content">
-      <h2 class="secondary-header" >
-        {{- .Title }} 
-      </h2>
+        <h2 class="secondary-header" >
+          {{- .Title }}
+          <span>
+            <p class="sub-header">{{- .Params.porteur }} {{ .Params.year }} </p>
+
+          </span>
+        </h2>
+      
       {{/*  <h3 >
         {{- .Title }} 
       </h3>  */}}
