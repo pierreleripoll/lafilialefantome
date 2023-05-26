@@ -40,12 +40,7 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - {
-                      label: 'Titre',
-                      name: 'alt',
-                      required: false,
-                      widget: 'string'
-                  }
+                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
           - {
                 label: 'Infos',
                 name: 'generique',
@@ -84,12 +79,7 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - {
-                      label: 'Titre',
-                      name: 'alt',
-                      required: false,
-                      widget: 'string'
-                  }
+                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
           - {
                 label: 'Infos',
                 name: 'generique',
@@ -122,12 +112,7 @@ collections:
                   widget: 'list'
                   fields:
                       - { label: 'Image', name: 'photo', widget: 'image' }
-                      - {
-                            label: 'Titre',
-                            name: 'alt',
-                            required: false,
-                            widget: 'string'
-                        }
+                      - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
 
     - name: 'autre'
       label: 'Autres projets'
@@ -148,6 +133,15 @@ collections:
                 widget: 'select',
                 options: ['En cours', 'Passé', 'Futur'],
                 default: 'En cours'
+            }
+          - {
+                label: 'Porteur de projet',
+                name: 'porteur',
+                widget: 'relation',
+                collection: 'quisommesnous',
+                search_fields: ['title.first'],
+                value_field: 'title',
+                display_fields: ['title']
             }
           - { label: 'Année', name: 'year', required: false, widget: 'number' }
           - label: 'Représentations'
@@ -181,12 +175,7 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - {
-                      label: 'Titre',
-                      name: 'alt',
-                      required: false,
-                      widget: 'string'
-                  }
+                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
 
           - {
                 label: 'Générique',
@@ -223,7 +212,15 @@ collections:
       fields:
           - { label: 'Titre', name: 'title', required: true, widget: 'string' }
           - { label: 'Année', name: 'year', required: false, widget: 'number' }
-
+          - {
+                label: 'Porteur de projet',
+                name: 'porteur',
+                widget: 'relation',
+                collection: 'quisommesnous',
+                search_fields: ['title.first'],
+                value_field: 'title',
+                display_fields: ['title']
+            }
           - {
                 label: 'Statut du projet',
                 name: 'statut',
@@ -263,12 +260,7 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - {
-                      label: 'Titre',
-                      name: 'alt',
-                      required: false,
-                      widget: 'string'
-                  }
+                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
 
           - {
                 label: 'Générique',

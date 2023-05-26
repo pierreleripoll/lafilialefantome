@@ -1,35 +1,35 @@
 ---
-title: 'FORMATION, BA·Théâtre · promo N : Les Amants Magnifiques'
-porteur: Mathias Brossard
+title: "FORMATION, BA·Théâtre · promo N : Les Amants Magnifiques"
 statut: En cours
+porteur: Mathias Brossard
 year: 2022
 representations:
-    - datedebut: 2023-05-24T13:20:26.977Z
-      datefin: 2023-05-25T13:20:00.000Z
-      theatre: Théâtre du Jura
-      lien: https://www.theatre-du-jura.ch/f/programme/detail/220-les-amants-magnifiques
-      datestext: 'BA·Théâtre · promo N : Les Amants Magnifiques'
+  - datedebut: 2023-05-24T13:20:26.977Z
+    datefin: 2023-05-25T13:20:00.000Z
+    theatre: Théâtre du Jura
+    lien: https://www.theatre-du-jura.ch/f/programme/detail/220-les-amants-magnifiques
+    datestext: "BA·Théâtre · promo N : Les Amants Magnifiques"
 photos:
-    - photo: https://www.theatre-du-jura.ch/uploads/800_800_platonov_2019-j._mompart0251.jpeg
-      alt: Photo tirée de "Platonov", mis en scène de Mathias Brossard
+  - photo: https://www.theatre-du-jura.ch/uploads/800_800_platonov_2019-j._mompart0251.jpeg
+    alt: Photo tirée de "Platonov", mis en scène de Mathias Brossard
 generique: >-
-    <!--StartFragment-->
-    
-    
-    Mise en scène : Mathias Brossard, [Mélina Martin](https://www.manufacture.ch/fr/1585/Melina-Martin)\
-    
-    \
-    
-    avec les étudiant·es du Bachelor Théâtre, promotion N\
-    
-    [Noam Azouz](https://www.manufacture.ch/fr/5872/Noam-Azouz), [Louis Balan](https://www.manufacture.ch/fr/5887/Louis-Balan), [Enora Cini](https://www.manufacture.ch/fr/5873/Enora-Cini), [Nina Crespillo](https://www.manufacture.ch/fr/5874/Nina-Crespillo), [Louise Crouzet](https://www.manufacture.ch/fr/5875/Louise-Crouzet), [Claire Danalet](https://www.manufacture.ch/fr/5876/Claire-Danalet), [Lorna Dessaux](https://www.manufacture.ch/fr/5877/Lorna-Dessaux), [Marie Fuhrer](https://www.manufacture.ch/fr/5878/Marie-Fuhrer), [Tobia Giorla](https://www.manufacture.ch/fr/5879/Tobia-Giorla), [Lisa Giudice](https://www.manufacture.ch/fr/5880/Lisa-Giudice), [Mathis Josselin](https://www.manufacture.ch/fr/5881/Mathis-Josselin), [Gabrielle Pialoux](https://www.manufacture.ch/fr/5882/Gabrielle-Pialoux), [Emile Renaudot](https://www.manufacture.ch/fr/5883/Emile-Renaudot), [Bilgi Sahin](https://www.manufacture.ch/fr/5884/Bilgi-Sahin), [Zoé Simon](https://www.manufacture.ch/fr/5885/Zoe-Simon), [Yohann Thenaisie](https://www.manufacture.ch/fr/5886/Yohann-Thenaisie)\
-    
-    \
-    
-    Technique : Robin Dupuis
-    
-    
-    <!--EndFragment-->
+  <!--StartFragment-->
+
+
+  Mise en scène : Mathias Brossard, [Mélina Martin](https://www.manufacture.ch/fr/1585/Melina-Martin)\
+
+  \
+
+  avec les étudiant·es du Bachelor Théâtre, promotion N\
+
+  [Noam Azouz](https://www.manufacture.ch/fr/5872/Noam-Azouz), [Louis Balan](https://www.manufacture.ch/fr/5887/Louis-Balan), [Enora Cini](https://www.manufacture.ch/fr/5873/Enora-Cini), [Nina Crespillo](https://www.manufacture.ch/fr/5874/Nina-Crespillo), [Louise Crouzet](https://www.manufacture.ch/fr/5875/Louise-Crouzet), [Claire Danalet](https://www.manufacture.ch/fr/5876/Claire-Danalet), [Lorna Dessaux](https://www.manufacture.ch/fr/5877/Lorna-Dessaux), [Marie Fuhrer](https://www.manufacture.ch/fr/5878/Marie-Fuhrer), [Tobia Giorla](https://www.manufacture.ch/fr/5879/Tobia-Giorla), [Lisa Giudice](https://www.manufacture.ch/fr/5880/Lisa-Giudice), [Mathis Josselin](https://www.manufacture.ch/fr/5881/Mathis-Josselin), [Gabrielle Pialoux](https://www.manufacture.ch/fr/5882/Gabrielle-Pialoux), [Emile Renaudot](https://www.manufacture.ch/fr/5883/Emile-Renaudot), [Bilgi Sahin](https://www.manufacture.ch/fr/5884/Bilgi-Sahin), [Zoé Simon](https://www.manufacture.ch/fr/5885/Zoe-Simon), [Yohann Thenaisie](https://www.manufacture.ch/fr/5886/Yohann-Thenaisie)\
+
+  \
+
+  Technique : Robin Dupuis
+
+
+  <!--EndFragment-->
 ---
 
 <!--StartFragment-->

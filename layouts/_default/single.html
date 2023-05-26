@@ -17,9 +17,9 @@
         {{ .Title }}
         {{ if or .Params.year .Params.porteur }}
       <span>
-        {{ $porteurPage := .Site.GetPage (printf "/quisommesnous/%s" (.Params.porteur | urlize)) }}
+        {{ $porteurLink := printf "/quisommesnous/%s" (.Params.porteur | urlize) }}
         <h2>
-          <a href="{{ $porteurPage.RelPermalink }}" >{{- .Params.porteur }}</a> <br/>
+          <a href="{{ $porteurLink }}" >{{- .Params.porteur }}</a> <br/>
                    {{ .Params.year}} 
         </h2>
         <h2>
