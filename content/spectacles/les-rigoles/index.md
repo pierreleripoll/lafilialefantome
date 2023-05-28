@@ -57,7 +57,6 @@ generique: >-
 
   Soutiens *Canton de Vaud, Fondation Jan Michalski pour l’écriture, Fondation Nestlé pour l’Art, Loterie Romande Valais, Fondation Ernst Göhner, Fondation SIS, Fondation Philanthropique Famille Sandoz, Ville de Lausanne, Corodis.*
 ---
-
 Adaptation in situ de la bande dessinée de Brecht Evens, Les Rigoles nous invite à suivre le parcours croisé de 3 personnages une même nuit dans une même cité. Explorant plusieurs types d’espaces urbains (friches industrielles, parkings inusités, terrains vagues, rives d’un lac), l’action se déroule en simultanée en différents points de la ville. Le public partagé en 3 groupes est invité à suivre 3 parcours distincts guidés par les personnages qui peuplent cette histoire. L’axe principal choisi pour cette adaptation in situ est d’explorer la simultanéité des actions, chaque groupe découvrant un pan de l’histoire et une fin alternative.
 
 ## L﻿a presse en parle...
@@ -89,7 +88,7 @@ Adaptation in situ de la bande dessinée de Brecht Evens, Les Rigoles nous invit
 
 🎧 RHÔNE FM - [Interview Mathias Brossard et Judith Goudal du Collectif CCC, Metteur en scène et comédienne ](https://www.rhonefm.ch/player/podcasts/mathias-brossard-et-judith-goudal-du-collectif-ccc-metteur-en-scene-et-comedienne-0)(5min) M﻿ai 2021
 
-🎧 RADIOVOSTOK - _L[es Rigoles : récits croisés de vi(ll)es noctambules](https://www.mixcloud.com/RadioVostok/les-rigoles-r%C3%A9cits-crois%C3%A9s-de-villes-noctambules-interview/)_ - Interview (20min) F﻿rancesca Serra - Juillet 2021
+🎧 RADIOVOSTOK - *L[es Rigoles : récits croisés de vi(ll)es noctambules](https://www.mixcloud.com/RadioVostok/les-rigoles-r%C3%A9cits-crois%C3%A9s-de-villes-noctambules-interview/)* - Interview (20min) F﻿rancesca Serra - Juillet 2021
 
 🎥 [TEASER](https://www.facebook.com/watch/?v=2003213716493817), Théâtre l'Orangerie-Genève
 

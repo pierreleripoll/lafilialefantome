@@ -14,10 +14,8 @@ photos:
   - photo: https://www.theatre-du-jura.ch/uploads/800_800_platonov_2019-j._mompart0251.jpeg
     alt: Photo tirée de "Platonov", mis en scène de Mathias Brossard
 generique: >-
-  <!--StartFragment-->
-
-
-  Mise en scène : Mathias Brossard, [Mélina Martin](https://www.manufacture.ch/fr/1585/Melina-Martin)\
+  Mise en scène : Mathias Brossard, [Mélina
+  Martin](https://www.manufacture.ch/fr/1585/Melina-Martin)\
 
   \
 
@@ -28,18 +26,10 @@ generique: >-
   \
 
   Technique : Robin Dupuis
-
-
-  <!--EndFragment-->
 ---
-
-<!--StartFragment-->
-
 ### BA·Théâtre · promo N : Les Amants Magnifiques
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 Faire de la forêt et de la clairière un nouveau terrain de jeu, c’est l’expérience proposée aux étudiant·es de la promotion N de La Manufacture par Mathias Brossard et Mélina Martin.
 
@@ -56,5 +46,3 @@ Pendant trois semaines donc les étudiant·es de la promotion N seront accompagn
 Commune de Montfaucon
 
 En partenariat avec le Théâtre du Jura
-
-<!--EndFragment-->
