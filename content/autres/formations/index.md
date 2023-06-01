@@ -29,8 +29,6 @@ generique: >-
 ---
 ### BA·Théâtre · promo N : Les Amants Magnifiques
 
-
-
 Faire de la forêt et de la clairière un nouveau terrain de jeu, c’est l’expérience proposée aux étudiant·es de la promotion N de La Manufacture par Mathias Brossard et Mélina Martin.
 
 Sortir du théâtre, sortir de la boîte noire, quitter le territoire connu pour en explorer un autre. Faire de la forêt, du pré, de la clairière notre nouveau terrain de jeu. C’est l’expérience que vivront les étudiant·es de La Manufacture à travers ce stage sur le théâtre in situ.
@@ -41,8 +39,11 @@ Pendant trois semaines donc les étudiant·es de la promotion N seront accompagn
 
 À proximité d’une forêt, ils et elles établiront leur camp de base et feront résonner la langue de Molière et les notes de Lully pour donner corps à cette comédie ballet injustement oubliée : *Les Amants Magnifiques*. L’histoire d’une jeune princesse à qui sa reine de mère offre le droit de choisir son futur mari parmi deux princes qui rivalisent de présents, et de félonies, pour s’attirer son cœur et conquérir le pouvoir. Mais notre princesse en aime un autre secrètement et retarde indéfiniment le moment de faire son choix... Apparaîtront alors un astrologue, une fausse déesse Vénus, un chœur de bergers, et même un sanglier pour sceller le sort de nos magnifiques amants.
 
-##### me 24 au ve 25 mai 2023
-
 Commune de Montfaucon
 
-En partenariat avec le Théâtre du Jura
+En partenariat avec le Théâtre du Jura et La Manufacture - Haute Ecole 
+
+## M﻿édias
+
+🎧 RFJ Radio - [Café des Arts : Mathias Brossard
+Les élèves de la Haute école des arts de la scène « La Manufacture » à Lausanne vont servir un texte de Molière en pleine nature dans les Franches-Montagne ](https://www.rfj.ch/rfj/Actualite/Region/20230522-Cafe-des-Arts-Mathias-Brossard.html#)(4min) - Mai 2023
