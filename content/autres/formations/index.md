@@ -6,10 +6,10 @@ porteur: Mathias Brossard
 year: 2022
 representations:
   - datedebut: 2023-05-24T13:20:26.977Z
-    datefin: 2023-05-25T13:20:00.000Z
+    datefin: 2023-05-26T13:20:00.000Z
     theatre: Théâtre du Jura
     lien: https://www.theatre-du-jura.ch/f/programme/detail/220-les-amants-magnifiques
-    datestext: "BA·Théâtre · promo N : Les Amants Magnifiques"
+    datestext: "24 au 26 mai 2023 "
 photos:
   - photo: https://www.theatre-du-jura.ch/uploads/800_800_platonov_2019-j._mompart0251.jpeg
     alt: Photo tirée de "Platonov", mis en scène de Mathias Brossard
