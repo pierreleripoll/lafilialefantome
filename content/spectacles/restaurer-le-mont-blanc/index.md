@@ -1,6 +1,6 @@
 ---
 title: Restaurer le Mont-Blanc
-year: 2025
+year: ""
 weight: 10
 porteur: François-Xavier Rouyer
 statut: En cours
