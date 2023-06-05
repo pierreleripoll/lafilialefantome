@@ -1,6 +1,6 @@
 ---
 title: Kiac Onsen Miracle Tale
-year: 2023
+year: ""
 weight: 10
 porteur: François-Xavier Rouyer
 statut: En cours
