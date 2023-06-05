@@ -1,6 +1,6 @@
 ---
 title: Platonov
-year: 2022
+year: ""
 weight: 10
 porteur: Mathias Brossard
 statut: En cours
