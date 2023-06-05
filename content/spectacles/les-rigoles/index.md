@@ -1,6 +1,6 @@
 ---
 title: Les Rigoles
-year: 2021
+year: ""
 weight: 10
 porteur: Mathias Brossard
 statut: En cours
