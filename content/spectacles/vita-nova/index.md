@@ -60,7 +60,6 @@ generique: >-
 
   Remerciements *La Manufacture - Haute Ecoles des Arts de la Scène, L'Arsenic - Centre d'art scénique contemporain*
 ---
-
 Romain Daroles, seul en scène, interprète une figure de professeur-conférencier inspirée de son parcours universitaire, occasion pour lui d’un précipité en forme d’hommage à quelques-uns de ses héros littéraires. Alors qu’il donne son dernier cours d’une longue série sur la notion de Vita Nova en littérature, il est pris d’un coup de folie gorgée d’érudition lorsqu’il pense avoir découvert l’implication d’un certain Louis Poirier dans la mort de l’auteur Roland Barthes.
 
 ## L﻿a presse en parle...
@@ -83,14 +82,12 @@ Romain Daroles, seul en scène, interprète une figure de professeur-conférenci
 
 ## M﻿édias
 
-🎧 RADIO RTS,EMISSION VERTIGO - [Spectacle : la "Vita Nova" de Romain Daroles ](https://www.rts.ch/audio-podcast/2019/audio/spectacle-la-vita-nova-de-romain-daroles-25075607.html)(6min) T﻿hierry Sartoretti - Octobre 2019
+RADIO RTS,EMISSION VERTIGO - [Spectacle : la "Vita Nova" de Romain Daroles ](https://www.rts.ch/audio-podcast/2019/audio/spectacle-la-vita-nova-de-romain-daroles-25075607.html)(6min) T﻿hierry Sartoretti - Octobre 2019
 
-🎧 RADIO RTS,EMISSION VERTIGO - [Interview de Romain Daroles](https://www.rts.ch/audio-podcast/2020/audio/l-invite-romain-daroles-vita-nova-25098594.html) (40min) T﻿hierry Sartoretti - Janvier 2020
+RADIO RTS,EMISSION VERTIGO - [Interview de Romain Daroles](https://www.rts.ch/audio-podcast/2020/audio/l-invite-romain-daroles-vita-nova-25098594.html) (40min) T﻿hierry Sartoretti - Janvier 2020
 
-🎥 [TEASER](https://vimeo.com/295797327)
+[TEASER](https://vimeo.com/295797327)
 
-📁 [DOSSIER DU SPECTACLE](https://drive.google.com/file/d/1dYxV1-K7IRYQHmxxa2Jrkyx1KhVAhHIA/view?usp=sharing)
-
-📷 [PLUS DE PHOTOS](https://drive.google.com/drive/folders/1wL0yHXe4i2EYXCH4G4bbfeYKOkHx2wPW?usp=sharing)
+[DOSSIER DU SPECTACLE](static/media/vita-nova-dossier-de-diffusion.pdf)
 
 ## C﻿aptation sur demande.
