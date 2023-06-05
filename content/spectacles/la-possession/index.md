@@ -1,6 +1,6 @@
 ---
 title: La Possession
-year: 2020
+year: ""
 weight: 10
 porteur: François-Xavier Rouyer
 statut: Passé
