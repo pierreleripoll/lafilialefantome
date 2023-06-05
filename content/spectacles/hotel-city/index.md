@@ -1,6 +1,6 @@
 ---
 title: Hôtel City
-year: 2015
+year: ""
 weight: 10
 porteur: François-Xavier Rouyer
 statut: Passé
