@@ -1,6 +1,6 @@
 ---
 title: Vita Nova
-year: 2018
+year: ""
 weight: 10
 porteur: Romain Daroles
 statut: Passé
