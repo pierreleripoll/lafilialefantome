@@ -9,7 +9,7 @@ representations:
     datefin: 2023-03-20T14:56:07.125Z
     theatre: Kinosaki Art Center, Toyooka (JP)
     lien: http://kiac.jp/en/artist/727/
-    datestext: 1 - 20 mars 2023
+    datestext: "Résidence: 1 - 20 mars 2023"
 photos:
   - photo: m-0037.jpg
 generique: >-2
