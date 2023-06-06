@@ -13,6 +13,13 @@ representations:
 photos:
   - photo: n-m.brossard_m.martin_jura-alinepaley-3517.jpg
     alt: © Aline Paley
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3339.jpg
+    alt: © Aline Paley
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3472.jpg
+    alt: © Aline Paley
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3554.jpg
+    alt: © Aline Paley
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3600.jpg
 generique: >-
   Texte : *Les Amants Magnifiques, Molière*
 
@@ -33,7 +40,7 @@ generique: >-
 
   Technique : *Robin Dupuis*
 ---
-### FORMATION - 1ère année BA Théâtre - Promo N
+### FORMATION - 1ère année BA Théâtre - Promo N - LA MANUFACTURE
 
 Sortir du théâtre, sortir de la boîte noire, quitter le territoire connu pour en explorer un autre. Faire de la forêt, du pré, de la clairière notre nouveau terrain de jeu. C’est l’expérience que vivront les étudiant·es de La Manufacture à travers ce stage sur le théâtre in situ donné par Mathias Brossard et Mélina Martin.
 
