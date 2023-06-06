@@ -33,7 +33,7 @@ generique: >-
 
   Technique : *Robin Dupuis*
 ---
-### BA·Théâtre · promo N : Les Amants Magnifiques
+### FORMATION - 1ère année BA Théâtre - Promo N
 
 Sortir du théâtre, sortir de la boîte noire, quitter le territoire connu pour en explorer un autre. Faire de la forêt, du pré, de la clairière notre nouveau terrain de jeu. C’est l’expérience que vivront les étudiant·es de La Manufacture à travers ce stage sur le théâtre in situ donné par Mathias Brossard et Mélina Martin.
 
