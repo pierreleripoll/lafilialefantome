@@ -19,7 +19,7 @@ photos:
     alt: © Aline Paley
   - photo: n-m.brossard_m.martin_jura-alinepaley-3422.jpg
     alt: © Aline Paley
-  - photo: n-m.brossard_m.martin_jura-alinepaley-3600.jpg
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3348.jpg
 generique: >-
   Texte : *Les Amants Magnifiques,* Molière
 
