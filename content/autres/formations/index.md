@@ -1,6 +1,5 @@
 ---
-title: "Les Amants Magnifiques - La Manufacture, Lausanne · promo N (1ére année
-  BA-Théâtre) : "
+title: "Les Amants Magnifiques - La Manufacture, Lausanne · promo N "
 statut: Passé
 weight: 10
 porteur: Mathias Brossard
