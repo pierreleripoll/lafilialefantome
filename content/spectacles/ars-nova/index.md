@@ -7,8 +7,8 @@ statut: En cours
 representations:
   - datedebut: 2023-03-31T10:46:02.911Z
     datefin: 2023-04-21T10:46:02.930Z
-    theatre: Opna, Faskrudsdfjordur (IS)
-    datestext: "Résidence: 31 mars - 21 avril 2023 "
+    theatre: Résidence à Opna, Faskrudsdfjordur (IS)
+    datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
 photos:
   - photo: 11-37474.png
