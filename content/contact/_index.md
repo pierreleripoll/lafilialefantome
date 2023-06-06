@@ -9,10 +9,16 @@ Rue du Crêt 7\
 1006\
 Lausanne
 
-
-
 M. lafilialefantome@hotmail.com
 
+Direction artistique :\
+Mathias Brossard : mathias@artimachines.com\
+Romain Daroles : romaindaroles@msn.com\
+François-Xavier Rouyer : fxrouyer@yahoo.fr
+
+Administration et production :\
+Marianne Aguado - ISKANDAR\
+M. marianne.aguado@hotmail.com\
 T. +41 78 315 01 77
 
 ## SITE WEB
