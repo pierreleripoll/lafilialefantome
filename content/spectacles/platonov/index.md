@@ -23,7 +23,7 @@ representations:
 photos:
   - photo: pro-capture-one-0062.jpg
     alt: © Timothée Zurbuchen
-  - photo: platonov8.jpeg
+  - photo: acte-5e-®-joan-mompart.jpeg
     alt: ""
   - photo: acte-4-c-joan-mompart-i-scaled.jpg
     alt: © Joan Mompart
