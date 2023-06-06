@@ -21,24 +21,24 @@ photos:
     alt: © Aline Paley
   - photo: n-m.brossard_m.martin_jura-alinepaley-3600.jpg
 generique: >-
-  Texte : *Les Amants Magnifiques, Molière*
+  Texte : *Les Amants Magnifiques,* Molière
 
 
-  Mise en scène : *Mathias Brossard, Mélina Martin*\
+  Mise en scène : Mathias Brossard, Mélina Martin\
 
   \
 
-  Stagiaire dramaturge : *Louison Ryser (Ecole du TNS - Strasbourg)*\
+  Stagiaire dramaturge : Louison Ryser (Ecole du TNS - Strasbourg)\
 
   \
 
   avec les étudiant·es du Bachelor Théâtre, promotion N:\
 
-  [](https://www.manufacture.ch/fr/5872/Noam-Azouz)*Noam Azouz, Louis Balan, Enora Cini, Nina Crespillo, Louise Crouzet, Claire Danalet, Lorna Dessaux, Marie Fuhrer, Tobia Giorla, Lisa Giudice, Mathis Josselin, Gabrielle Pialoux, Emile Renaudot, Bilgi Sahin, Zoé Simon, Yohann Thenaisie[](https://www.manufacture.ch/fr/5872/Noam-Azouz)*\
+  [](https://www.manufacture.ch/fr/5872/Noam-Azouz)Noam Azouz, Louis Balan, Enora Cini, Nina Crespillo, Louise Crouzet, Claire Danalet, Lorna Dessaux, Marie Fuhrer, Tobia Giorla, Lisa Giudice, Mathis Josselin, Gabrielle Pialoux, Emile Renaudot, Bilgi Sahin, Zoé Simon, Yohann Thenaisie[](https://www.manufacture.ch/fr/5872/Noam-Azouz)\
 
   \
 
-  Technique : *Robin Dupuis*
+  Technique : Robin Dupuis
 ---
 ### FORMATION - 1ère année BA Théâtre - Promo N - LA MANUFACTURE
 
