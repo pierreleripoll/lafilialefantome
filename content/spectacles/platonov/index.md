@@ -42,7 +42,7 @@ generique: >-
 
   Mise en scène *Mathias Brossard* \
 
-  Jeu *avec la participation de l’ensemble CCC Romain Daroles, Robin Dupuis, Judith Goudal, Cécile Goussard, Magali Heu, Arnaud Huguenin, Lara Khattabi, Jonas Lambelet, Chloë Lombard, Loïc Le Cam, Loïc Le Manac’h, Adrien Mani, Mélina Martin, Alexandre Menexiadis, Leon David Salazar, Margot Van Hove* \
+  Jeu *Romain Daroles, Robin Dupuis, Judith Goudal, Cécile Goussard, Magali Heu, Arnaud Huguenin, Lara Khattabi, Jonas Lambelet, Chloë Lombard, Loïc Le Manac’h, Adrien Mani, Mélina Martin, Alexandre Menexiadis ou Loïc Le Cam, Leon David Salazar, Margot Van Hove* \
 
   Création musicale *Alexandre Menexiadis* \
 
