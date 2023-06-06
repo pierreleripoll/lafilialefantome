@@ -5,9 +5,10 @@ photos:
   - alt: "© Timothée Zurbuchen "
     photo: platonov_comedie0362-positive.jpg
 generique: >-
-  Prochaines représentations du collectif :\
+  Prochaines représentations du collectif :
 
-  - *[Platonov](https://lafilialefantome.netlify.app/spectacles/platonov/) : [24 et 25 juin 2023 - Mende (FR) - Scènes Croisées de la Lozère et Théatre de Mende](https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/)*
+
+  *[\- Platonov](https://lafilialefantome.netlify.app/spectacles/platonov/) : [24 et 25 juin 2023 - Mende (FR) - Scènes Croisées de la Lozère et Théatre de Mende](https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/)*
 
 
   *\- Bundren! : 25 et 26 août - Hédé-Bazouges (FR) - Festival Bonus*
