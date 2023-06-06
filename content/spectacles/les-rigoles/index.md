@@ -40,7 +40,7 @@ generique: >-
 
   Mise en scène *Mathias Brossard* \
 
-  Jeu *avec la participation de l’ensemble CCC : Judith Goudal, Magali Heu, Arnaud Huguenin, Jean-Louis Johannides, Lara Khattabi, Jonas Lambelet, Loïc Le Manac’h, Chloë Lombard, Alexandre Menexiadis, Guillaume Miramond, Leon David Salazar, Raphaël Vachoux, Adrien Mani* \
+  Jeu *avec la participation du collectif CCC : Judith Goudal, Magali Heu, Arnaud Huguenin, Jean-Louis Johannides, Lara Khattabi, Jonas Lambelet, Loïc Le Manac’h, Chloë Lombard, Alexandre Menexiadis, Guillaume Miramond ou Adrien Mani, Leon David Salazar ou Raphaël Vachoux*  \
 
   Création sonore *Alexandre Menexiadis* \
 
