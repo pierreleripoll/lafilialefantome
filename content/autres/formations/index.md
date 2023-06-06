@@ -15,9 +15,9 @@ photos:
     alt: © Aline Paley
   - photo: n-m.brossard_m.martin_jura-alinepaley-3339.jpg
     alt: © Aline Paley
-  - photo: n-m.brossard_m.martin_jura-alinepaley-3472.jpg
-    alt: © Aline Paley
   - photo: n-m.brossard_m.martin_jura-alinepaley-3554.jpg
+    alt: © Aline Paley
+  - photo: n-m.brossard_m.martin_jura-alinepaley-3422.jpg
     alt: © Aline Paley
   - photo: n-m.brossard_m.martin_jura-alinepaley-3600.jpg
 generique: >-
