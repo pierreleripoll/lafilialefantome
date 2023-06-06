@@ -1,7 +1,7 @@
 ---
 title: Ars Nova
 year: ""
-weight: 10
+weight: 19
 porteur: Romain Daroles
 statut: En cours
 representations:
