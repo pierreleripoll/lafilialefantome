@@ -1,7 +1,7 @@
 ---
 title: Platonov
 year: ""
-weight: 10
+weight: 20
 porteur: Mathias Brossard
 statut: En cours
 representations:
