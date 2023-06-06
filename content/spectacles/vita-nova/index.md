@@ -1,7 +1,7 @@
 ---
 title: Vita Nova
 year: ""
-weight: 10
+weight: 9
 porteur: Romain Daroles
 statut: Passé
 representations:
