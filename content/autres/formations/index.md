@@ -1,5 +1,5 @@
 ---
-title: "Les Amants Magnifiques - La Manufacture, Lausanne · promo N "
+title: "Les Amants Magnifiques - La Manufacture · promo N "
 statut: Passé
 weight: 10
 porteur: Mathias Brossard
