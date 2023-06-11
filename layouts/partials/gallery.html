@@ -178,7 +178,6 @@ lightbox.addFilter('itemData', (itemData, index) => {
 <div class="pswp-gallery " id="gallery">
     {{ range $photo := .Param "photos" }}
 
-        {{ partial "console-log" ($photo.photo) }}
         {{ $image := $Resources.GetMatch $photo.photo }}
         {{ if $image }}
             {{ $imageWebp := $image.Resize (printf "%dx%d webp q90 CatmullRom" $image.Width $image.Height) }}
