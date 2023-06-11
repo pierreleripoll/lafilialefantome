@@ -100,12 +100,25 @@ collections:
             public_folder: ''
             create: true
             fields:
-                - {
-                      label: 'Contenu de la page',
-                      name: 'body',
-                      widget: 'markdown',
-                      buttons: ['italic', 'link', 'heading-two']
-                  }
+                - label: 'Contenu de la page'
+                  name: 'body'
+                  widget: 'markdown'
+                  buttons: ['italic', 'link', 'heading-two']
+                - label: 'Images'
+                  required: false
+                  name: 'photos'
+                  widget: 'list'
+                  fields:
+                      - { label: 'Image', name: 'photo', widget: 'image' }
+                      - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+          - label: "Page d'accueil"
+            name: 'accueil'
+            file: 'content/accueil/_index.md'
+            folder: 'content/accueil/'
+            media_folder: ''
+            public_folder: ''
+            create: true
+            fields:
                 - label: 'Images'
                   required: false
                   name: 'photos'
