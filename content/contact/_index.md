@@ -21,10 +21,6 @@ Marianne Aguado - ISKANDAR\
 M. marianne.aguado@hotmail.com\
 T. +41 78 315 01 77
 
-
-
-test
-
 ## SITE WEB
 
 Créé par [Pierre Ripoll](mailto:pierreripoll13@gmail.com)\
