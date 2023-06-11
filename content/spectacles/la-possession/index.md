@@ -64,8 +64,13 @@ generique: >-
 
   Soutiens *Centre Culturel Suisse de Paris, Le Carreau du Temple, Fonds de dotation Porosus, Fondation Ernst Göhner, Pour-cent culturel Migros, Ville de Lausanne, Loterie Romande Vaud, Pro Helvetia-Fondation Suisse pour la Culture, Fondation Jan Michalski, SPEDIDAM (La SPEDIDAM est une société de perception et de distribution qui gère les droits des artistes interprètes en matière d’enregistrement de diffusion et de réutilisation des prestations enregistrées), La Corodis.*
 ---
+Écrit et mis en scène par François-Xavier Rouyer, cette pièce empruntant aussi bien au théâtre classique qu’au cinéma d’horreur place le spectateur devant une situation édifiante. Une femme vivant recluse se voit proposé un marché fantastique : sortir de son propre corps. Cette femme qui va voyager, migrer dans un rocher, dans une plante, dans une autre personne pourrait être une allégorie de la crise que traverse le monde occidental ; le symbole d’une génération sans passé et qui voit le futur lui échapper. Les quatre personnages qui se croisent dans *La Possession* n’ont plus de nom. Ils s’appellent première personne, deuxième personne, etc. Sans identité, comment se construire ? « Je » pourrais être un autre moi qui à son tour pourrait être un·e autre, une histoire sans fin où chacun·e avance à tâtons, ne sachant où aller, sur quel corps étranger se poser pour renaître.
 
-Écrit et mis en scène par François-Xavier Rouyer, cette pièce empruntant aussi bien au théâtre classique qu’au cinéma d’horreur place le spectateur devant une situation édifiante. Une femme vivant recluse se voit proposé un marché fantastique : sortir de son propre corps. Cette femme qui va voyager, migrer dans un rocher, dans une plante, dans une autre personne pourrait être une allégorie de la crise que traverse le monde occidental ; le symbole d’une génération sans passé et qui voit le futur lui échapper. Les quatre personnages qui se croisent dans _La Possession_ n’ont plus de nom. Ils s’appellent première personne, deuxième personne, etc. Sans identité, comment se construire ? « Je » pourrais être un autre moi qui à son tour pourrait être un·e autre, une histoire sans fin où chacun·e avance à tâtons, ne sachant où aller, sur quel corps étranger se poser pour renaître.
+[TEASER 1](vimeo.com/user19285649/)
+
+[TEASER 2](vimeo.com/user19285649/)
+
+[](https://vimeo.com/538621689)[CAPTATION COMPLÈTE](https://vimeo.com/538621689) (code LaDépossession)
 
 ## L﻿a presse en parle...
 
