@@ -10,9 +10,9 @@ media_folder: /static/media/
 public_folder: /media
 locale: 'en'
 collections:
-    - name: 'quisommesnous'
-      label: 'Qui sommes nous'
-      folder: 'content/quisommesnous/'
+    - name: 'nous'
+      label: 'Nous'
+      folder: 'content/nous/'
       create: true
       path: '{{slug}}/index'
       media_folder: ''
