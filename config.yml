@@ -15,7 +15,7 @@ minify:
 summaryLength: 50
 
 params:
-    env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+    env: prod # to enable google analytics, opengraph, twitter-cards and schema.
     title: La filiale fantôme
     description: 'Description de la filiale fantôme'
     keywords: [Théâtre, Suisse Romande]
@@ -97,9 +97,9 @@ menu:
           name: 'Nous'
           url: /nous/
           weight: 35
-        - identifier: collaborations
+        - identifier: ami-e-s
           name: 'Ami·e·s'
-          url: /collaborations/
+          url: /ami-e-s/
           weight: 40
         - identifier: autres
           name: 'Autres'

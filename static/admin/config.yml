@@ -49,9 +49,9 @@ collections:
                 widget: 'markdown',
                 buttons: ['italic', 'link', 'heading-two']
             }
-    - name: 'collaborations'
-      label: 'Les ami.e.s'
-      folder: 'content/collaborations/'
+    - name: 'amies'
+      label: 'Les ami·e·s'
+      folder: 'content/amies/'
       create: true
       path: '{{slug}}/index'
       media_folder: ''
