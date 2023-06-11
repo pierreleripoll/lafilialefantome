@@ -51,7 +51,7 @@ collections:
             }
     - name: 'amies'
       label: 'Les ami·e·s'
-      folder: 'content/amies/'
+      folder: 'content/ami-e-s/'
       create: true
       path: '{{slug}}/index'
       media_folder: ''
