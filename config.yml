@@ -93,9 +93,9 @@ menu:
           name: Agenda
           url: /agenda/
           weight: 30
-        - identifier: quisommesnous
+        - identifier: nous
           name: 'Nous'
-          url: /quisommesnous/
+          url: /nous/
           weight: 35
         - identifier: collaborations
           name: 'Ami·e·s'

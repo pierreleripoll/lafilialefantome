@@ -17,7 +17,7 @@
         {{ .Title }}
         {{ if or .Params.year .Params.porteur }}
       <span>
-        {{ $porteurLink := printf "/quisommesnous/%s" (.Params.porteur | urlize) }}
+        {{ $porteurLink := printf "/nous/%s" (.Params.porteur | urlize) }}
         <h2>
           <a href="{{ $porteurLink }}" >{{- .Params.porteur }}</a> <br/>
                    {{ .Params.year}} 
