@@ -66,7 +66,7 @@ generique: >-
 ---
 Écrit et mis en scène par François-Xavier Rouyer, cette pièce empruntant aussi bien au théâtre classique qu’au cinéma d’horreur place le spectateur devant une situation édifiante. Une femme vivant recluse se voit proposé un marché fantastique : sortir de son propre corps. Cette femme qui va voyager, migrer dans un rocher, dans une plante, dans une autre personne pourrait être une allégorie de la crise que traverse le monde occidental ; le symbole d’une génération sans passé et qui voit le futur lui échapper. Les quatre personnages qui se croisent dans *La Possession* n’ont plus de nom. Ils s’appellent première personne, deuxième personne, etc. Sans identité, comment se construire ? « Je » pourrais être un autre moi qui à son tour pourrait être un·e autre, une histoire sans fin où chacun·e avance à tâtons, ne sachant où aller, sur quel corps étranger se poser pour renaître.
 
-[TEASER 1](vimeo.com/user19285649/)
+[TEASER 1](https://vimeo.com/533462751?share=copy)
 
 [TEASER 2](vimeo.com/user19285649/)
 
