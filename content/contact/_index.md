@@ -1,8 +1,9 @@
 ---
-title: Nous joindre
+title: Contact
 photos:
-  - photo: z3.-the-sequences-1024x640.jpg
+    - photo: z3.-the-sequences-1024x640.jpg
 ---
+
 ## LA FILIALE FANTÔME
 
 Rue du Crêt 7\
