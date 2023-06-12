@@ -1,7 +1,7 @@
 ---
 title: Restaurer le Mont-Blanc
 year: ""
-weight: 17
+weight: 16
 porteur: François-Xavier Rouyer
 statut: En cours
 photos:
