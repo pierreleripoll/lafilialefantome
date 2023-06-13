@@ -7,7 +7,7 @@
         {{ $imageWebp := $image.Resize (printf "%dx%d webp q90 CatmullRom" $image.Width $image.Height) }}
         {{ $aspectRatio := div (float $image.Height) (float $image.Width) }}
 
-        {{ $newWidth := int (math.Min $image.Width 1280) }}
+        {{ $newWidth := int (math.Min $image.Width 800) }}
         {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio) ) }}
 
         {{ $imageWebpSmaller := $image.Resize (printf "%dx%d webp q90 CatmullRom" $newWidth $newHeight) }}
