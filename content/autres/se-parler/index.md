@@ -3,11 +3,13 @@ title: SE PARLER / ATELIER INTERNATIONAL DE MISE EN SCÈNE (A.I.M.E.S)
 statut: Passé
 weight: 10
 porteur: François-Xavier Rouyer
+year: 0
 representations:
-  - datedebut: 2023-06-18T08:55:56.034Z
+  - datedebut: 2023-06-18T09:14:05.803Z
     datefin: 2023-06-18T08:55:56.051Z
     theatre: Pezenas, Domaine de Montpezat
     lien: https://www.midilibre.fr/2021/07/04/latelier-international-de-mise-en-scene-a-plu-9649956.php
+    datestext: 18 juin 2023
 photos:
   - photo: img_9827.jpg
   - photo: img_9805.jpg
