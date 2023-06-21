@@ -3,7 +3,7 @@ title: SE PARLER / ATELIER INTERNATIONAL DE MISE EN SCÈNE (A.I.M.E.S)
 statut: Passé
 weight: 10
 porteur: François-Xavier Rouyer
-year: 0
+year: ""
 representations:
   - datedebut: 2023-06-18T09:14:05.803Z
     datefin: 2023-06-18T08:55:56.051Z
