@@ -10,11 +10,11 @@ representations:
     lien: https://www.midilibre.fr/2021/07/04/latelier-international-de-mise-en-scene-a-plu-9649956.php
 photos:
   - photo: img_9827.jpg
-  - photo: img_9857.jpg
   - photo: img_9805.jpg
   - photo: img_9838.jpg
   - photo: img_9869.jpg
-generique: Aves des étudiant.e.s du Conservatoire de Liège (Belgique), de
-  l'École Normale Supérieure et du Master de création de Montpellier.
+  - photo: img_9858.jpg
+generique: Avec des étudiant.e.s du Conservatoire de Liège (Belgique), de
+  l'École Normale Supérieure de Paris et du Master de création de Montpellier.
 ---
-Durant une semaine intense de travail, les étudiant.e.s réfléchissent à des esquisses de mise en scène en extérieur de deux textes très différents : Gouttes d'eu
+Durant une semaine intense de travail, les étudiant.e.s réfléchissent à des esquisses de mise en scène en extérieur de deux textes très différents : *Gouttes d'eau sur Pierres Brulantes* de Rainer Werner Fassbinder et *La femme du Boulanger* de Marcel Pagnol.
