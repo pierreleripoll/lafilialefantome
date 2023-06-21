@@ -16,7 +16,9 @@ photos:
   - photo: img_9838.jpg
   - photo: img_9869.jpg
   - photo: img_9858.jpg
-generique: Avec des étudiant.e.s du Conservatoire de Liège (Belgique), de
+generique: Avec des étudiant.e.s du Conservatoire Royal de Liège (Belgique), de
   l'École Normale Supérieure de Paris et du Master de création de Montpellier.
 ---
-Durant une semaine intense de travail, les étudiant.e.s réfléchissent à des esquisses de mise en scène en extérieur de deux textes très différents : *Gouttes d'eau sur Pierres Brulantes* de Rainer Werner Fassbinder et *La femme du Boulanger* de Marcel Pagnol.
+Durant une semaine de travail intense, les étudiant.e.s réfléchissent à des esquisses de mise en scène en extérieur de textes choisis par l'intervenant.
+
+"Invité par Constance de Corbière et Robert Cantarella à A.I.M.E.S cette année, j'ai voulu travailler sur deux textes très différents : *Gouttes d'eau sur Pierres Brulantes* de Rainer Werner Fassbinder et *La femme du Boulanger* de Marcel Pagnol. J'avais l'intuition que ces deux auteurs se répondaient comme en miroir autour de sujets : que faire de la passion quand elle nous dévore ? "
