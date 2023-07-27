@@ -1,7 +1,7 @@
 ---
 title: "Les Amants Magnifiques - La Manufacture · promo N "
 statut: Passé
-weight: 10
+weight: 9
 porteur: Mathias Brossard
 year: ""
 representations:
