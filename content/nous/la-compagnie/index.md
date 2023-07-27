@@ -3,6 +3,7 @@ title: "La Compagnie "
 weight: 100
 photos:
   - photo: cbfe5d39-f226-4206-918c-681be7c04a12.jpeg
+    alt: © Diane Albasini
 generique: |-
   Instagram : [@lafilialefantome](https://www.instagram.com/lafilialefantome/)
 
