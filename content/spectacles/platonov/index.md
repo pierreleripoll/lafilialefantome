@@ -24,7 +24,7 @@ photos:
   - photo: pro-capture-one-0062.jpg
     alt: © Timothée Zurbuchen
   - photo: acte-5e-®-joan-mompart.jpeg
-    alt: ""
+    alt: © Joan Mompart
   - photo: acte-4-c-joan-mompart-i-scaled.jpg
     alt: © Joan Mompart
   - photo: acte-5c-c-joan-mompart-i.jpg
