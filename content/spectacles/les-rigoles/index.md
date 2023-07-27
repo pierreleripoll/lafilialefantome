@@ -36,9 +36,9 @@ photos:
   - photo: rigoles_5-_t.zurbuchen-®_-8-sur-8-.jpg
     alt: "© Timothée Zurbuchen "
 generique: >-
-  Texte *Brecht Evens* \
+  Texte d'après *Brecht Evens* \
 
-  Mise en scène *Mathias Brossard* \
+  Mise en scène et adaptation *Mathias Brossard* \
 
   Jeu *avec la participation du collectif CCC : Judith Goudal, Magali Heu, Arnaud Huguenin, Jean-Louis Johannides, Lara Khattabi, Jonas Lambelet, Loïc Le Manac’h, Chloë Lombard, Alexandre Menexiadis, Guillaume Miramond ou Adrien Mani, Leon David Salazar ou Raphaël Vachoux*  \
 
