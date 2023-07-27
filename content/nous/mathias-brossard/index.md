@@ -3,7 +3,9 @@ title: Mathias Brossard
 weight: 10
 photos:
   - photo: brossard.jpg
+    alt: © Diane Albasini
   - photo: platonov_comedie0347-positive.jpg
+    alt: © Timothée Zurbuchen
 generique: |-
   P﻿ROCHAINS PROJETS
 
