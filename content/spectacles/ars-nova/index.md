@@ -14,6 +14,7 @@ representations:
     datefin: 2024-03-10T08:27:30.829Z
     lien: https://saintgervais.ch/spectacle/ars-nova/
     theatre: St-Gervais (Genève)
+    datestext: Du 05 au 10 Mars 2024
 photos:
   - photo: 11-37474.png
 generique: >-
