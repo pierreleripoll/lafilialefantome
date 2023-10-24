@@ -29,7 +29,7 @@ generique: >-
 
   Scénographie *Mélissa Rouvinet*
 
-  Costumes *Karine Marques Ferreira*
+  Costumes 
 
   Régie générale et création lumière *Achille Dubau*
 
