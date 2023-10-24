@@ -5,16 +5,16 @@ weight: 21
 porteur: Romain Daroles
 statut: En cours
 representations:
-  - datedebut: 2023-03-31T10:46:02.911Z
-    datefin: 2023-04-21T10:46:02.930Z
-    theatre: Résidence à Opna, Faskrudsdfjordur (IS)
-    datestext: "31 mars - 21 avril 2023 "
-    lien: www.iskandar.ch
   - datedebut: 2024-03-05T08:28:03.805Z
     datefin: 2024-03-10T08:27:30.829Z
     lien: https://saintgervais.ch/spectacle/ars-nova/
     theatre: St-Gervais (Genève)
     datestext: Du 05 au 10 Mars 2024
+  - datedebut: 2023-03-31T10:46:02.911Z
+    datefin: 2023-04-21T10:46:02.930Z
+    theatre: Résidence à Opna, Faskrudsdfjordur (IS)
+    datestext: "31 mars - 21 avril 2023 "
+    lien: www.iskandar.ch
 photos:
   - photo: 11-37474.png
 generique: >-
