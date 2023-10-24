@@ -10,6 +10,10 @@ representations:
     theatre: Résidence à Opna, Faskrudsdfjordur (IS)
     datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
+  - datedebut: 2024-03-05T08:28:03.805Z
+    datefin: 2024-03-10T08:27:30.829Z
+    lien: https://saintgervais.ch/spectacle/ars-nova/
+    theatre: St-Gervais (Genève)
 photos:
   - photo: 11-37474.png
 generique: >-
