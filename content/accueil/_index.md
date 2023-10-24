@@ -1,6 +1,5 @@
 ---
 title: Accueil
 photos:
-  - photo: _dsc0386-©joan-mompart.jpg
-    alt: © Joan Mompart
+  - photo: capture-d’écran-2023-09-14-à-10.39.26.png
 ---
