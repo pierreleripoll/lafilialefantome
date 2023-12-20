@@ -1,9 +1,8 @@
 ---
 title: Contact
 photos:
-    - photo: z3.-the-sequences-1024x640.jpg
+  - photo: z3.-the-sequences-1024x640.jpg
 ---
-
 ## LA FILIALE FANTÔME
 
 Rue du Crêt 7\
@@ -12,7 +11,11 @@ Lausanne
 
 M. lafilialefantome@hotmail.com
 
-Direction artistique :\
+Comité directeur :\
+Nicolas Berseth\
+Davis Gagnebin-de Bons
+
+Artistes :\
 Mathias Brossard : mathias@artimachines.com\
 Romain Daroles : romaindaroles@msn.com\
 François-Xavier Rouyer : fxrouyer@yahoo.fr
