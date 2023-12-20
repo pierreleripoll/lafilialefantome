@@ -9,7 +9,7 @@ generique: |-
 
   ![]()
 ---
-La Filiale Fantôme est une compagnie de production théâtrale créée en 2014 afin d'accompagner, sur proposition du comité directeur, les créations de Mathias Brossard, Romain Daroles et François-Xavier Rouyer.
+La Filiale Fantôme est une compagnie de production théâtrale créée en 2014 afin d'accompagner, sur proposition du comité directeur les créations de Mathias Brossard, Romain Daroles et François-Xavier Rouyer.
 
 Ils se rencontrent au cours de leur formation à La Manufacture – Haute École des Arts de la Scène de Lausanne, collaborant pour la première fois sur *L’Ève Future*, spectacle mis en scène par François-Xavier Rouyer, assisté de Mathias Brossard et sur lequel Romain Daroles est un des interprètes. Le spectacle est présenté lors du festival Burn Out 1 au Théâtre Vidy-Lausanne en juin 2014. Dans la foulée de cette première expérience, l'accompagnement de la Filiale Fantme leur permet de développer leurs propres projets tout en continuant à travailler ensemble.
 
