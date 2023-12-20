@@ -9,9 +9,9 @@ generique: |-
 
   ![]()
 ---
-La Filiale Fantôme est une compagnie de production théâtrale créée en 2014, dont la direction artistique est assumée conjointement par Mathias Brossard, Romain Daroles et François-Xavier Rouyer.
+La Filiale Fantôme est une compagnie de production théâtrale créée en 2014 afin d'accompagner, sur proposition du comité directeur, les créations de Mathias Brossard, Romain Daroles et François-Xavier Rouyer.
 
-Ils se rencontrent au cours de leur formation à La Manufacture – Haute École des Arts de la Scène de Lausanne, collaborant pour la première fois sur *L’Ève Future*, spectacle mis en scène par François-Xavier Rouyer, assisté de Mathias Brossard et sur lequel Romain Daroles est un des interprètes. Le spectacle est présenté lors du festival Burn Out 1 au Théâtre Vidy-Lausanne en juin 2014. Dans la foulée de cette première expérience, ils décident de créer la compagnie afin de développer leurs propres projets tout en continuant à travailler ensemble.
+Ils se rencontrent au cours de leur formation à La Manufacture – Haute École des Arts de la Scène de Lausanne, collaborant pour la première fois sur *L’Ève Future*, spectacle mis en scène par François-Xavier Rouyer, assisté de Mathias Brossard et sur lequel Romain Daroles est un des interprètes. Le spectacle est présenté lors du festival Burn Out 1 au Théâtre Vidy-Lausanne en juin 2014. Dans la foulée de cette première expérience, l'accompagnement de la Filiale Fantme leur permet de développer leurs propres projets tout en continuant à travailler ensemble.
 
 Leur première création *Hôtel City*, est une œuvre composite entre le cinéma, le théâtre et l’installation plastique, réunissant près de 50 comédien.nes tous·tes issu·es de La Manufacture. Projet porté par François-Xavier Rouyer, avec la collaboration artistique de Mathias Brossard, et la participation en tant que comédien de Romain Daroles. Le projet est présenté lors des festivités des 10 ans de La Manufacture en 2014 puis au festival NEW-NOW d’Amsterdam et au Centre d’Art Contemporain de la Chaux-de-Fonds en 2016. La présentation de ce travail permet une première visibilité nationale et internationale à la compagnie.
 
@@ -27,11 +27,11 @@ En 2022, en coproduction avec le théâtre Vidy-Lausanne, la Comédie de Genève
 
 Durant la saison 2022-2023, François-Xavier Rouyer est invité par le Kinosaki international Arts Center au Japon en tant qu’artiste résident. Il met en scène la comédienne Japonaise Kyoko Takenaka dans une forme théâtrale qui sera présentée au Festival de théâtre de Toyooka.
 
-En avril 2023, les trois co-directeurs sont invités en Islande pour 3 semaines de résidence - prémices de la prochaine création théâtrale *Ars Nova*, portée par Romain Daroles en 2024. 
+En avril 2023, les trois partenaires de création sont invités en Islande pour 3 semaines de résidence - prémices de la prochaine création théâtrale *Ars Nova*, portée par Romain Daroles en 2024. 
 
-La Filiale Fantôme entend créer en son sein une véritable communauté de création, explorant les vertus d’une collaboration artistique constamment réorganisée (le metteur en scène devenant acteur sur le projet suivant, le porteur de projet devenant dramaturge, etc.).
+La Filiale Fantôme entend héberger en son sein une véritable communauté de création, explorant les vertus d’une collaboration artistique constamment réorganisée (le metteur en scène devenant acteur sur le projet suivant, le porteur de projet devenant dramaturge, etc.).
 
-Un trio pour cette codirection aux univers, aux compétences et aux sensibilités différentes qui leur permet de participer aux projets des uns et des autres. Ainsi créant une véritable synergie de forces et un soutien mutuel rendant possible les projets les plus fous.
+Un accompagnement de ce trio créatif aux univers, aux compétences et aux sensibilités différentes qui leur permet de participer aux projets des uns et des autres. Ainsi créant une véritable synergie de forces et un soutien mutuel rendant possible les projets les plus fous.
 
 La Filiale Fantôme entend poursuivre son travail en Suisse et au-delà des frontières (France, Japon, Islande…Etc.) et continuer à proposer des projets multidisciplinaires ambitieux et innovants (large distribution, lieux non-traditionnels), assumer des choix forts en termes artistiques, travaillant sur des textes classiques comme sur des textes contemporains, en passant par la bande dessinée ou l'écriture de plateau. Proposer un théâtre teinté d’inspirations multiples (cinéma, arts plastiques et graphiques, littérature, musique, paysages) et un théâtre audacieux pour un public renouvelé.
 
