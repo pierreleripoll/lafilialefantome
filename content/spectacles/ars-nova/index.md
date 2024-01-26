@@ -15,6 +15,10 @@ representations:
     theatre: Résidence à Opna, Faskrudsdfjordur (IS)
     datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
+  - datedebut: 2024-03-13T13:49:23.491Z
+    datefin: 2024-03-13T13:49:23.548Z
+    theatre: SPOT (Sion)
+    lien: https://spot-sion.ch/spectacles/ars-nova/
 photos:
   - photo: 11-37474.png
 generique: >-
