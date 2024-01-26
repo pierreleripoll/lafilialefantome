@@ -22,8 +22,9 @@ representations:
     datestext: 24 - 25 juin 2023
   - datedebut: 2024-06-08T12:58:30.256Z
     datefin: 2024-06-16T12:58:30.344Z
-    theatre: Nebia (Bienne - CH)
+    theatre: Nebia, Bienne (CH)
     lien: https://www.nebia.ch/spectacles/platonov/
+    datestext: 8 - 16 juin 2024
 photos:
   - photo: pro-capture-one-0062.jpg
     alt: © Timothée Zurbuchen
