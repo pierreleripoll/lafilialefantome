@@ -10,21 +10,21 @@ representations:
     theatre: Nebia, Bienne (CH)
     lien: https://www.nebia.ch/spectacles/platonov/
     datestext: 8 - 16 juin 2024
-  - datedebut: 2022-06-14T13:16:54.491Z
-    datefin: 2022-06-26T13:16:54.504Z
-    theatre: Théâtre Vidy-Lausanne (CH)
-    lien: https://vidy.ch/fr/evenement/mathias-brossard-collectif-ccc-platonov/
-    datestext: 14 - 26 juin 2022
-  - datedebut: 2022-09-17T13:18:04.391Z
-    datefin: 2022-09-25T13:18:00.000Z
-    theatre: Comédie de Genève (CH)
-    lien: https://www.comedie.ch/fr/production/coproductions/platonov-mathias-brossard
-    datestext: 17 - 25 septembre 2022
   - datedebut: 2023-06-24T13:19:44.498Z
     datefin: 2023-06-25T13:19:44.512Z
     theatre: Théâtre de Mende / Scènes Croisées de Lozère (FR)
     lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
     datestext: 24 - 25 juin 2023
+  - datedebut: 2022-09-17T13:18:04.391Z
+    datefin: 2022-09-25T13:18:00.000Z
+    theatre: Comédie de Genève (CH)
+    lien: https://www.comedie.ch/fr/production/coproductions/platonov-mathias-brossard
+    datestext: 17 - 25 septembre 2022
+  - datedebut: 2022-06-14T13:16:54.491Z
+    datefin: 2022-06-26T13:16:54.504Z
+    theatre: Théâtre Vidy-Lausanne (CH)
+    lien: https://vidy.ch/fr/evenement/mathias-brossard-collectif-ccc-platonov/
+    datestext: 14 - 26 juin 2022
 photos:
   - photo: pro-capture-one-0062.jpg
     alt: © Timothée Zurbuchen
