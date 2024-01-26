@@ -5,6 +5,11 @@ weight: 21
 porteur: Romain Daroles
 statut: En cours
 representations:
+  - datedebut: 2024-03-13T13:49:23.491Z
+    datefin: 2024-03-13T13:49:23.548Z
+    theatre: SPOT, Sion (CH)
+    lien: https://spot-sion.ch/spectacles/ars-nova/
+    datestext: 13 mars 2024
   - datedebut: 2024-03-05T08:28:03.805Z
     datefin: 2024-03-10T08:27:30.829Z
     lien: https://saintgervais.ch/spectacle/ars-nova/
@@ -15,11 +20,6 @@ representations:
     theatre: Résidence à Opna, Faskrudsdfjordur (IS)
     datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
-  - datedebut: 2024-03-13T13:49:23.491Z
-    datefin: 2024-03-13T13:49:23.548Z
-    theatre: SPOT, Sion (CH)
-    lien: https://spot-sion.ch/spectacles/ars-nova/
-    datestext: 13 mars 2024
 photos:
   - photo: 11-37474.png
 generique: >-
