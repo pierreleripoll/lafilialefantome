@@ -20,6 +20,10 @@ representations:
     theatre: Théâtre de Mende / Scènes Croisées de Lozère (FR)
     lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
     datestext: 24 - 25 juin 2023
+  - datedebut: 2024-06-08T12:58:30.256Z
+    datefin: 2024-06-16T12:58:30.344Z
+    theatre: Nebia (Bienne - CH)
+    lien: https://www.nebia.ch/spectacles/platonov/
 photos:
   - photo: pro-capture-one-0062.jpg
     alt: © Timothée Zurbuchen
