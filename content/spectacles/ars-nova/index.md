@@ -8,7 +8,7 @@ representations:
   - datedebut: 2024-03-05T08:28:03.805Z
     datefin: 2024-03-10T08:27:30.829Z
     lien: https://saintgervais.ch/spectacle/ars-nova/
-    theatre: St-Gervais (Genève)
+    theatre: St-Gervais, Genève (CH)
     datestext: Du 05 au 10 Mars 2024
   - datedebut: 2023-03-31T10:46:02.911Z
     datefin: 2023-04-21T10:46:02.930Z
@@ -17,8 +17,9 @@ representations:
     lien: www.iskandar.ch
   - datedebut: 2024-03-13T13:49:23.491Z
     datefin: 2024-03-13T13:49:23.548Z
-    theatre: SPOT (Sion)
+    theatre: SPOT, Sion (CH)
     lien: https://spot-sion.ch/spectacles/ars-nova/
+    datestext: 13 mars 2024
 photos:
   - photo: 11-37474.png
 generique: >-
