@@ -32,16 +32,16 @@ generique: >-
 
   Création son *Charles-Edouard de Surville* \
 
-  Scénographie et regard extérieur *Mélissa Rouvinet*
+  Scénographie et regard extérieur *Mélissa Rouvinet*\
 
-  Régie générale et création lumière *Achille Dubau*
+  Régie générale et création lumière *Achille Dubau*\
 
-  R﻿égie son Philippe de Rham \
+  R﻿égie son *Philippe de Rham* \
 
   Administration et diffusion *Marianne Aguado - ISKANDAR* 
 
 
-  Partenaires *Théâtre Vidy-Lausanne, Théâtre Saint-Gervais Genève, Théâtre de l'Aquarium, La Grange - Centre / Arts et Science / UNIL*
+  Partenaires *Théâtre Vidy-Lausanne, Théâtre Saint-Gervais - Genève, Le SPOT - Sion, Théâtre de l'Aquarium, La Grange - Centre / Arts et Science / UNIL*
 ---
 *Ars Nova* est une fiction basée sur la découverte dans un monde post-apocalyptique futuriste d’enregistrements lyriques et radiophoniques, seuls legs de notre société actuelle. Comme pour *Vita Nova*, la fable se situe là encore dans une recherche encyclopédique entre une redécouverte intime et une reconnaissance du réel, toujours en prise à une exploration mélancolique du savoir. Il s’agira cette fois d’enquêter non sur un passé retroussé sur notre contemporanéité, mais sur notre présent transformé en passé par le biais d’une fiction futuriste. Un monde où l’art lyrique – comme dans notre société occidentale tout un monde sensible  et quotidien – aurait – presque – disparu.
 
