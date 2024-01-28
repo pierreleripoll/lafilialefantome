@@ -41,6 +41,14 @@
         justify-content: right;
     }
 
+    .post-main.accueil a {
+        display: flex;
+        justify-content: end;
+    }
+    .post-main.accueil img {
+        max-height: calc(100vh - 268px - var(--middle-gap));
+    }
+
     .accueil.post-main {
         justify-content: right;
     }
