@@ -1,54 +1,10 @@
 {{ if isset .Params "representations" }}
-
-
-
     {{ $representations := sort .Params.Representations "datefin" "desc" }}
-
-    {{ $used := slice }}
-
-    {{ range $year := seq 25 }}
-        {{ $list := slice }}
-
-        {{ range $index, $representation := $representations }}
-            {{ $fin := time ($representation.datefin) }}
-            {{ $debut := time ($representation.datedebut) }}
-
-            {{ $startYear := $year }}
-            {{ if and ($fin.After (time (printf "%d-09-01" (add $year 2021)))) ($fin.Before (time (printf "%d-09-01" (add $year 2022)))) }}
-                {{ $list = $list | append $representation }}
-                {{ $used = $used | append $index }}
-            {{ end }}
-
-        {{ end }}
-
-        {{ if ge (len $list) 1 }}
-
-            <div class="saison">
-                {{/*  <h3>
-                    Saison {{ printf "%d" (add $year 2021) }} -
-                    {{ printf "%d" (add $year 2022) }}
-                </h3>  */}}
-                <ul class="representations">
-                    {{- range $list }}
-                        {{ partial "dateLine.html" . }}
-                    {{- end }}
-                </ul>
-            </div>
-        {{ end }}
-
-    {{ end }}
-
-    {{ if lt (len $used) (len $representations) }}
-
-        <div class="saison">
-            {{/*  <h3>Saisons passées</h3>  */}}
-            <ul class="representations">
-                {{- range $index, $representation := sort $representations "datefin" "desc"}}
-                    {{ if not ( in $used $index) }}
-                        {{ partial "dateLine.html" $representation }}
-                    {{- end }}
-                {{- end }}
-            </ul>
-        </div>
-    {{ end }}
+    <div class="saison">
+        <ul class="representations">
+            {{- range $representations }}
+                {{ partial "dateLine.html" . }}
+            {{- end }}
+        </ul>
+    </div>
 {{ end }}

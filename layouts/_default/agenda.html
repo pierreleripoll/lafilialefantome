@@ -20,7 +20,13 @@
 
 
     <div class="agenda">
-        {{ range $year := seq 25 }}
+        {{ $currentYear := int (.Site.Data.settings.seasonYear) }}
+
+        {{ $currentSeasonEnd := $currentYear }}
+        {{ $currentSeasonStart := (sub $currentYear 1) }}
+
+        {{ range $year := (seq 0 20) }}
+
             {{ $list := slice }}
 
             {{ range $index, $representation := $representations }}
@@ -28,7 +34,9 @@
                 {{ $debut := time ($representation.datedebut) }}
 
                 {{ $startYear := $year }}
-                {{ if and ($fin.After (time (printf "%d-09-01" (add $year 2021)))) ($fin.Before (time (printf "%d-09-01" (add $year 2022)))) }}
+                {{ $seasonStartYear := add $currentSeasonStart $year }}
+                {{ $seasonEndYear := add $currentSeasonEnd $year }}
+                {{ if and ($fin.After (time (printf "%d-09-01" $seasonStartYear))) ($fin.Before (time (printf "%d-09-01" $seasonEndYear))) }}
                     {{ $list = $list | append $representation }}
                     {{ $used = $used | append $index }}
                 {{ end }}
@@ -39,8 +47,10 @@
 
                 <div class="saison">
                     <h1 class="main-header">
-                        saison {{ printf "%d" (add $year 2021) }} -
-                        {{ printf "%d" (add $year 2022) }}
+                        saison
+                        {{ printf "%d" (add $year $currentSeasonStart) }}
+                        -
+                        {{ printf "%d" (add $year $currentSeasonEnd) }}
                     </h1>
                     <ul class="representations">
                         {{- range $list }}

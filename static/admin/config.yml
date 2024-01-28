@@ -10,6 +10,25 @@ media_folder: /static/media/
 public_folder: /media
 locale: 'en'
 collections:
+    - name: 'settings'
+      label: 'Paramètres du site'
+      files:
+          - file: 'data/settings.yml'
+            label: 'Paramètres du site'
+            name: 'globalSettings'
+            fields:
+                - label: 'Saison actuelle'
+                  name: 'seasonYear'
+                  widget: 'select'
+                  options:
+                      - { label: '2022 - 2023', value: 2023 }
+                      - { label: '2023 - 2024', value: 2024 }
+                      - { label: '2024 - 2025', value: 2025 }
+                      - { label: '2025 - 2026', value: 2026 }
+                      - { label: '2026 - 2027', value: 2027 }
+                      - { label: '2027 - 2028', value: 2028 }
+                      - { label: '2028 - 2029', value: 2029 }
+                      - { label: '2029 - 2030', value: 2030 }
     - name: 'nous'
       label: 'Nous'
       folder: 'content/nous/'
@@ -40,7 +59,12 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
           - {
                 label: 'Infos',
                 name: 'generique',
@@ -79,7 +103,12 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
           - {
                 label: 'Infos',
                 name: 'generique',
@@ -110,7 +139,12 @@ collections:
                   widget: 'list'
                   fields:
                       - { label: 'Image', name: 'photo', widget: 'image' }
-                      - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                      - {
+                            label: 'Titre',
+                            name: 'alt',
+                            required: false,
+                            widget: 'string'
+                        }
           - label: "Page d'accueil"
             name: 'accueil'
             file: 'content/accueil/_index.md'
@@ -125,7 +159,12 @@ collections:
                   widget: 'list'
                   fields:
                       - { label: 'Image', name: 'photo', widget: 'image' }
-                      - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                      - {
+                            label: 'Titre',
+                            name: 'alt',
+                            required: false,
+                            widget: 'string'
+                        }
 
     - name: 'autre'
       label: 'Autres projets'
@@ -195,7 +234,12 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
 
           - {
                 label: 'Générique',
@@ -287,7 +331,12 @@ collections:
             widget: 'list'
             fields:
                 - { label: 'Image', name: 'photo', widget: 'image' }
-                - { label: 'Titre', name: 'alt', required: false, widget: 'string' }
+                - {
+                      label: 'Titre',
+                      name: 'alt',
+                      required: false,
+                      widget: 'string'
+                  }
 
           - {
                 label: 'Générique',
