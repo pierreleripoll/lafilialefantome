@@ -8,24 +8,47 @@ representations: []
 photos:
   - photo: 052439-080_1476259_32_202.jpg
 generique: >-
-  Mise en scène et adaptation *Mathias Brossard*\
+  D’après *Le Baron perché* d’Italo Calvino - Traduction en français Martin
+  Rueff  \
 
-  Avec 5 comédien-nes du collectif CCC\
+  \
+
+  Adaptation et mise en arbre : *Mathias Brossard* en collaboration avec les interprètes\
+
+  \
+
+  Avec 4 interprètes en alternance : *Diane Albasini, Alenka Chenuz, Cécile Goussard, Magali Heu, Arnaud Huguenin, Jean-Louis Johannides, Lara Khattabi, Jonas Lambelet, Loïc Le Manac’h, Chloë Lombard, Mélina Martin, Margot Van Hove*\
+
+  \
 
   Création musicale : *Alexandre Ménéxiadis*\
 
-  Création costumes : *Marie Romanens*\
+  Éléments scénographiques et construction : *Mathilde Aubineau*\
 
-  Régie générale : *Achille Dubau*\
+  Création costumes : *Marie Romanens* \
 
-  Administration : *ISKANDAR – Marianne Aguado*\
+  Illustration et conception du fanzine : *Alice Barbosa* \
 
-  Production : *La Filiale Fantôme x Collectif CCC* \
+  Assistanat et dramaturgie : *Piera Bellato* \
 
-  Coproduction : *Théâtre Am Stram Gram, Théâtre Vidy-Lausanne, Château Rouge - Annemasse*\
+  Régie générale et logistique : *Achille Dubau*\
+
+  Référent technique escalade dans les arbres : *Xavier Dejoux*\
+
+  Administration : *ISKANDAR – Marianne Aguado*\
+
+  \
+
+  Production : *La Filiale Fantôme x Collectif CCC*\
+
+  Coproduction (en cours) : *Théâtre Am Stram Gram, Château Rouge - Annemasse, Théâtre Vidy-Lausanne* \
 
   Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*
 ---
-Sur invitation du Théâtre Am Stram Gram de Genève, Mathias Brossard travaille sur un nouveau projet in situ à destination du tout public. *Perchée* sera une adaptation du *Baron perché* d’Italo Calvino revisité au prisme des luttes écologiques actuelles. Le spectacle sera joué en majeure partie en hauteur dans les arbres au-dessus du public.
+<!--StartFragment-->
 
-La création est prévue pour septembre 2024.
+Spectacle in situ joué dans et autour d'un arbre, *Perchée* est une adaptation pour quatre comédien·nes du roman *Le Baron perché* d’Italo Calvino. Troisième mise en scène de Mathias Brossard avec les membres du collectif CCC (Comédiennes et Comédiens à Ciel ouvert), le spectacle s’adresse à toustes à partir de 9 ans. \
+Reprenant les thèmes du roman original (rébellion et désobéissance, rapport à la nature, critique des conventions sociales), l’adaptation que nous proposons se centre sur une héroïne contemporaine qui actualise les questions posées par son ancêtre de papier (le Baron de Calvino) au prisme de l’écologie politique, du militantisme et des enjeux environnementaux actuels.\
+Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
+
+Création à Genève le 5 mai 2025.
