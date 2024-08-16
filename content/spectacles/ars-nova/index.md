@@ -63,4 +63,10 @@ generique: >-
 
 La phase préliminaire de cette prochaine création a démarré en avril 2023 à Faskrudsdfjordur en Islande. Les 3 co-directeurs de la Filiale Fantôme ont pu y effectuer une première résidence.
 
+## L﻿a presse en parle...
+
+
+
+## M﻿édias
+
 [Dossier du spectacle](static/media/arsnova_projet_-romain-daroles.pdf)
