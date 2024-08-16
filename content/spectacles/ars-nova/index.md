@@ -20,28 +20,47 @@ representations:
     theatre: Résidence à Opna, Faskrudsdfjordur (IS)
     datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
+  - datedebut: 2025-02-26T14:55:31.600Z
+    datefin: 2025-03-09T14:55:31.644Z
+    theatre: Théâtre Vidy-Lausanne
+    datestext: 26 février - 9 mars 2025
+    lien: https://vidy.ch/fr/
 photos:
   - photo: 11-37474.png
 generique: >-
-  Recherches préliminaires, écriture, conception et coordination artistique
-  *Romain Daroles* \
+  Conception *Romain Daroles*\
 
-  Collaboration artistique *Mathias Brossard, François-Xavier Rouyer* \
+  Collaboration artistique et écriture *Marion Chabloz, Mélissa Rouvinet, Mathias Brossard, François-Xavier Rouyer*\
 
-  Jeu *Mathias Brossard, Marion Chabloz, Romain Daroles, François-Xavier Rouyer* \
+  Jeu *Mathias Brossard, Marion Chabloz, Romain Daroles, François-Xavier Rouyer*\
+
+  Scénographie et costumes *Mélissa Rouvinet*\
+
+  Accessoires *Mélissa Rouvinet et Achille Dubau*\
 
   Création son *Charles-Edouard de Surville* \
 
-  Scénographie et regard extérieur *Mélissa Rouvinet*\
+  Régie son *Philippe de Rham*\
 
-  Régie générale et création lumière *Achille Dubau*\
+  Création lumière et régie générale *Achille Dubau*\
 
-  R﻿égie son *Philippe de Rham* \
+  Administration et diffusion *Marianne Aguado - ISKANDAR*\
 
-  Administration et diffusion *Marianne Aguado - ISKANDAR* 
+  Chargé de production *Simon Hildebrand*
 
 
-  Partenaires *Théâtre Vidy-Lausanne, Théâtre Saint-Gervais - Genève, Le SPOT - Sion, Théâtre de l'Aquarium, La Grange - Centre / Arts et Science / UNIL*
+  Production
+
+  *La Filiale Fantôme, ISKANDAR, Collectif CCC*\
+
+  Coproduction
+
+  *Théâtre Saint-Gervais Genève, Théâtre Vidy-Lausanne*
+
+
+  Soutiens
+
+  *Soutien en résidence de la vie brève – Théâtre de l’Aquarium, Fondation SIS, La Fondation Ernst Gohner, Fondation Leenaards, La Grange, Centre / Art et Sciences / UNIL, Pro Helvetia et soutien en résidence Association OPNA, une fondation privée lausannoise.*
 ---
 *Ars Nova* est une fiction basée sur la découverte dans un monde post-apocalyptique futuriste d’enregistrements lyriques et radiophoniques, seuls legs de notre société actuelle. Comme pour *Vita Nova*, la fable se situe là encore dans une recherche encyclopédique entre une redécouverte intime et une reconnaissance du réel, toujours en prise à une exploration mélancolique du savoir. Il s’agira cette fois d’enquêter non sur un passé retroussé sur notre contemporanéité, mais sur notre présent transformé en passé par le biais d’une fiction futuriste. Un monde où l’art lyrique – comme dans notre société occidentale tout un monde sensible  et quotidien – aurait – presque – disparu.
 
