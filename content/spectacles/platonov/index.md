@@ -68,7 +68,7 @@ generique: >-
 ---
 Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna Petrovna. Cet été, ils ne le savent pas encore mais c’est leur dernier été ensemble. Un personnage se distingue et précipite la fin de ce monde : Platonov, aristocrate trentenaire déchu, dont le regard acerbe lui vaut admiration et crainte, et qui mènera à leur perte les différent-es acteur-trices de cette pièce, lui compris. Projet monstre pour une pièce-monde, l’intégrale du spectacle, jouée en pleine forêt, s’étale sur 2 jours pour atteindre environ 12h de spectacle. Les quatre actes de la pièce sont également visibles en 4 épisodes en soir de semaine - Chaque épisode pouvant être vu indépendamment les uns des autres.
 
-## \    [TEASER](https://www.youtube.com/watch?v=_HzUpkGbw-s)
+## 📺 [TEASER](https://www.youtube.com/watch?v=_HzUpkGbw-s)
 
 ## L﻿a presse en parle...
 
@@ -92,6 +92,6 @@ RTS infos , Téléjournal le 19h30 - [16 comédiennes et comédiens issus de la 
 
 RADIO RTS, EMISSION VERTIGO - [Théâtre au fond des bois](https://www.rts.ch/audio-podcast/2022/audio/platonov-theatre-au-fond-des-bois-25830802.html) (7min) T﻿hierry Sartoretti - Juin 2022
 
-[Interview Vidigitale, Partie 1](https://vimeo.com/652879046?embedded=true&source=vimeo_logo&owner=15368748) (3min) 📺 [Interview Vidigitale, Partie 2](https://vimeo.com/652886075?embedded=true&source=vimeo_logo&owner=15368748) (2min)
+[Interview Vidigitale, Partie 1](https://vimeo.com/652879046?embedded=true&source=vimeo_logo&owner=15368748) (3min)  [Interview Vidigitale, Partie 2](https://vimeo.com/652886075?embedded=true&source=vimeo_logo&owner=15368748) (2min)
 
 [DOSSIER DU SPECTACLE](static/media/dossier-_-platonov-_-m.brossard.pdf)
