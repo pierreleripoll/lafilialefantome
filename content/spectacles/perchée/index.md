@@ -5,11 +5,6 @@ weight: 18
 porteur: Mathias Brossard
 statut: En cours
 representations:
-  - datedebut: 2025-05-05T13:35:26.164Z
-    datefin: 2025-05-18T13:35:26.177Z
-    theatre: Théâtre Amstragram, Genève (CH)
-    lien: https://www.amstramgram.ch/index.html
-    datestext: 5 - 18 mai 2025
   - datedebut: 2025-06-03T13:41:14.280Z
     datefin: 2025-06-08T13:41:14.291Z
     theatre: Théâtre Vidy-Lausanne (CH)
@@ -25,6 +20,11 @@ representations:
     theatre: Théâtre Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
     datestext: "Septembre 2024 "
+  - datedebut: 2025-05-05T13:35:26.164Z
+    datefin: 2025-05-18T13:35:26.177Z
+    theatre: Théâtre Amstragram, Genève (CH)
+    lien: https://www.amstramgram.ch/index.html
+    datestext: 5 - 18 mai 2025
 photos:
   - photo: 052439-080_1476259_32_202.jpg
 generique: >-
