@@ -4,7 +4,12 @@ year: 2025
 weight: 18
 porteur: Mathias Brossard
 statut: En cours
-representations: []
+representations:
+  - datedebut: 2025-05-05T13:35:26.164Z
+    datefin: 2025-05-18T13:35:26.177Z
+    theatre: Théâtre Amstragram
+    lien: https://www.amstramgram.ch/index.html
+    datestext: 5 - 18 mai 2025
 photos:
   - photo: 052439-080_1476259_32_202.jpg
 generique: >-
