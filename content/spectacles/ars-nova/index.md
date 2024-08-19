@@ -67,6 +67,18 @@ La phase préliminaire de cette prochaine création a démarré en avril 2023 à
 
 ## L﻿a presse en parle...
 
+Romain Daroles et sa Cie (re)découvrent l’opéra, en même temps que leurs personnages et que le public, dans une mise à distance temporelle qui permet de faire rêver tout en faisant frissonner d’émotions.” [La Pépinière - Magali Bossi - Mars 2024](https://lapepinieregeneve.ch/ars-nova-operas-pour-fins-des-temps/)
+
+“Jouant habilement avec une distorsion de la temporalité – chaque action prend du temps – Ars Nova construit une parenthèse théâtrale décalée et ludique.” [L’Atelier Critique - Emma Chapatte - Mars 2024 ](https://wp.unil.ch/ateliercritique/2024/03/ars-nova/)
+
+“Romain Daroles compose un éblouissant quatuor pour la fin du temps” [Tribune de Genève -Katia Berger - Mars 2024 ](https://www.tdg.ch/theatre-saint-gervais-romain-daroles-compose-un-quatuor-875676255034)
+
+“A Saint-Gervais, des chercheurs du futur tombent en émoi devant des vestiges d’opéra” L[e Temps, Marie-Pierre Genecand - Mars 2024](https://www.letemps.ch/culture/scenes/a-saint-gervais-des-chercheurs-du-futur-tombent-en-emoi-devant-des-vestiges-d-opera) 
+
 ## M﻿édias
+
+RTS Espace 2 - [Interview de Romain Daroles dans l’émission L’Écho des pavanes](https://www.rts.ch/audio-podcast/2024/audio/a-geneve-pour-l-inauguration-de-la-cite-bleue-28431643.html)
+
+RTS La 1ère - [Interview de Romain Daroles dans l’émission Vertigo](https://www.rts.ch/audio-podcast/2024/audio/ars-nova-28426328.html)[](https://www.rts.ch/audio-podcast/2024/audio/a-geneve-pour-l-inauguration-de-la-cite-bleue-28431643.html)
 
 [Dossier du spectacle](static/media/arsnova_projet_-romain-daroles.pdf)
