@@ -5,14 +5,13 @@ photos:
 ---
 ## LA FILIALE FANTÔME
 
-Rue du Crêt 7\
-1006\
-Lausanne
+1000 Lausanne
 
 M. lafilialefantome@hotmail.com
 
 Comité directeur :\
 Nicolas Berseth\
+Catherine Büchi\
 Davis Gagnebin-de Bons
 
 Artistes :\
@@ -23,7 +22,8 @@ François-Xavier Rouyer : fxrouyer@yahoo.fr
 Administration et production :\
 Marianne Aguado - ISKANDAR\
 M. marianne.aguado@hotmail.com\
-T. +41 78 315 01 77
+T. +41 78 315 01 77\
+T. +33 6 09 95 34 55 
 
 ## SITE WEB
 
