@@ -28,6 +28,12 @@ representations:
 photos:
   - photo: 20240304-20240304-ars-nova-177-web.jpg
   - photo: 20240304-20240304-ars-nova-190-web.jpg
+  - photo: 20240304-20240304-ars-nova-171-web.jpg
+  - photo: 20240304-20240304-ars-nova-122-web.jpg
+  - photo: 20240304-20240304-ars-nova-57-web.jpg
+  - photo: 20240304-20240304-ars-nova-39-web.jpg
+  - photo: 20240304-20240304-ars-nova-26-web.jpg
+  - photo: 20240304-20240304-ars-nova-10-web.jpg
 generique: >-
   Conception *Romain Daroles*\
 
