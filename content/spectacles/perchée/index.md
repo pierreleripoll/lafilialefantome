@@ -19,7 +19,7 @@ representations:
     datefin: 2025-09-28T13:43:54.923Z
     theatre: Théâtre Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
-    datestext: "Septembre 2024 "
+    datestext: Septembre 2025
   - datedebut: 2025-05-05T13:35:26.164Z
     datefin: 2025-05-18T13:35:26.177Z
     theatre: Théâtre Amstragram, Genève (CH)
