@@ -27,6 +27,7 @@ representations:
     lien: https://vidy.ch/fr/
 photos:
   - photo: 11-37474.png
+  - photo: 20240304-20240304-ars-nova-190-web.jpg
 generique: >-
   Conception *Romain Daroles*\
 
