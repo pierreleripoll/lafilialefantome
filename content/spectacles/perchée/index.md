@@ -1,6 +1,6 @@
 ---
 title: Perchée
-year: ""
+year: 2025
 weight: 18
 porteur: Mathias Brossard
 statut: En cours
@@ -35,7 +35,7 @@ generique: >-
 
   Référent technique escalade dans les arbres : *Xavier Dejoux*\
 
-  Administration : *ISKANDAR – Marianne Aguado*\
+  Administration : *Marianne Aguado - ISKANDAR*\
 
   \
 
@@ -43,7 +43,9 @@ generique: >-
 
   Coproduction (en cours) : *Théâtre Am Stram Gram, Château Rouge - Annemasse, Théâtre Vidy-Lausanne* \
 
-  Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*
+  Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*\
+
+  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture (en cours)*
 ---
 <!--StartFragment-->
 
