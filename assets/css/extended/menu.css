@@ -25,12 +25,6 @@
     display: block;
 }
 
-a.active {
-    /* text-decoration: var(--underline-theme);
-    text-underline-offset: var(--underline-theme-offset);
-    text-decoration-skip-ink: none; */
-}
-
 @media screen and (max-width: 768px) {
     .menu {
         align-items: start;
@@ -161,9 +155,6 @@ a.active {
 
 .menu.open .hamburger-inner:after {
     top: -12px;
-}
-
-.menu.open .hamburger-inner:before {
 }
 
 .menu.open .hamburger-inner {

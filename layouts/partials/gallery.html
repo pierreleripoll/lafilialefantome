@@ -183,7 +183,7 @@ lightbox.addFilter('itemData', (itemData, index) => {
             {{ $imageWebp := $image.Resize (printf "%dx%d webp q90 CatmullRom" $image.Width $image.Height) }}
             {{ $aspectRatio := div (float $image.Height) (float $image.Width) }}
 
-            {{ $newWidth := int (math.Min $image.Width 2500) }}
+            {{ $newWidth := int (math.Min $image.Width 1500) }}
             {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio) ) }}
 
             {{ $imageWebpSmaller := $image.Resize (printf "%dx%d webp q90 CatmullRom" $newWidth $newHeight) }}
@@ -191,11 +191,11 @@ lightbox.addFilter('itemData', (itemData, index) => {
 
 
             <a
-                href="{{ $image.RelPermalink }}"
+                href="{{ $imageWebp.RelPermalink }}"
                 data-pswp-width="{{ $image.Width }}"
                 data-pswp-height="{{ $image.Height }}"
                 data-pswp-webp-src="{{ $imageWebpSmaller.RelPermalink }} {{ $newWidth }}w, {{ $imageWebp.RelPermalink }} {{ $imageWebp.Width }}w"
-                data-pswp-webp-sizes="(max-width: 2300) {{ $newWidth }}px, (min-width: 2300px) {{ $imageWebp.Width }}px"
+                data-pswp-webp-sizes="(max-width: 1800) {{ $newWidth }}px, {{ $imageWebp.Width }}px"
                 target="_blank"
             >
                 <img
