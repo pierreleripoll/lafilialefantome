@@ -25,6 +25,11 @@ representations:
     theatre: Théâtre Amstragram, Genève (CH)
     lien: https://www.amstramgram.ch/index.html
     datestext: 5 - 18 mai 2025
+  - theatre: Théâtre Vidy-Lausanne (CH)
+    lien: https://vidy.ch/fr/
+    datestext: "Le 3 mai 2025 "
+    datedebut: 03.05.2025
+    datefin: 03.05.2025
 photos:
   - photo: 052439-080_1476259_32_202.jpg
 generique: >-
@@ -65,7 +70,7 @@ generique: >-
 
   Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*\
 
-  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture (en cours)*
+  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Leenaards (en cours)*
 ---
 <!--StartFragment-->
 
@@ -73,4 +78,4 @@ Spectacle in situ joué dans et autour d'un arbre, *Perchée* est une adaptation
 Reprenant les thèmes du roman original (rébellion et désobéissance, rapport à la nature, critique des conventions sociales), l’adaptation que nous proposons se centre sur une héroïne contemporaine qui actualise les questions posées par son ancêtre de papier (le Baron de Calvino) au prisme de l’écologie politique, du militantisme et des enjeux environnementaux actuels.\
 Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
 
-Création à Genève le 5 mai 2025.
+Création à Lausanne le 3 mai 2025.
