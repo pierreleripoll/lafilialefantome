@@ -27,7 +27,7 @@ representations:
     datestext: 5 - 18 mai 2025
   - theatre: Théâtre Vidy-Lausanne (CH)
     lien: https://vidy.ch/fr/
-    datestext: "Le 3 mai 2025 "
+    datestext: "Les 3 et 4 mai 2025 "
     datedebut: 03.05.2025
     datefin: 03.05.2025
 photos:
