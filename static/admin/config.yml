@@ -215,18 +215,8 @@ collections:
                       required: false,
                       widget: 'string'
                   }
-                - {
-                      label: 'Date début',
-                      name: 'datedebut',
-                      widget: 'datetime',
-                      date_format: 'DD.MM.YYYY'
-                  }
-                - {
-                      label: 'Date fin',
-                      name: 'datefin',
-                      widget: 'datetime',
-                      date_format: 'DD.MM.YYYY'
-                  }
+                - { label: 'Date début', name: 'datedebut', widget: 'datetime' }
+                - { label: 'Date fin', name: 'datefin', widget: 'datetime' }
 
           - label: 'Images'
             required: false
@@ -312,18 +302,8 @@ collections:
                       required: false,
                       widget: 'string'
                   }
-                - {
-                      label: 'Date début',
-                      name: 'datedebut',
-                      widget: 'datetime',
-                      date_format: 'DD.MM.YYYY'
-                  }
-                - {
-                      label: 'Date fin',
-                      name: 'datefin',
-                      widget: 'datetime',
-                      date_format: 'DD.MM.YYYY'
-                  }
+                - { label: 'Date début', name: 'datedebut', widget: 'datetime' }
+                - { label: 'Date fin', name: 'datefin', widget: 'datetime' }
 
           - label: 'Images'
             required: false
