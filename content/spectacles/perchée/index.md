@@ -7,7 +7,7 @@ statut: En cours
 representations:
   - theatre: Théâtre Vidy-Lausanne (CH)
     lien: https://vidy.ch/fr/
-    datestext: "Les 2 et 3 mai 2025 "
+    datestext: "2 et 3 mai 2025 "
     datedebut: 2025-05-02T18:00:00.000Z
     datefin: 2025-05-30T15:00:00.000Z
   - datedebut: 2025-05-05T13:35:26.164Z
