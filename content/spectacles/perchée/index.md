@@ -1,6 +1,6 @@
 ---
 title: Perchée
-year: 2025
+year: ""
 weight: 199
 porteur: Mathias Brossard
 statut: En cours
