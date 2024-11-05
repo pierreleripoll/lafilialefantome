@@ -5,6 +5,11 @@ weight: 200
 porteur: Romain Daroles
 statut: En cours
 representations:
+  - datedebut: 2025-02-26T14:55:31.600Z
+    datefin: 2025-03-09T14:55:31.644Z
+    theatre: Théâtre Vidy-Lausanne
+    datestext: 26 février - 9 mars 2025
+    lien: https://vidy.ch/fr/
   - datedebut: 2024-03-13T13:49:23.491Z
     datefin: 2024-03-13T13:49:23.548Z
     theatre: SPOT, Sion (CH)
@@ -20,11 +25,6 @@ representations:
     theatre: Résidence à Opna, Faskrudsdfjordur (IS)
     datestext: "31 mars - 21 avril 2023 "
     lien: www.iskandar.ch
-  - datedebut: 2025-02-26T14:55:31.600Z
-    datefin: 2025-03-09T14:55:31.644Z
-    theatre: Théâtre Vidy-Lausanne
-    datestext: 26 février - 9 mars 2025
-    lien: https://vidy.ch/fr/
 photos:
   - photo: 20240304-20240304-ars-nova-122-web.jpg
     alt: © Samuel Rubio
