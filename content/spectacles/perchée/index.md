@@ -20,16 +20,16 @@ representations:
     theatre: Théâtre Vidy-Lausanne (CH)
     lien: https://vidy.ch/fr/
     datestext: 3 - 8 juin 2025
-  - datedebut: 2025-06-28T13:42:49.008Z
-    datefin: 2025-06-28T13:42:49.019Z
-    theatre: Scènes-Croisées de Lozère (FR)
-    lien: https://scenescroisees.fr/
-    datestext: "28 juin 2025 "
   - datedebut: 2025-09-25T13:43:54.910Z
     datefin: 2025-09-28T13:43:54.923Z
     theatre: Théâtre Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
     datestext: Septembre 2025
+  - datedebut: 2025-06-28T13:42:49.008Z
+    datefin: 2025-06-28T13:42:49.019Z
+    theatre: Scènes-Croisées de Lozère (FR)
+    lien: https://scenescroisees.fr/
+    datestext: "28 juin 2025 "
 photos:
   - photo: 052439-080_1476259_32_202.jpg
 generique: >-
