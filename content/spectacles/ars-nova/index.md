@@ -1,6 +1,6 @@
 ---
 title: Ars Nova
-year: 2024
+year: ""
 weight: 200
 porteur: Romain Daroles
 statut: En cours
