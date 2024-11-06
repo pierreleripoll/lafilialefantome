@@ -22,7 +22,7 @@ representations:
     datestext: 3 - 8 juin 2025
   - datedebut: 2025-09-29T14:43:00.000Z
     datefin: 2025-10-04T15:43:00.000Z
-    theatre: Théâtre Château-Rouge, Annemasse (FR)
+    theatre: Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
     datestext: 29 Septembre au 4 octobre 2025
   - datedebut: 2025-06-28T08:42:00.000Z
