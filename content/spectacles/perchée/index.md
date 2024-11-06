@@ -31,6 +31,8 @@ representations:
     lien: https://www.chateau-rouge.net/
     datestext: 29 Septembre - 4 octobre 2025
 photos:
+  - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
+    alt: ©-xavier-dejoux
   - photo: dscf0424©arnaud-huguenin.jpg
     alt: ©Arnaud Huguenin
 generique: >-
