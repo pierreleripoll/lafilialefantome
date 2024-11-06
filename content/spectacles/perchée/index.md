@@ -15,17 +15,17 @@ representations:
     theatre: Théâtre Amstragram / Comédie de Genève, Genève (CH)
     lien: https://www.amstramgram.ch/index.html
     datestext: 5 - 18 mai 2025
-  - datedebut: 2025-06-03T13:41:14.280Z
+  - datedebut: 2025-06-03T15:21:00.000Z
     datefin: 2025-06-08T13:41:14.291Z
     theatre: Théâtre Vidy-Lausanne (CH)
     lien: https://vidy.ch/fr/
     datestext: 3 - 8 juin 2025
-  - datedebut: 2025-09-29T15:43:00.000Z
+  - datedebut: 2025-09-29T14:43:00.000Z
     datefin: 2025-10-04T15:43:00.000Z
     theatre: Théâtre Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
     datestext: 29 Septembre au 4 octobre 2025
-  - datedebut: 2025-06-28T13:42:49.008Z
+  - datedebut: 2025-06-28T08:42:00.000Z
     datefin: 2025-06-28T13:42:49.019Z
     theatre: Scènes-Croisées de Lozère (FR)
     lien: https://scenescroisees.fr/
