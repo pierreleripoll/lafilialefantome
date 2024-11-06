@@ -19,19 +19,20 @@ representations:
     datefin: 2025-06-08T13:41:14.291Z
     theatre: Théâtre Vidy-Lausanne (CH)
     lien: https://vidy.ch/fr/
-    datestext: 3 - 8 juin 2025
-  - datedebut: 2025-09-29T14:43:00.000Z
-    datefin: 2025-10-04T15:43:00.000Z
-    theatre: Château-Rouge, Annemasse (FR)
-    lien: https://www.chateau-rouge.net/
-    datestext: 29 Septembre au 4 octobre 2025
+    datestext: 4 - 7 juin 2025
   - datedebut: 2025-06-28T08:42:00.000Z
     datefin: 2025-06-28T13:42:49.019Z
     theatre: Scènes-Croisées de Lozère (FR)
     lien: https://scenescroisees.fr/
     datestext: "28 juin 2025 "
+  - datedebut: 2025-09-29T14:43:00.000Z
+    datefin: 2025-10-04T15:43:00.000Z
+    theatre: Château-Rouge, Annemasse (FR)
+    lien: https://www.chateau-rouge.net/
+    datestext: 29 Septembre - 4 octobre 2025
 photos:
-  - photo: 052439-080_1476259_32_202.jpg
+  - photo: dscf0424©arnaud-huguenin.jpg
+    alt: ©Arnaud Huguenin
 generique: >-
   D’après *Le Baron perché* d’Italo Calvino - Traduction en français Martin
   Rueff  \
