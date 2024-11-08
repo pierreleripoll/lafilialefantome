@@ -20,6 +20,6 @@ Il est partisan d’un théâtre in situ, sortant des murs de l’institution po
 
 Membre de La Filiale Fantôme et du collectif CCC, il met en scène avec ces structures en 2021 Les Rigoles, adaptation d’une BD de Brecht Evens (Halles de Sierre, T/O-Genève et far°-Nyon). Puis en 2022, Platonov version fleuve de la pièce de Tchekhov présenté en forêt sur 2 journées (Vidy-Lausanne, Comédie de Genève et Nebia -Bienne). En mai 2025 il créera Perchée, premier spectacle à destination du jeune public de la compagnie. Il bénéficie pour ce spectacle du soutien du Théâtre Am Stram Gram, de la Comédie de Genève, du Théâtre Vidy-Lausanne et du Théâtre Château-Rouge Annemasse. 
 
-Outre ses mises en scène, il continue d’oeuvre en tant que comédien en jouant pour Loïc Le Manac’h et Charlotte Déniel, le collectif BPM, Vincent Fontannaz ou  Romain Daroles. Il intervient également à La Manufacture sur des questions ayant trait à sa pratique du théâtre in situ
+Outre ses mises en scène, il continue d’oeuvrer en tant que comédien en jouant pour Loïc Le Manac’h et Charlotte Déniel, le collectif BPM, Vincent Fontannaz ou  Romain Daroles. Il intervient également à La Manufacture sur des questions ayant trait à sa pratique du théâtre in situ
 
 Il vit et travaille à Lausanne
