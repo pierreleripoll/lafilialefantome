@@ -9,7 +9,7 @@ photos:
 generique: |-
   P﻿ROCHAINS PROJETS
 
-  PERCHEE, Automne 2024
+  PERCHEE, Mai 2025
 
   CONTACT\
   Adresse email : mathias@artimachines.com
