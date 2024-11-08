@@ -46,7 +46,7 @@
         justify-content: end;
     }
     .post-main.accueil img {
-        max-height: calc(100vh - 268px - var(--middle-gap));
+        max-height: max(calc(100vh - 268px - var(--middle-gap)), 30vw);
     }
 
     .accueil.post-main {

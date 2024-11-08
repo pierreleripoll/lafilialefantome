@@ -191,6 +191,19 @@ html {
     }
 }
 
+/* Hotfix to prevent not visible menu for small height desktop screen */
+/* Mail about this from Mathias 8 Nov 2024 */
+@media screen and (min-width: 769px) and (max-height: 35rem) {
+    html {
+        overflow-y: auto;
+        scrollbar-width: none;
+    }
+
+    .content {
+        height: min-content !important;
+    }
+}
+
 h1,
 .main-header {
     font-size: var(--h1-size) !important;
