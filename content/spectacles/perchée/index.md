@@ -35,6 +35,18 @@ photos:
     alt: ©-xavier-dejoux
   - photo: dscf0424©arnaud-huguenin.jpg
     alt: ©Arnaud Huguenin
+  - photo: dscf2324©arnaud-huguenin.jpg
+    alt: Photo de répétitions ©Arnaud Huguenin
+  - photo: dscf2134©arnaud-huguenin.jpg
+    alt: Photo de répétitions ©Arnaud Huguenin
+  - photo: dscf1578©arnaud-huguenin.jpg
+    alt: Photo de répétitions ©Arnaud Huguenin
+  - photo: dscf1472©arnaud-huguenin.jpg
+    alt: Photo de répétitions ©Arnaud Huguenin
+  - photo: dscf0729©diane-albasini.jpg
+    alt: Photo de répétitions ©Diane Albasini
+  - photo: dscf0753©diane-albasini.jpg
+    alt: Photo de répétitions ©Diane Albasini
 generique: >-
   D’après *Le Baron perché* d’Italo Calvino - Traduction en français Martin
   Rueff  \
