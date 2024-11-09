@@ -9,7 +9,7 @@ representations:
     lien: https://vidy.ch/fr/
     datestext: "2 - 3 mai 2025 "
     datedebut: 2025-05-02T18:00:00.000Z
-    datefin: 2025-05-30T15:00:00.000Z
+    datefin: 2025-05-03T06:00:00.000Z
   - datedebut: 2025-05-05T13:35:26.164Z
     datefin: 2025-05-18T13:35:26.177Z
     theatre: Théâtre Amstragram / Comédie de Genève, Genève (CH)
@@ -33,15 +33,11 @@ representations:
 photos:
   - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
     alt: ©-xavier-dejoux
-  - photo: dscf0424©arnaud-huguenin.jpg
-    alt: ©Arnaud Huguenin
-  - photo: dscf2324©arnaud-huguenin.jpg
-    alt: Photo de répétitions ©Arnaud Huguenin
   - photo: dscf2134©arnaud-huguenin.jpg
     alt: Photo de répétitions ©Arnaud Huguenin
-  - photo: dscf1578©arnaud-huguenin.jpg
-    alt: Photo de répétitions ©Arnaud Huguenin
   - photo: dscf1472©arnaud-huguenin.jpg
+    alt: Photo de répétitions ©Arnaud Huguenin
+  - photo: dscf1578©arnaud-huguenin.jpg
     alt: Photo de répétitions ©Arnaud Huguenin
   - photo: dscf0729©diane-albasini.jpg
     alt: Photo de répétitions ©Diane Albasini
@@ -85,13 +81,12 @@ generique: >-
 
   Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*\
 
-  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Leenaards (en cours)*
+  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud (en cours)*
 ---
-
 <!--StartFragment-->
 
-Spectacle in situ joué dans et autour d'un arbre, _Perchée_ est une adaptation pour quatre comédien·nes du roman _Le Baron perché_ d’Italo Calvino. Troisième mise en scène de Mathias Brossard avec les membres du collectif CCC (Comédiennes et Comédiens à Ciel ouvert), le spectacle s’adresse à toustes à partir de 9 ans. \
+Spectacle in situ joué dans et autour d'un arbre, *Perchée* est une adaptation pour quatre comédien·nes du roman *Le Baron perché* d’Italo Calvino. Troisième mise en scène de Mathias Brossard avec les membres du collectif CCC (Comédiennes et Comédiens à Ciel ouvert), le spectacle s’adresse à toustes à partir de 9 ans. \
 Reprenant les thèmes du roman original (rébellion et désobéissance, rapport à la nature, critique des conventions sociales), l’adaptation que nous proposons se centre sur une héroïne contemporaine qui actualise les questions posées par son ancêtre de papier (le Baron de Calvino) au prisme de l’écologie politique, du militantisme et des enjeux environnementaux actuels.\
 Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
 
-Création à Lausanne le 3 mai 2025.
+Création à Lausanne le 2 mai 2025.
