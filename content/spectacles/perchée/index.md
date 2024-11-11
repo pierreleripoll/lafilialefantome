@@ -90,3 +90,5 @@ Reprenant les thèmes du roman original (rébellion et désobéissance, rapport 
 Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
 
 Création à Lausanne le 2 mai 2025.
+
+[Dossier du spectacle](static/media/2_dossier-spectacle-_perchée-fr-.pdf)
