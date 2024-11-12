@@ -1,6 +1,7 @@
 baseURL: 'https://lafilialefantome.com/'
 title: La filiale fantôme
-paginate: 5
+pagination:
+    pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true

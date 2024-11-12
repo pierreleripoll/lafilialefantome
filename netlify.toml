@@ -1,6 +1,15 @@
 [build]
   command = "hugo"
   publish = "public"
+  timeout = 600
 
 [build.environment]
   HUGO_VERSION = "0.138.0"
+
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+	[plugins.inputs]
+	# If it should show more verbose logs (optional, default = true)
+	debug = true
