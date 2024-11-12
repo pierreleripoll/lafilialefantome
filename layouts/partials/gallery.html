@@ -175,27 +175,30 @@ lightbox.addFilter('itemData', (itemData, index) => {
 {{ $Resources := .Resources }}
 
 
-<div class="pswp-gallery " id="gallery">
+<div class="pswp-gallery" id="gallery">
     {{ range $photo := .Param "photos" }}
-
         {{ $image := $Resources.GetMatch $photo.photo }}
         {{ if $image }}
-            {{ $imageWebp := $image.Resize (printf "%dx%d webp q90 CatmullRom" $image.Width $image.Height) }}
+            {{ $filters := slice (images.Process (printf "resize %dx%d webp q90 CatmullRom" $image.Width $image.Height)) images.AutoOrient }}
+            {{ $processedImage := images.Filter $filters $image }}
+
             {{ $aspectRatio := div (float $image.Height) (float $image.Width) }}
-
             {{ $newWidth := int (math.Min $image.Width 1500) }}
-            {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio) ) }}
+            {{ $newHeight := int (math.Ceil (mul $newWidth $aspectRatio)) }}
 
-            {{ $imageWebpSmaller := $image.Resize (printf "%dx%d webp q90 CatmullRom" $newWidth $newHeight) }}
-            {{ $thumbnail := $image.Resize "500x webp q90 picture CatmullRom" }}
+            {{ $filtersSmaller := slice  (images.Process (printf "resize %dx%d webp q90 CatmullRom" $newWidth $newHeight)) images.AutoOrient }}
+            {{ $imageWebpSmaller := images.Filter $filtersSmaller $image }}
+
+            {{ $filtersThumbnail := slice (images.Process "resize 500x webp q90 CatmullRom") images.AutoOrient }}
+            {{ $thumbnail := images.Filter $filtersThumbnail $image }}
 
 
             <a
-                href="{{ $imageWebp.RelPermalink }}"
-                data-pswp-width="{{ $image.Width }}"
-                data-pswp-height="{{ $image.Height }}"
-                data-pswp-webp-src="{{ $imageWebpSmaller.RelPermalink }} {{ $newWidth }}w, {{ $imageWebp.RelPermalink }} {{ $imageWebp.Width }}w"
-                data-pswp-webp-sizes="(max-width: 1800) {{ $newWidth }}px, {{ $imageWebp.Width }}px"
+                href="{{ $processedImage.RelPermalink }}"
+                data-pswp-width="{{ $processedImage.Width }}"
+                data-pswp-height="{{ $processedImage.Height }}"
+                data-pswp-webp-src="{{ $imageWebpSmaller.RelPermalink }} {{ $newWidth }}w, {{ $processedImage.RelPermalink }} {{ $processedImage.Width }}w"
+                data-pswp-webp-sizes="(max-width: 1800px) {{ $newWidth }}px, {{ $processedImage.Width }}px"
                 target="_blank"
             >
                 <img
@@ -204,9 +207,8 @@ lightbox.addFilter('itemData', (itemData, index) => {
                 />
             </a>
         {{ else }}
-            {{ $image := $photo.photo }}
-            <a href="{{ $image }}" target="_blank">
-                <img src="{{ $image }}" alt="{{ $photo.alt }}" />
+            <a href="{{ $photo.photo }}" target="_blank">
+                <img src="{{ $photo.photo }}" alt="{{ $photo.alt }}" />
             </a>
         {{ end }}
     {{ end }}

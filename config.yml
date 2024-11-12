@@ -7,6 +7,12 @@ enableRobotsTXT: true
 buildDrafts: true
 buildFuture: true
 buildExpired: true
+timeout: '240s'
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 
 minify:
     disableXML: true
