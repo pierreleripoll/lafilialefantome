@@ -3,6 +3,8 @@ public/
 node_modules/
 node_modules 
 node_modules/*
+node_modules/*/*
+./node_modules/*
 resources/_gen/
 # Local Netlify folder
 .netlify
