@@ -6,6 +6,9 @@
 [build.environment]
   HUGO_VERSION = "0.138.0"
 
+[dev]
+  targetPort = 1313
+  command = "hugo server -D"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
