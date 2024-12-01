@@ -5,16 +5,6 @@ weight: 20
 porteur: Mathias Brossard
 statut: En cours
 representations:
-    - datedebut: 2024-12-08T13:19:44.498Z
-      datefin: 2024-12-16T13:23:44.498Z
-      theatre: Nebia, Bienne (CH)
-      lien: https://www.nebia.ch/spectacles/platonov/
-      datestext: 8 - 16 décembre 2024
-    - datedebut: 2024-09-08T13:19:44.498Z
-      datefin: 2024-09-16T13:23:44.498Z
-      theatre: Nebia, Bienne (CH)
-      lien: https://www.nebia.ch/spectacles/platonov/
-      datestext: 8 - 16 septembre 2024
     - datedebut: 2024-06-08T12:58:30.256Z
       datefin: 2024-06-16T12:58:30.344Z
       theatre: Nebia, Bienne (CH)
