@@ -1,3 +1,9 @@
 .agenda .main-header {
     text-align: right;
 }
+
+.saison > h2.second-header {
+    text-align: end;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}

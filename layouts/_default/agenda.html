@@ -2,28 +2,35 @@
     {{ $sections := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{ $list := slice }}
     {{ range $spectacle := $sections }}
-        {{ range $representation
-            := $spectacle.Params.representations
-        }}
+        {{ range $representation := $spectacle.Params.representations }}
             {{ $dic := $representation }}
-            {{ $dic =
-                merge $dic (dict "name" $spectacle.Title "statut" $spectacle.Params.statut
-                "lienspectacle" $spectacle.RelPermalink )
-            }}
+            {{ $dic = merge $dic (dict "name" $spectacle.Title "statut" $spectacle.Params.statut "lienspectacle" $spectacle.RelPermalink) }}
             {{ $list = $list | append $dic }}
         {{ end }}
-
     {{ end }}
 
-    {{ $representations := sort $list "datefin" "desc" }}
+    {{ $representations := sort $list "datefin" "asc" }}
     {{ $used := slice }}
+
+    {{/* Split representations beetween passed and to come */}}
+    {{ $representationsPassed := slice }}
+    {{ $representationsToCome := slice }}
+    {{ $now := now }}
+    {{ range $representation := $representations }}
+        {{ $fin := time ($representation.datefin) }}
+        {{ if $fin.Before $now }}
+            {{ $representationsPassed = $representationsPassed | append $representation }}
+        {{ else }}
+            {{ $representationsToCome = $representationsToCome | append $representation }}
+        {{ end }}
+    {{ end }}
 
 
     <div class="agenda">
         {{ $currentYear := int (.Site.Data.settings.seasonYear) }}
-
         {{ $currentSeasonEnd := $currentYear }}
         {{ $currentSeasonStart := (sub $currentYear 1) }}
+        {{ $now := now }}
 
         {{ range $year := (seq 0 20) }}
 
@@ -33,18 +40,19 @@
                 {{ $fin := time ($representation.datefin) }}
                 {{ $debut := time ($representation.datedebut) }}
 
-                {{ $startYear := $year }}
                 {{ $seasonStartYear := add $currentSeasonStart $year }}
                 {{ $seasonEndYear := add $currentSeasonEnd $year }}
+
                 {{ if and ($fin.After (time (printf "%d-09-01" $seasonStartYear))) ($fin.Before (time (printf "%d-09-01" $seasonEndYear))) }}
-                    {{ $list = $list | append $representation }}
-                    {{ $used = $used | append $index }}
+                    {{ if ge $fin $now }}
+                        {{ $list = $list | append $representation }}
+                        {{ $used = $used | append $index }}
+                    {{ end }}
                 {{ end }}
 
             {{ end }}
 
             {{ if ge (len $list) 1 }}
-
                 <div class="saison">
                     <h1 class="main-header">
                         saison
@@ -63,16 +71,45 @@
         {{ end }}
 
         {{ if lt (len $used) (len $representations) }}
-
             <div class="saison">
-                <h1 class="main-header">saisons passées</h1>
-                <ul class="representations">
-                    {{- range $index, $representation:= $representations }}
-                        {{ if not ( in $used $index) }}
+                <h1 class="main-header">dates passées</h1>
+
+                {{ $groupedBySeason := dict }}
+
+                {{ $representations = sort $representations "datefin" "desc" }}
+                {{ range $index, $representation := $representations }}
+                    {{ $fin := time ($representation.datefin) }}
+
+                    {{ if not ( ge $fin $now) }}
+
+                        {{ $seasonStartYear := $fin.Year }}
+                        {{ if lt $fin.Month 9 }}
+                            {{ $seasonStartYear = sub $seasonStartYear 1 }}
+                        {{ end }}
+
+                        {{ $seasonKey := printf "%d - %d" $seasonStartYear (add $seasonStartYear 1) }}
+                        {{ $currentSeason := index $groupedBySeason $seasonKey | default (dict "representations" (slice) "year" $seasonStartYear) }}
+                        {{ $currentRepresentations := index $currentSeason "representations" }}
+                        {{ $currentRepresentations = $currentRepresentations | append $representation }}
+                        {{ $currentSeason = merge $currentSeason (dict "representations" $currentRepresentations) }}
+                        {{ $groupedBySeason = merge $groupedBySeason (dict $seasonKey $currentSeason) }}
+
+                    {{ end }}
+
+                {{ end }}
+
+                {{ $groupedBySeason = sort $groupedBySeason "year" "desc" }}
+
+                {{ range $season, $saison := $groupedBySeason }}
+                    <h2 class="second-header">
+                        {{ $saison.year }} - {{ add $saison.year 1 }}
+                    </h2>
+                    <ul class="representations">
+                        {{ range $index, $representation := $saison.representations }}
                             {{ partial "agendaLine.html" $representation }}
                         {{ end }}
-                    {{- end }}
-                </ul>
+                    </ul>
+                {{ end }}
             </div>
         {{ end }}
     </div>
