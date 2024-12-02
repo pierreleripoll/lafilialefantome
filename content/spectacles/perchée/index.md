@@ -23,7 +23,7 @@ representations:
   - datedebut: 2025-06-28T08:42:00.000Z
     datefin: 2025-06-28T13:42:49.019Z
     theatre: Scènes-Croisées de Lozère (FR)
-    lien: https://scenescroisees.fr/
+    lien: https://scenescroisees.fr/blog/spectacles/perchee/
     datestext: "28 juin 2025 "
   - datedebut: 2025-09-29T14:43:00.000Z
     datefin: 2025-10-04T15:43:00.000Z
