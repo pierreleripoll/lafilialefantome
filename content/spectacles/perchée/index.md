@@ -6,7 +6,7 @@ porteur: Mathias Brossard
 statut: En cours
 representations:
   - theatre: Théâtre Vidy-Lausanne (CH)
-    lien: https://vidy.ch/fr/
+    lien: https://vidy.ch/fr/evenement/perchee/
     datestext: "2 - 3 mai 2025 "
     datedebut: 2025-05-02T18:00:00.000Z
     datefin: 2025-05-03T06:00:00.000Z
@@ -18,7 +18,7 @@ representations:
   - datedebut: 2025-06-03T15:21:00.000Z
     datefin: 2025-06-08T13:41:14.291Z
     theatre: Théâtre Vidy-Lausanne (CH)
-    lien: https://vidy.ch/fr/
+    lien: https://vidy.ch/fr/evenement/perchee/
     datestext: 4 - 7 juin 2025
   - datedebut: 2025-06-28T08:42:00.000Z
     datefin: 2025-06-28T13:42:49.019Z
