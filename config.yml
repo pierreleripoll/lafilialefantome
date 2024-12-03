@@ -1,5 +1,5 @@
-baseURL: 'https://lafilialefantome.com/'
-title: La filiale fantôme
+baseURL: 'https://moitiemoitiemoitie.ch/'
+title: Moitié moitié moitié
 paginate: 5
 theme: PaperMod
 
@@ -14,8 +14,8 @@ minify:
 
 params:
     env: dev # to enable google analytics, opengraph, twitter-cards and schema.
-    title: La filiale fantôme
-    description: 'Description de la filiale fantôme'
+    title: Moitié moitié moitié
+    description: 'Description de Moitié moitié moitié'
     keywords: [Théâtre, Suisse Romande]
     author: Pierre Ripoll
     authorWebsite: mailto:pierreripoll13@gmail.com
@@ -40,12 +40,12 @@ params:
     tocopen: false
 
     label:
-        text: 'La filiale fantôme'
+        text: 'Moitié moitié moitié'
 
     # # profile-mode
     # profileMode:
     #     enabled: false # needs to be explicitly set
-    #     title: La filiale fantôme
+    #     title: Moitié moitié moitié
     #     subtitle: 'This is subtitle'
     #     imageUrl: '<img location>'
     #     imageWidth: 120
@@ -93,14 +93,7 @@ menu:
           name: 'Nous'
           url: /quisommesnous/
           weight: 35
-        - identifier: collaborations
-          name: 'Les ami·e·s'
-          url: /collaborations/
-          weight: 40
-        - identifier: autres
-          name: 'Autres'
-          url: /autres/
-          weight: 25
+
         - identifier: contact
           name: Contact
           url: /contact/
