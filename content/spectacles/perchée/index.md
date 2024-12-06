@@ -79,7 +79,7 @@ generique: >-
 
   Coproduction (en cours) : *Théâtre Am Stram Gram, Château Rouge - Annemasse, Théâtre Vidy-Lausanne* \
 
-  Partenaires : *Comédie de Genève, Scènes Croisées de Lozère*\
+  Partenaires : *Comédie de Genève, Scènes Croisées de Lozère, Fabrique théâtrale du Viala*\
 
   Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud (en cours)*
 ---
