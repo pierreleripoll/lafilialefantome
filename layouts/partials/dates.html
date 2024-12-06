@@ -1,10 +1,39 @@
 {{ if isset .Params "representations" }}
-    {{ $representations := sort .Params.Representations "datefin" "desc" }}
+    {{ $representations := sort .Params.Representations "datefin" "asc" }}
+
+    {{ $representationsPassed := slice }}
+    {{ $representationsToCome := slice }}
+    {{ $now := now }}
+    {{ range $representation := $representations }}
+        {{ $fin := time ($representation.datefin) }}
+        {{ if $fin.Before $now }}
+            {{ $representationsPassed = $representationsPassed | append $representation }}
+        {{ else }}
+            {{ $representationsToCome = $representationsToCome | append $representation }}
+        {{ end }}
+    {{ end }}
+
+    {{/*  Show this season only if respresentationsToCome array is not empty  */}}
+    {{ if (gt (len $representationsToCome) 0)  }}
     <div class="saison">
+        <span class="timeline">à venir</span>
         <ul class="representations">
-            {{- range $representations }}
+            {{- range $representationsToCome }}
                 {{ partial "dateLine.html" . }}
             {{- end }}
         </ul>
     </div>
+    {{ end }}
+    
+        {{/*  Show this season only if respresentationsPassed array is not empty  */}}
+        {{ if (gt (len $representationsPassed) 0)  }}
+    <div class="saison passed">
+        <span class="timeline">passées</span>
+        <ul class="representations">
+            {{- range $representationsPassed }}
+                {{ partial "dateLine.html" . }}
+            {{- end }}
+        </ul>
+    </div>
+    {{ end}}
 {{ end }}
