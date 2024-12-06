@@ -22,6 +22,10 @@
     margin-bottom: var(--middle-gap);
 }
 
+.post-content iframe {
+    width: 100%;
+}
+
 @media screen and (max-width: 768px) {
     .col1 .post-generique {
         display: none;

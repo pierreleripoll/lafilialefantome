@@ -69,7 +69,7 @@ generique: >-
 
 Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna Petrovna. Cet été, ils ne le savent pas encore mais c’est leur dernier été ensemble. Un personnage se distingue et précipite la fin de ce monde : Platonov, aristocrate trentenaire déchu, dont le regard acerbe lui vaut admiration et crainte, et qui mènera à leur perte les différent-es acteur-trices de cette pièce, lui compris. Projet monstre pour une pièce-monde, l’intégrale du spectacle, jouée en pleine forêt, s’étale sur 2 jours pour atteindre environ 12h de spectacle. Les quatre actes de la pièce sont également visibles en 4 épisodes en soir de semaine - Chaque épisode pouvant être vu indépendamment les uns des autres.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_HzUpkGbw-s?si=BViji_gRvX5_SY5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_HzUpkGbw-s?si=yQPIA3IfuTn9TdEL&amp;controls=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## La presse en parle...
 
