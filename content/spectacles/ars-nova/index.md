@@ -78,9 +78,9 @@ generique: >-
 
 La phase préliminaire de cette prochaine création a démarré en avril 2023 à Faskrudsdfjordur en Islande. Les 3 co-directeurs de la Filiale Fantôme ont pu y effectuer une première résidence.
 
-## 📺 [TEASER](https://vimeo.com/1000320600)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1000320600?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ARS NOVA"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## L﻿a presse en parle...
+## La presse en parle...
 
 "Romain Daroles et sa Cie (re)découvrent l’opéra, en même temps que leurs personnages et que le public, dans une mise à distance temporelle qui permet de faire rêver tout en faisant frissonner d’émotions.” [La Pépinière - Magali Bossi - Mars 2024](https://lapepinieregeneve.ch/ars-nova-operas-pour-fins-des-temps/)
 
