@@ -69,9 +69,9 @@ generique: >-
 
 Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna Petrovna. Cet été, ils ne le savent pas encore mais c’est leur dernier été ensemble. Un personnage se distingue et précipite la fin de ce monde : Platonov, aristocrate trentenaire déchu, dont le regard acerbe lui vaut admiration et crainte, et qui mènera à leur perte les différent-es acteur-trices de cette pièce, lui compris. Projet monstre pour une pièce-monde, l’intégrale du spectacle, jouée en pleine forêt, s’étale sur 2 jours pour atteindre environ 12h de spectacle. Les quatre actes de la pièce sont également visibles en 4 épisodes en soir de semaine - Chaque épisode pouvant être vu indépendamment les uns des autres.
 
-## 📺 [TEASER](https://www.youtube.com/watch?v=_HzUpkGbw-s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HzUpkGbw-s?si=BViji_gRvX5_SY5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## L﻿a presse en parle...
+## La presse en parle...
 
 Platonov dans la sélection des 7 spectacles qui ont marqué 2022 [RTS - Thierry Sartoretti - Décembre 2022](https://www.rts.ch/info/culture/spectacles/13656288-retrospective-sept-spectacles-qui-ont-marque-2022.html)
 
