@@ -1,75 +1,72 @@
 ---
 title: Platonov
-year: ''
+year: ""
 weight: 20
 porteur: Mathias Brossard
 statut: En cours
 representations:
-    - datedebut: 2024-06-08T12:58:30.256Z
-      datefin: 2024-06-16T12:58:30.344Z
-      theatre: Nebia, Bienne (CH)
-      lien: https://www.nebia.ch/spectacles/platonov/
-      datestext: 8 - 16 juin 2024
-    - datedebut: 2023-06-24T13:19:44.498Z
-      datefin: 2023-06-25T13:19:44.512Z
-      theatre: Théâtre de Mende / Scènes Croisées de Lozère (FR)
-      lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
-      datestext: 24 - 25 juin 2023
-    - datedebut: 2022-09-17T13:18:04.391Z
-      datefin: 2022-09-25T13:18:00.000Z
-      theatre: Comédie de Genève (CH)
-      lien: https://www.comedie.ch/fr/production/coproductions/platonov-mathias-brossard
-      datestext: 17 - 25 septembre 2022
-    - datedebut: 2022-06-14T13:16:54.491Z
-      datefin: 2022-06-26T13:16:54.504Z
-      theatre: Théâtre Vidy-Lausanne (CH)
-      lien: https://vidy.ch/fr/evenement/mathias-brossard-collectif-ccc-platonov/
-      datestext: 14 - 26 juin 2022
+  - datedebut: 2024-06-08T12:58:30.256Z
+    datefin: 2024-06-16T12:58:30.344Z
+    theatre: Nebia, Bienne (CH)
+    lien: https://www.nebia.ch/spectacles/platonov/
+    datestext: 8 - 16 juin 2024
+  - datedebut: 2023-06-24T13:19:44.498Z
+    datefin: 2023-06-25T13:19:44.512Z
+    theatre: Théâtre de Mende / Scènes Croisées de Lozère (FR)
+    lien: https://scenescroisees.fr/blog/spectacles/platonov-dapres-anton-tchekov/
+    datestext: 24 - 25 juin 2023
+  - datedebut: 2022-09-17T13:18:04.391Z
+    datefin: 2022-09-25T13:18:00.000Z
+    theatre: Comédie de Genève (CH)
+    lien: https://www.comedie.ch/fr/production/coproductions/platonov-mathias-brossard
+    datestext: 17 - 25 septembre 2022
+  - datedebut: 2022-06-14T13:16:54.491Z
+    datefin: 2022-06-26T13:16:54.504Z
+    theatre: Théâtre Vidy-Lausanne (CH)
+    lien: https://vidy.ch/fr/evenement/mathias-brossard-collectif-ccc-platonov/
+    datestext: 14 - 26 juin 2022
 photos:
-    - photo: pro-capture-one-0062.jpg
-      alt: © Timothée Zurbuchen
-    - photo: acte-5e-®-joan-mompart.jpeg
-      alt: © Joan Mompart
-    - photo: acte-4-c-joan-mompart-i-scaled.jpg
-      alt: © Joan Mompart
-    - photo: acte-5c-c-joan-mompart-i.jpg
-      alt: © Joan Mompart
-    - photo: img-20220606-wa0007.jpg
-      alt: © Timothée Zurbuchen
-    - photo: _dsc0305.jpg
-      alt: © Joan Mompart
-    - photo: platonov_comedie0415-positive.jpg
-      alt: © Timothée Zurbuchen
-    - photo: pro-capture-one-0025.jpg
-      alt: © Timothée Zurbuchen
+  - photo: pro-capture-one-0062.jpg
+    alt: © Timothée Zurbuchen
+  - photo: acte-5e-®-joan-mompart.jpeg
+    alt: © Joan Mompart
+  - photo: acte-4-c-joan-mompart-i-scaled.jpg
+    alt: © Joan Mompart
+  - photo: acte-5c-c-joan-mompart-i.jpg
+    alt: © Joan Mompart
+  - photo: img-20220606-wa0007.jpg
+    alt: © Timothée Zurbuchen
+  - photo: _dsc0305.jpg
+    alt: © Joan Mompart
+  - photo: platonov_comedie0415-positive.jpg
+    alt: © Timothée Zurbuchen
+  - photo: pro-capture-one-0025.jpg
+    alt: © Timothée Zurbuchen
 generique: >-
-    Texte *Anton Tchekhov* \
-    
-    Mise en scène *Mathias Brossard* \
-    
-    Jeu *avec la participation du collectif CCC: Romain Daroles, Robin Dupuis ou Victor Poltier, Judith Goudal, Cécile Goussard, Magali Heu, Arnaud Huguenin, Lara Khattabi, Jonas Lambelet, Chloë Lombard, Loïc Le Manac’h, Adrien Mani, Mélina Martin, Alexandre Menexiadis ou Loïc Le Cam, Leon David Salazar, Margot Van Hove* \
-    
-    Création musicale *Alexandre Menexiadis* \
-    
-    Création costumes *Marie Romanens* \
-    
-    Logistique *Robin Dupuis* \
-    
-    Régisseur général *Achille Dubau* \
-    
-    Administration et diffusion *Marianne Aguado – ISKANDAR*
-    
-    
-    Production *La Filiale Fantôme x Collectif CCC*
-    
-    Coproductions *Théâtre Vidy-Lausanne, Comédie de Genève,  Scènes-Croisées de Lozère et Théâtre de Mende*
-    
-    Soutiens *Ville de Lausanne, Loterie Romande Vaud, Fondation Leenaards, Fondation Jan Michalski pour l’écriture et la littérature, Fondation du Casino Barrière de Montreux, Fondation Philanthropique Famille Sandoz, Société coopérative Migros Vaud, Fondation Pierre et Nouky Bataillard, Fondation suisse des artistes interprètes SIS, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG), Pro Helvetia - Fondation Suisse pour la Culture, La Corodis.*
+  Texte *Anton Tchekhov* \
+
+  Mise en scène *Mathias Brossard* \
+
+  Jeu *avec la participation du collectif CCC: Romain Daroles, Robin Dupuis ou Victor Poltier, Judith Goudal, Cécile Goussard, Magali Heu, Arnaud Huguenin, Lara Khattabi, Jonas Lambelet, Chloë Lombard, Loïc Le Manac’h, Adrien Mani, Mélina Martin, Alexandre Menexiadis ou Loïc Le Cam, Leon David Salazar, Margot Van Hove* \
+
+  Création musicale *Alexandre Menexiadis* \
+
+  Création costumes *Marie Romanens* \
+
+  Logistique *Robin Dupuis* \
+
+  Régisseur général *Achille Dubau* \
+
+  Administration et diffusion *Marianne Aguado – ISKANDAR*
+
+
+  Production *La Filiale Fantôme x Collectif CCC*
+
+  Coproductions *Théâtre Vidy-Lausanne, Comédie de Genève,  Scènes-Croisées de Lozère et Théâtre de Mende*
+
+  Soutiens *Ville de Lausanne, Loterie Romande Vaud, Fondation Leenaards, Fondation Jan Michalski pour l’écriture et la littérature, Fondation du Casino Barrière de Montreux, Fondation Philanthropique Famille Sandoz, Société coopérative Migros Vaud, Fondation Pierre et Nouky Bataillard, Fondation suisse des artistes interprètes SIS, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG), Pro Helvetia - Fondation Suisse pour la Culture, La Corodis.*
 ---
-
 Chaque été un groupe d’ami-es se réunit dans la maison de campagne d’Anna Petrovna. Cet été, ils ne le savent pas encore mais c’est leur dernier été ensemble. Un personnage se distingue et précipite la fin de ce monde : Platonov, aristocrate trentenaire déchu, dont le regard acerbe lui vaut admiration et crainte, et qui mènera à leur perte les différent-es acteur-trices de cette pièce, lui compris. Projet monstre pour une pièce-monde, l’intégrale du spectacle, jouée en pleine forêt, s’étale sur 2 jours pour atteindre environ 12h de spectacle. Les quatre actes de la pièce sont également visibles en 4 épisodes en soir de semaine - Chaque épisode pouvant être vu indépendamment les uns des autres.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_HzUpkGbw-s?si=yQPIA3IfuTn9TdEL&amp;controls=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## La presse en parle...
 
@@ -89,7 +86,11 @@ Platonov dans la sélection des 7 spectacles qui ont marqué 2022 [RTS - Thierry
 
 ## M﻿édias
 
+[Teaser vidéo](https://www.youtube.com/watch?v=_HzUpkGbw-s), Théâtre de Mende, juin 2023
+
 RTS infos , Téléjournal le 19h30 - [16 comédiennes et comédiens issus de la Manufacture jouent "Platonov" de Tchekhov en pleine forêt](https://www.rts.ch/play/tv/19h30/video/hauts-de-lausanne-16-comediennes-et-comediens-issus-de-la-manufacture-jouent-platonov-de-tchekhov-en-pleine-foret?urn=urn:rts:video:13176900) (2min30) J﻿uin 2022
+
+CANAL ALPHA, Le journal -  [Platonov en randonnée au Landeron](https://www.canalalpha.ch/play/le-journal/topic/34195/platonov-en-randonnee-au-landeron) (2min28) Juin 2024
 
 RADIO RTS, EMISSION VERTIGO - [Théâtre au fond des bois](https://www.rts.ch/audio-podcast/2022/audio/platonov-theatre-au-fond-des-bois-25830802.html) (7min) T﻿hierry Sartoretti - Juin 2022
 
