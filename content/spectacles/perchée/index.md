@@ -1,7 +1,7 @@
 ---
 title: Perchée
 year: ""
-weight: 199
+weight: 299
 porteur: Mathias Brossard
 statut: En cours
 representations:
@@ -49,7 +49,7 @@ generique: >-
 
   \
 
-  Adaptation et mise en arbre : *Mathias Brossard* en collaboration avec les interprètes\
+  Adaptation et mise en branche : *Mathias Brossard* en collaboration avec les interprètes\
 
   \
 
@@ -67,7 +67,7 @@ generique: >-
 
   Assistanat et dramaturgie : *Piera Bellato* \
 
-  Régie générale et logistique : *Achille Dubau*\
+  Régie générale et aérienne : *Achille Dubau*\
 
   Référent technique escalade dans les arbres : *Xavier Dejoux*\
 
@@ -77,11 +77,11 @@ generique: >-
 
   Production : *La Filiale Fantôme x Collectif CCC*\
 
-  Coproduction (en cours) : *Théâtre Am Stram Gram, Château Rouge - Annemasse, Théâtre Vidy-Lausanne* \
+  Coproduction : *Théâtre Am Stram Gram, Château Rouge - Annemasse, Théâtre Vidy-Lausanne* \
 
   Partenaires : *Comédie de Genève, Scènes Croisées de Lozère, Fabrique théâtrale du Viala*\
 
-  Soutiens : *La Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud (en cours)*
+  Soutiens : *Loterie Romande,* *Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud, Pour-cent culturel Migros (en cours)*
 ---
 <!--StartFragment-->
 
