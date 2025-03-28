@@ -81,7 +81,9 @@ generique: >-
 
   Partenaires : *Comédie de Genève, Scènes Croisées de Lozère, Fabrique théâtrale du Viala*\
 
-  Soutiens : *Loterie Romande,* *Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud, Pour-cent culturel Migros (en cours)*
+  Soutiens : *Loterie Romande,* *Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud, Pour-cent culturel Migros (en cours)*\
+
+  *Spectacle créé dans le cadre du projet ACT · Art en Coopérative Transfrontalière, soutenu par le programme [Interreg France – Suisse](https://www.interreg-francesuisse.eu/)*
 ---
 <!--StartFragment-->
 
