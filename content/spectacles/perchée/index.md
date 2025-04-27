@@ -25,11 +25,11 @@ representations:
     theatre: Scènes-Croisées de Lozère (FR)
     lien: https://scenescroisees.fr/blog/spectacles/perchee/
     datestext: "28 juin 2025 "
-  - datedebut: 2025-09-29T14:43:00.000Z
-    datefin: 2025-10-04T15:43:00.000Z
+  - datedebut: 2025-09-30T16:43:00.000Z
+    datefin: 2025-10-03T17:43:00.000Z
     theatre: Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/
-    datestext: 29 Septembre - 4 octobre 2025
+    datestext: 30 Septembre - 3 octobre 2025
 photos:
   - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
     alt: ©-xavier-dejoux
