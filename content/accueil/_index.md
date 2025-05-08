@@ -1,6 +1,5 @@
 ---
 title: Accueil
 photos:
-  - photo: 250430_mathias_brossard_ad_jpg2835_110.jpg
-    alt: © Arya Dil
+  - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
 ---
