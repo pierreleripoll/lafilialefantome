@@ -41,6 +41,8 @@ photos:
     alt: © Arya Dil
   - alt: © Arya Dil
     photo: 250430_mathias_brossard_ad_jpg2835_125.jpg
+  - photo: 250430_mathias_brossard_ad_jpg2835_97.jpg
+    alt: © Arya Dil
 generique: >-
   D’après *Le Baron perché* d’Italo Calvino - Traduction en français Martin
   Rueff  \
