@@ -31,8 +31,6 @@ representations:
     lien: https://www.chateau-rouge.net/
     datestext: 30 Septembre - 3 octobre 2025
 photos:
-  - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
-    alt: ©-xavier-dejoux
   - photo: 250430_mathias_brossard_ad_jpg2835_54.jpg
     alt: © Arya Dil
   - photo: 250430_mathias_brossard_ad_jpg2835_61.jpg
