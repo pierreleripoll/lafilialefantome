@@ -33,16 +33,16 @@ representations:
 photos:
   - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
     alt: ©-xavier-dejoux
-  - photo: dscf2134©arnaud-huguenin.jpg
-    alt: Photo de répétitions ©Arnaud Huguenin
-  - photo: dscf1472©arnaud-huguenin.jpg
-    alt: Photo de répétitions ©Arnaud Huguenin
-  - photo: dscf1578©arnaud-huguenin.jpg
-    alt: Photo de répétitions ©Arnaud Huguenin
-  - photo: dscf0729©diane-albasini.jpg
-    alt: Photo de répétitions ©Diane Albasini
-  - photo: dscf0753©diane-albasini.jpg
-    alt: Photo de répétitions ©Diane Albasini
+  - photo: 250430_mathias_brossard_ad_jpg2835_54.jpg
+    alt: © Arya Dil
+  - photo: 250430_mathias_brossard_ad_jpg2835_61.jpg
+    alt: © Arya Dil
+  - photo: 250430_mathias_brossard_ad_jpg2835_95.jpg
+    alt: © Arya Dil
+  - photo: 250430_mathias_brossard_ad_jpg2835_110.jpg
+    alt: © Arya Dil
+  - alt: © Arya Dil
+    photo: 250430_mathias_brossard_ad_jpg2835_125.jpg
 generique: >-
   D’après *Le Baron perché* d’Italo Calvino - Traduction en français Martin
   Rueff  \
