@@ -1,6 +1,6 @@
 ---
 title: Accueil
 photos:
-  - photo: img_20240712_161035_773-©-xavier-dejoux.jpg
-    alt: © Xavier Dejoux
+  - photo: b78d3824-5d84-4000-9d99-aae35979dfae-©-joan-mompart.jpeg
+    alt: © Joan Mompart
 ---
