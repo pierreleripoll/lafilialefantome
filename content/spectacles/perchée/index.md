@@ -28,7 +28,7 @@ representations:
   - datedebut: 2025-09-30T16:43:00.000Z
     datefin: 2025-10-03T17:43:00.000Z
     theatre: Château-Rouge, Annemasse (FR)
-    lien: https://www.chateau-rouge.net/
+    lien: https://www.chateau-rouge.net/spectacle/perchee/
     datestext: 30 Septembre - 3 octobre 2025
 photos:
   - photo: 250430_mathias_brossard_ad_jpg2835_54.jpg
