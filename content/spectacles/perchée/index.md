@@ -99,16 +99,14 @@ Création à Lausanne le 2 mai 2025.
 
 ## M﻿édias
 
-*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.-* RTS - Vertigo, Spéciale 1er janvier 2025 - Thierry Sartoretti[](<-	https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html>) 
+*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.-* [ RTS - Vertigo, Spéciale 1er janvier 2025 - Thierry Sartoretti ](<-	https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html>)[](https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html)
 
-[Écouter l’émission](https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html)
+*« Allez-y franchement, je vous assure que ce théâtre en plein air, tout public, en plus d’être bien joué, vous procurera un bol d’air bienvenu. » -*[Émission Vertigo – RTS La Première, 5 mai 2025 – Thierry Sartoretti](<-	https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0>)[](<-	https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0>)[](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)[](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)[](<>)[](<>)[](<>)[](<>)
 
-**Émission Vertigo – RTS La Première, 5 mai 2025** – Thierry Sartoretti
+Mathias Brossard présente Perchée. - [Vidéo présentation – Comédie de Genève](https://www.youtube.com/watch?v=JKf2WRJJZZc)
 
-*« Allez-y franchement, je vous assure que ce théâtre en plein air, tout public, en plus d’être bien joué, vous procurera un bol d’air bienvenu. »*
+Reportage – présentation de Mathias Brossard à partir de 9:00. - [Carac TV](https://carac.tv/replay/reportages/2244?timecode=539&utm_source=sitewebcarac&utm_medium=Replay)[](https://carac.tv/replay/reportages/2244?timecode=539&utm_source=sitewebcarac&utm_medium=Replay)
 
-[Écouter l’émission](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)
 
-[](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)[](<>)[](<>)[](<>)[](<>)
 
 [Dossier du spectacle](static/media/2_dossier-spectacle-_perchée-fr-.pdf)
