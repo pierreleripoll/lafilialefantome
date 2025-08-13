@@ -71,7 +71,7 @@ generique: >-
 
   Référent technique escalade dans les arbres : *Xavier Dejoux*\
 
-  Administration : *Marianne Aguado - ISKANDAR*\
+  Administration : *Marianne Aguado*\
 
   \
 
@@ -92,5 +92,33 @@ Reprenant les thèmes du roman original (rébellion et désobéissance, rapport 
 Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
 
 Création à Lausanne le 2 mai 2025.
+
+## La presse en parle...
+
+"Romain Daroles et sa Cie (re)découvrent l’opéra, en même temps que leurs personnages et que le public, dans une mise à distance temporelle qui permet de faire rêver tout en faisant frissonner d’émotions.” [La Pépinière - Magali Bossi - Mars 2024](<>)
+
+“Jouant habilement avec une distorsion de la temporalité – chaque action prend du temps – Ars Nova construit une parenthèse théâtrale décalée et ludique.” [L’Atelier Critique - Emma Chapatte - Mars 2024 ](<>)
+
+“Romain Daroles compose un éblouissant quatuor pour la fin du temps” [Tribune de Genève -Katia Berger - Mars 2024 ](<>)
+
+“A Saint-Gervais, des chercheurs du futur tombent en émoi devant des vestiges d’opéra” L[e Temps, Marie-Pierre Genecand - Mars 2024](<>) 
+
+"En Suisse romande, vingt-cinq spectacles flamboyants" [Le Temps - Marie-Pierre Genecand - Janvier 2024](<>) 
+
+## M﻿édias
+
+**RTS – Vertigo, spéciale 1er janvier 2025** – Thierry Sartoretti
+
+*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.*
+
+[Écouter l’émission](https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html)
+
+**Émission Vertigo – RTS La Première, 5 mai 2025** – Thierry Sartoretti
+
+*« Allez-y franchement, je vous assure que ce théâtre en plein air, tout public, en plus d’être bien joué, vous procurera un bol d’air bienvenu. »*
+
+[Écouter l’émission](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)
+
+[](https://www.rts.ch/play/radio/redirect/detail/fb06512f-0df9-39d8-ae78-0569c5fa65b0)[](<>)[](<>)[](<>)[](<>)
 
 [Dossier du spectacle](static/media/2_dossier-spectacle-_perchée-fr-.pdf)
