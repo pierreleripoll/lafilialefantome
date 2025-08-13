@@ -99,9 +99,13 @@ Création à Lausanne le 2 mai 2025.
 
 « Art en Coopérative Transfrontalière : un nouveau réseau théâtral franco-suisse. » - [Scène-Web Magazine, 09.10.2024](https://sceneweb.fr/art-en-cooperative-transfrontaliere-un-nouveau-reseau-theatral-franco-suisse/)
 
-« Avec Perchée, Mathias Brossard et le Collectif CCC s’emparent avec une légèreté frondeuse du roman Le Baron perché d’Italo Calvino pour en proposer une relecture ancrée dans les préoccupations écologiques et politiques de notre temps. » « Une fois encore, Mathias Brossard explore les territoires inexplorés du spectacle vivant avec poésie et engagement, poursuivant ainsi sa démarche sensible d’un théâtre déployé hors des sentiers battus. » - [Le Programme.ch, 30.04.2025 – Pierre Siméon (Interview de Mathias Brossard)](<-	https://www.leprogramme.ch/article/echappee-vers-les-cimes-du-vivant-1>)
+« Avec Perchée, Mathias Brossard et le Collectif CCC s’emparent avec une légèreté frondeuse du roman Le Baron perché d’Italo Calvino pour en proposer une relecture ancrée dans les préoccupations écologiques et politiques de notre temps. » 
 
-« L’impressionnante énergie qui se dégage de la troupe permet une touche d’humour qui ne s’adresse pas qu’aux enfants, mais fait de Perchée un spectacle grand public. » « Le Collectif CCC et Mathias Brossard s’emparent du Baron perché d’Italo Calvino, pour en proposer une revisite complètement déjantée et adressée au jeune public, sur fond d’écologie. » [La Pépinière, 13.05.2025 – Fabien Imhof](<-	https://lapepinieregeneve.ch/un-spectacle-completement-perchee/>)
+« Une fois encore, Mathias Brossard explore les territoires inexplorés du spectacle vivant avec poésie et engagement, poursuivant ainsi sa démarche sensible d’un théâtre déployé hors des sentiers battus. » - [Le Programme.ch, 30.04.2025 – Pierre Siméon (Interview de Mathias Brossard)](<-	https://www.leprogramme.ch/article/echappee-vers-les-cimes-du-vivant-1>)
+
+« L’impressionnante énergie qui se dégage de la troupe permet une touche d’humour qui ne s’adresse pas qu’aux enfants, mais fait de Perchée un spectacle grand public. » 
+
+« Le Collectif CCC et Mathias Brossard s’emparent du Baron perché d’Italo Calvino, pour en proposer une revisite complètement déjantée et adressée au jeune public, sur fond d’écologie. » [La Pépinière, 13.05.2025 – Fabien Imhof](<-	https://lapepinieregeneve.ch/un-spectacle-completement-perchee/>)
 
 « On peut décrire Perchée comme un spectacle d’art vivant par excellence. » [La Pépinière, 02.05.2025 – Fabien Imhof](<-	https://lapepinieregeneve.ch/quand-le-theatre-se-joue-aussi-dans-les-arbres/>)
 
@@ -115,7 +119,9 @@ Création à Lausanne le 2 mai 2025.
 
 « Vandœuvre… tenait en son bec un curieux spectacle. Avec Perchée, Mathias Brossard et le Collectif CCC invitent les bambins à suivre les yeux vers le ciel une adaptation du fameux roman d’Italo Calvino, Le Baron perché. Soit quatre comédiens attachés sur des branches d’arbres en faisant part à l’audience d’un récit aussi poétique qu’écologique. » [La Tribune de Genève, 15.05.2025 – Andrea Di Guardo](<-	https://www.tdg.ch/geneve-nos-15-idees-pour-se-divertir-cette-fin-de-semaine-311403643733>)
 
-« Le roman de Calvino est \[…] raconté par une équipe aussi pléthorique que formidable sous la conduite du metteur en scène Mathias Brossard. » « En intérieur ou en extérieur, on vous conseille les deux versions. \[…] L’essentiel : tous deux sont parvenus au sommet et la vue y est vraiment exceptionnelle. » [RTS Info, 11.05.2025 – Thierry Sartoretti](<-	https://www.rts.ch/info/culture/spectacles/2025/article/le-theatre-grimpe-aux-arbres-deux-adaptations-du-baron-perche-en-suisse-28874754.html#:~:text=%22Perch%C3%A9e%22%20dans%20le%20cadre%20du,septembre%20au%204%20octobre%202025.>)
+« Le roman de Calvino est \[…] raconté par une équipe aussi pléthorique que formidable sous la conduite du metteur en scène Mathias Brossard. » 
+
+« En intérieur ou en extérieur, on vous conseille les deux versions. \[…] L’essentiel : tous deux sont parvenus au sommet et la vue y est vraiment exceptionnelle. » [RTS Info, 11.05.2025 – Thierry Sartoretti](<-	https://www.rts.ch/info/culture/spectacles/2025/article/le-theatre-grimpe-aux-arbres-deux-adaptations-du-baron-perche-en-suisse-28874754.html#:~:text=%22Perch%C3%A9e%22%20dans%20le%20cadre%20du,septembre%20au%204%20octobre%202025.>)
 
 « Un spectacle familial qui, au-delà de l’intérêt des problématiques abordées, fait lien. » - [Cult.News, 16.05.2025 – Marie Anezin](<-	https://cult.news/scenes/jeune-public/dans-larbre-perchee-de-mathias-brossard/>)
 
