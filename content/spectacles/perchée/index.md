@@ -95,7 +95,35 @@ Création à Lausanne le 2 mai 2025.
 
 ## La presse en parle...
 
-"Romain Daroles et sa Cie (re)découvrent l’opéra, en même temps que leurs personnages et que le public, dans une mise à distance temporelle qui permet de faire rêver tout en faisant frissonner d’émotions.” [La Pépinière - Magali Bossi - Mars 2024](<>)
+« Le projet culturel qui réunit les acteurs du Grand Genève. » - Le Dauphiné Libéré, 01.04.2024 – Elisa Ginevra 
+
+« Art en Coopérative Transfrontalière : un nouveau réseau théâtral franco-suisse. » - Scène-Web Magazine, 09.10.2024
+
+« Avec Perchée, Mathias Brossard et le Collectif CCC s’emparent avec une légèreté frondeuse du roman Le Baron perché d’Italo Calvino pour en proposer une relecture ancrée dans les préoccupations écologiques et politiques de notre temps. » « Une fois encore, Mathias Brossard explore les territoires inexplorés du spectacle vivant avec poésie et engagement, poursuivant ainsi sa démarche sensible d’un théâtre déployé hors des sentiers battus. » - Le Programme.ch, 30.04.2025 – Pierre Siméon (Interview de Mathias Brossard)
+
+« L’impressionnante énergie qui se dégage de la troupe permet une touche d’humour qui ne s’adresse pas qu’aux enfants, mais fait de Perchée un spectacle grand public. » « Le Collectif CCC et Mathias Brossard s’emparent du Baron perché d’Italo Calvino, pour en proposer une revisite complètement déjantée et adressée au jeune public, sur fond d’écologie. » La Pépinière, 13.05.2025 – Fabien Imhof
+
+« On peut décrire Perchée comme un spectacle d’art vivant par excellence. » La Pépinière, 02.05.2025 – Fabien Imhof
+
+« Avec Perchée, le Collectif CCC fait grimper Cosima dans un cèdre, une version drôle, féministe et engagée du Baron perché d’Italo Calvino. » Le Courrier Magazine, 02.05.2025 – Cécilia Della Torre
+
+« La nature est notre scénographie. » Le Courrier Magazine, 01.05.2025 – Cécilia Della Torre (Interview de Mathias Brossard)
+
+« Dans les feuillages de l’érable, c’est surtout le plaisir de la fiction et du jeu qui éclot à mesure que Cosima passe de branche en branche. Comme dans sa précédente création, un Platonov magistral en forêt, le Collectif CCC affirme un goût du texte comme matière à détricoter et à réagencer pour laisser germer un récit vivifiant. » 24 Heures, 05.05.2025 – Natacha Rossel
+
+« Nos 15 bonnes idées pour se divertir cette fin de semaine. » La Tribune de Genève, 08.05.2025 – Multi-auteurs
+
+« Vandœuvre… tenait en son bec un curieux spectacle. Avec Perchée, Mathias Brossard et le Collectif CCC invitent les bambins à suivre les yeux vers le ciel une adaptation du fameux roman d’Italo Calvino, Le Baron perché. Soit quatre comédiens attachés sur des branches d’arbres en faisant part à l’audience d’un récit aussi poétique qu’écologique. » La Tribune de Genève, 15.05.2025 – Andrea Di Guardo
+
+« Le roman de Calvino est \[…] raconté par une équipe aussi pléthorique que formidable sous la conduite du metteur en scène Mathias Brossard. » « En intérieur ou en extérieur, on vous conseille les deux versions. \[…] L’essentiel : tous deux sont parvenus au sommet et la vue y est vraiment exceptionnelle. » RTS Info, 11.05.2025 – Thierry Sartoretti
+
+« Un spectacle familial qui, au-delà de l’intérêt des problématiques abordées, fait lien. » - Cult.News, 16.05.2025 – Marie Anezin
+
+« Rejoignez-nous pour découvrir cette création qui transforme chaque lieu en un espace de poésie et d’engagement ! » Le JDS, 28.06.2025
+
+« 4 comédien·ne·s, un décor naturel, une scénographie légère : Perchée est une invitation à changer de regard, à explorer d’autres équilibres, là-haut, entre ciel et terre. » La Tribune de l’Occitanie, 05.06.2025 – Marion
+
+[](<>)
 
 ## M﻿édias
 
