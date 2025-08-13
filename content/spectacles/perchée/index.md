@@ -81,7 +81,7 @@ generique: >-
 
   Partenaires : *Scènes Croisées de Lozère, Fabrique théâtrale du Viala*\
 
-  Soutiens : *Loterie Romande,* *Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud, Fondation SIS, Pour-cent culturel Migros, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG), (en cours)*\
+  Soutiens : *Loterie Romande Vaud,* *Ville de Lausanne, Pro-Helvetia - Fondation suisse pour la culture, Fondation Caris, Fondation Ernst Göhner, Fondation Leenaards, Canton de Vaud, Fondation SIS, Pour-cent culturel Migros, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG)*\
 
   *Spectacle créé dans le cadre du projet ACT · Art en Coopérative Transfrontalière, soutenu par le programme [Interreg France – Suisse](https://www.interreg-francesuisse.eu/)*
 ---
@@ -97,19 +97,9 @@ Création à Lausanne le 2 mai 2025.
 
 "Romain Daroles et sa Cie (re)découvrent l’opéra, en même temps que leurs personnages et que le public, dans une mise à distance temporelle qui permet de faire rêver tout en faisant frissonner d’émotions.” [La Pépinière - Magali Bossi - Mars 2024](<>)
 
-“Jouant habilement avec une distorsion de la temporalité – chaque action prend du temps – Ars Nova construit une parenthèse théâtrale décalée et ludique.” [L’Atelier Critique - Emma Chapatte - Mars 2024 ](<>)
-
-“Romain Daroles compose un éblouissant quatuor pour la fin du temps” [Tribune de Genève -Katia Berger - Mars 2024 ](<>)
-
-“A Saint-Gervais, des chercheurs du futur tombent en émoi devant des vestiges d’opéra” L[e Temps, Marie-Pierre Genecand - Mars 2024](<>) 
-
-"En Suisse romande, vingt-cinq spectacles flamboyants" [Le Temps - Marie-Pierre Genecand - Janvier 2024](<>) 
-
 ## M﻿édias
 
-*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.-* [**RTS – Vertigo, spéciale 1er janvier 2025** – Thierry Sartoretti](<-	https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html>) 
-
-
+*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.-* RTS - Vertigo, Spéciale 1er janvier 2025 - Thierry Sartoretti[](<-	https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html>) 
 
 [Écouter l’émission](https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html)
 
