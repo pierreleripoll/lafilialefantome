@@ -107,9 +107,9 @@ Création à Lausanne le 2 mai 2025.
 
 ## M﻿édias
 
-**RTS – Vertigo, spéciale 1er janvier 2025** – Thierry Sartoretti
+*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.-* [**RTS – Vertigo, spéciale 1er janvier 2025** – Thierry Sartoretti](<-	https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html>) 
 
-*« Perchée » présenté parmi les événements culturels à ne pas manquer en 2025.*
+
 
 [Écouter l’émission](https://www.rts.ch/audio-podcast/2025/audio/2025-les-spectacles-a-ne-pas-manquer-3-5-28742555.html)
 
