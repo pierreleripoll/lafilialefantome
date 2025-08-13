@@ -70,7 +70,7 @@ generique: >-
 
   Coproduction
 
-  *Théâtre Saint-Gervais Genève, Théâtre Vidy-Lausanne*Soutiens
+  *Théâtre Saint-Gervais Genève, Théâtre Vidy-Lausanne*
 
   *Soutien en résidence de la vie brève – Théâtre de l’Aquarium, Fondation SIS, La Fondation Ernst Gohner, Fondation Leenaards, La Grange, Centre / Art et Sciences / UNIL, Pro Helvetia et soutien en résidence Association OPNA, une fondation privée lausannoise.*
 ---
