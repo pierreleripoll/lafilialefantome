@@ -8,7 +8,7 @@ representations:
   - theatre: BONLIEU Scène Nationale Annecy (FR)
     datedebut: 2025-11-24T19:00:00.000+01:00
     lien: https://bonlieu-annecy.com/la-saison/modeste-le-petit-pion
-    datefin: 2025-11-24T21:00:00.000+01:00
+    datefin: 2025-11-24T23:00:00.000+01:00
     datestext: 24 Novembre 2025, 19h
 photos:
   - photo: modeste.png
