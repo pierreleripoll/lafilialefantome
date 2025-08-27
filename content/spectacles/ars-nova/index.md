@@ -3,7 +3,7 @@ title: Ars Nova
 year: ""
 weight: 200
 porteur: Romain Daroles
-statut: En cours
+statut: Passé
 representations:
   - datedebut: 2025-02-26T14:55:31.600Z
     datefin: 2025-03-09T14:55:31.644Z
