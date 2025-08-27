@@ -3,7 +3,7 @@ title: Les Rigoles
 year: ""
 weight: 15
 porteur: Mathias Brossard
-statut: En cours
+statut: Passé
 representations:
   - datedebut: 2021-08-18T13:11:56.324Z
     datefin: 2021-08-20T13:11:00.000Z
