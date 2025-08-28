@@ -26,6 +26,11 @@ generique: |-
   **Basson** Fanny Monjanel 
   **Percussions** Jérémie Maxit 
   **Hautbois, alto et trompette** en cours
+
+
+  ** Film : 
+  Jeu** Gaspar & friends **Chef-Opérateur** Antoine
+  Pirotte **Cheffe Régie** Laura Rehm
 ---
 **La
  compagnie La Filiale Fantôme s’associe au compositeur et chef 
