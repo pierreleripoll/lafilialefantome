@@ -54,3 +54,7 @@ François-Xavier Rouyer, miroir d’une enfance solitaire, rêveuse où les
 bêtises, les jeux d’adresse et les règles malicieusement changées 
 trouvent leur parfaite correspondance dans les déplacements les plus 
 sophistiqués sur l'échiquier.
+
+
+
+[BANDE ANNONCE DU FILM](https://vimeo.com/1113812951)
