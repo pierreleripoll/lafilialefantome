@@ -17,6 +17,8 @@ generique: |-
   **Composition et direction** Alexandre Gasparov
   **Film** François-Xavier Rouyer
 
+  *librement adapté du livret de Mathilde Maraninci*
+
   **Avec** Romain Daroles
   **Violons** Nadège Gruffat, Élise Douylliez
   **Violoncelle** Virginie Millour 
@@ -27,8 +29,7 @@ generique: |-
   **Percussions** Jérémie Maxit 
   **Hautbois, alto et trompette** en cours
 
-
-  ** Film : 
+   **Film : 
   Jeu** Gaspar & friends **Chef-Opérateur** Antoine
   Pirotte **Cheffe Régie** Laura Rehm
 ---
