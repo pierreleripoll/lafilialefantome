@@ -30,7 +30,7 @@ generique: |-
   **Hautbois, alto et trompette** en cours
 
    **Film : 
-  Jeu** Gaspar & friends **Chef-Opérateur** Antoine
+  Jeu** Gaspar Rehm-Montero & friends **Chef-Opérateur** Antoine
   Pirotte **Cheffe Régie** Laura Rehm
 ---
 **La
