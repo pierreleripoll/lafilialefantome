@@ -1,5 +1,5 @@
 ---
-title: "La Compagnie "
+title: La Filiale Fantôme
 weight: 100
 photos:
   - photo: cbfe5d39-f226-4206-918c-681be7c04a12.jpeg
