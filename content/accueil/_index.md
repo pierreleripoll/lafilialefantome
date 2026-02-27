@@ -1,5 +1,5 @@
 ---
 title: Accueil
 photos:
-  - photo: modeste.png
+  - photo: 20251018_182936.jpg
 ---
