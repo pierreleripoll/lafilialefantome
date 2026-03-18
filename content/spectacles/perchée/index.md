@@ -91,13 +91,9 @@ Spectacle in situ joué dans et autour d'un arbre, *Perchée* est une adaptation
 Reprenant les thèmes du roman original (rébellion et désobéissance, rapport à la nature, critique des conventions sociales), l’adaptation que nous proposons se centre sur une héroïne contemporaine qui actualise les questions posées par son ancêtre de papier (le Baron de Calvino) au prisme de l’écologie politique, du militantisme et des enjeux environnementaux actuels.\
 Conçu pour être joué en lumière du jour, en acoustique et avec une scénographie additionnelle légère, Perchée se veut un spectacle mobile et transformable, épousant l’écrin que lui offriront les divers arbres et paysages choisis pour ses représentations. Il propose d’amener le théâtre là où on ne l’attend pas, s’amusant, tant dans le fond que dans la forme, du frottement entre le réel et la fiction.
 
-
+[Dossier du spectacle](static/media/dossier_perchée_diffusion.pdf)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1169498021?h=6c00cb17b0" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
-
-
-
 
 ## La presse en parle...
 
@@ -146,5 +142,3 @@ Conçu pour être joué en lumière du jour, en acoustique et avec une scénogra
 Mathias Brossard présente Perchée. - [Vidéo présentation – Comédie de Genève](https://www.youtube.com/watch?v=JKf2WRJJZZc)
 
 Reportage – présentation de Mathias Brossard à partir de 9:00. - [Carac TV](https://carac.tv/replay/reportages/2244?timecode=539&utm_source=sitewebcarac&utm_medium=Replay)[](https://carac.tv/replay/reportages/2244?timecode=539&utm_source=sitewebcarac&utm_medium=Replay)
-
-[Dossier du spectacle](static/media/2_dossier-spectacle-_perchée-fr-.pdf)
