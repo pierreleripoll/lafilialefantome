@@ -1,6 +1,6 @@
 ---
 title: "Métamorphose – Chapitre 1 : P. et B."
-year: 2026
+year: ""
 weight: 600
 porteur: Mathias Brossard
 statut: En cours
