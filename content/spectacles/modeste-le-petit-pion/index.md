@@ -33,8 +33,7 @@ generique: |-
   Jeu** Gaspar Rehm-Montero & friends **Chef-Opérateur** Antoine
   Pirotte **Cheffe Régie** Laura Rehm
 ---
-**La
- compagnie La Filiale Fantôme s’associe au compositeur et chef 
+**La compagnie La Filiale Fantôme s’associe au compositeur et chef 
 d’orchestre Alexandre Gasparov pour évoquer l’épopée de Modeste, simple 
 pion d’un jeu d’échecs avançant sur l’échiquier de la vie. Le conte 
 musical se déploie sous la forme d’un ciné-concert, les émotions du 
@@ -55,6 +54,6 @@ bêtises, les jeux d’adresse et les règles malicieusement changées
 trouvent leur parfaite correspondance dans les déplacements les plus 
 sophistiqués sur l'échiquier.
 
-
+[Dossier du spectacle](static/media/modeste_le_petit_pion_diffusion_a4.pdf)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1113812951?h=7839c78aaf" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
