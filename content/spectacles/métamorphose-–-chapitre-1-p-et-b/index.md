@@ -13,52 +13,26 @@ representations:
 photos:
   - photo: metamorphoses-chapitre-1-p-et-b-2-1600x900.jpg
 generique: >-
-  **Mise en scène**
+  Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
-  Mathias Brossard, Arnaud Huguenin, Mélina Martin
+  Auteur-rices : Lara *Khattabi, Loïc Le Manac'h*
 
+  Jeu : *Barbara Baker, Pierre Misfud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
-  **Auteur-rices**
+  Costumes : *en cours*
 
-  Lara Khattabi, Loïc Le Manac'h
+  Régie générale : *Actarus*
 
-
-  **Jeu**
-
-  Barbara Baker, Pierre Misfud, Mathias Brossard, Arnaud Huguenin, Mélina Martin
+  Chargée de production : *Marianne Aguado*
 
 
-  **Costumes**
+  Production : *La Filiale Fantôme - Collectif CCC*
 
-  en cours
+  Coproduction : *Théâtre du Loup, Théâtre Vidy-Lausanne*
 
+  Partenaires : *Fabrique du Viala, Scènes-Croisées de Lozère et Maison des Arts et de la Création - Sciences Po Paris*
 
-  **Régie générale**
-
-  Actarus
-
-
-  **Chargée de production**
-
-  Marianne Aguado
-
-
-  **Production**
-
-  LA FILIALE FANTÔME – COLLECTIF CCC
-
-
-  **Coproduction**
-
-  THÉÂTRE DU LOUP, THÉÂTRE VIDY-LAUSANNE
-
-
-  **Partenaires** FABRIQUE THÉÂTALE DU VIALA, SCÈNES CROISÉES DE LOZÈRE et MAISON DES ARTS ET DE LA CRÉATION – SCIENCES PO PARIS
-
-
-  **Soutiens à la création**
-
-  LOTERIE ROMANDE, VILLE DE LAUSANNE, FONDATION LEENARDS (en cours)
+  Soutiens à la création : *Loterie Romande Genève, Ville de Lausanne, Fondation Leenaards (en cours)*
 ---
 *Création in situ dans le quartier du PAV*
 
