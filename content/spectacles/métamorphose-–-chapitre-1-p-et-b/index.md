@@ -12,25 +12,35 @@ representations:
     datestext: 30 mai - 13 juin 2026
 photos:
   - photo: metamorphoses-chapitre-1-p-et-b-2-1600x900.jpg
-generique: >-
+generique: >
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
+
 
   Auteur-rices : Lara *Khattabi, Loïc Le Manac'h*
 
+
   Jeu : *Barbara Baker, Pierre Misfud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
+
 
   Costumes : *en cours*
 
+
   Régie générale : *Actarus*
+
 
   Chargée de production : *Marianne Aguado*
 
 
+
+
   Production : *La Filiale Fantôme - Collectif CCC*
+
 
   Coproduction : *Théâtre du Loup, Théâtre Vidy-Lausanne*
 
+
   Partenaires : *Fabrique du Viala, Scènes-Croisées de Lozère et Maison des Arts et de la Création - Sciences Po Paris*
+
 
   Soutiens à la création : *Loterie Romande Genève, Ville de Lausanne, Fondation Leenaards (en cours)*
 ---
