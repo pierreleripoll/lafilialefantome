@@ -1,6 +1,6 @@
 ---
 title: Modeste le petit pion
-year: 2025
+year: ""
 weight: 300
 porteur: "La Compagnie "
 statut: En cours
