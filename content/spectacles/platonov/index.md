@@ -60,9 +60,11 @@ generique: >-
   Administration et diffusion *Marianne Aguado – ISKANDAR*
 
 
-  Production *La Filiale Fantôme x Collectif CCC*
+  Production *La Filiale Fantôme x Collectif CCC*\
 
-  Coproductions *Théâtre Vidy-Lausanne, Comédie de Genève,  Scènes-Croisées de Lozère et Théâtre de Mende*
+
+  Coproductions *Théâtre Vidy-Lausanne, Comédie de Genève,  Scènes-Croisées de Lozère et Théâtre de Mende, Nebia - Bienne*\
+
 
   Soutiens *Ville de Lausanne, Loterie Romande Vaud, Fondation Leenaards, Fondation Jan Michalski pour l’écriture et la littérature, Fondation du Casino Barrière de Montreux, Fondation Philanthropique Famille Sandoz, Société coopérative Migros Vaud, Fondation Pierre et Nouky Bataillard, Fondation suisse des artistes interprètes SIS, Fonds d’encouragement à l’emploi des intermittent.e.s genevois.es (FEEIG), Pro Helvetia - Fondation Suisse pour la Culture, La Corodis.*
 ---
