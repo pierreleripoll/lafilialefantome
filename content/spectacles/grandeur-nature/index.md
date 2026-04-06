@@ -38,30 +38,23 @@ photos:
   - photo: 240814_grandeurnature_far_ad_jpg2835_45.jpg
     alt: © Arya Dil
 generique: >-
-  Idée originale, enquête documentaire et mise en scène
+  Idée originale, enquête documentaire et mise en scène\
 
+  *Mathias Brossard, Romain Daroles, Lara Khatabi,* \
 
-  Mathias Brossard\
-
-  Romain Daroles\
-
-  Lara Khatabi\
-
-  Loïc Le Manac’h
+  *Loïc Le Manac’h*
 
 
   Jeu\
 
-  Mathias Brossard\
+  *Mathias Brossard, Lara Khatabi*\
 
-  Lara Khatabi\
-
-  et Loïc Le Manac’h ou Romain Daroles ou Cyprien Colombo ou Arnaud Huguenin en alternance
+  *et en alternance: Loïc Le Manac’h ou Romain Daroles ou Cyprien Colombo ou Arnaud Huguenin* 
 
 
   Coproduction\
 
-  La Manufacture - Haute école des Arts de la Scène de Lausanne, Fête du Théâtre - Genève, Far°- Festival des arts vivants de Nyon
+  *La Manufacture - Haute école des Arts de la Scène de Lausanne, Fête du Théâtre - Genève, Far°- Festival des arts vivants de Nyon*
 ---
 Actif-ves depuis plusieurs années dans des spectacles que nous qualifions d’*in situ* parce qu’ils se jouent hors des murs des théâtres, dans des espaces allant du parking à la forêt, de la friche industrielle au bord de mer, jusqu’à des zones plus urbaines, nous avons voulu aller à la rencontre d’autres artistes qui explorent à leur façon ce champ du théâtre à ciel ouvert pour se demander ensemble ce que cette sortie des salles modifie dans notre façon de faire du théâtre.
 
