@@ -35,8 +35,6 @@ photos:
     alt: © Arya Dil
   - photo: 20251018_182928.jpg
     alt: © Baptiste Etard
-  - photo: 240814_grandeurnature_far_ad_jpg2835_45.jpg
-    alt: © Arya Dil
 generique: >-
   Idée originale, enquête documentaire et mise en scène\
 
