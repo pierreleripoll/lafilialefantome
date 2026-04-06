@@ -2,7 +2,7 @@
 title: Modeste le petit pion
 year: ""
 weight: 300
-porteur: "La Compagnie "
+porteur: La Filiale Fantôme
 statut: En cours
 representations:
   - theatre: BONLIEU Scène Nationale Annecy (FR)
