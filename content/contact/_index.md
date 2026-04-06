@@ -20,7 +20,7 @@ Romain Daroles : romaindaroles@msn.com\
 François-Xavier Rouyer : fxrouyer@yahoo.fr
 
 Administration et production :\
-Marianne Aguado - ISKANDAR\
+Marianne Aguado \
 M. marianne.aguado@hotmail.com\
 T. +41 78 315 01 77\
 T. +33 6 09 95 34 55 
