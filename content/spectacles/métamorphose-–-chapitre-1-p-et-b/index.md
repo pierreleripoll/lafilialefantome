@@ -12,7 +12,7 @@ representations:
     datestext: 30 mai - 13 juin 2026
 photos:
   - photo: metamorphoses-chapitre-1-p-et-b-2-1600x900.jpg
-generique: >
+generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
 
@@ -22,15 +22,13 @@ generique: >
   Jeu : *Barbara Baker, Pierre Misfud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
 
-  Costumes : *en cours*
+  Costumes : *Ella Asderban*
 
 
   Régie générale : *Actarus*
 
 
   Chargée de production : *Marianne Aguado*
-
-
 
 
   Production : *La Filiale Fantôme - Collectif CCC*
