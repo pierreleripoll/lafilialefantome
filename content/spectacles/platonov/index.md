@@ -3,7 +3,7 @@ title: Platonov
 year: ""
 weight: 20
 porteur: Mathias Brossard
-statut: En cours
+statut: Passé
 representations:
   - datedebut: 2024-06-08T12:58:30.256Z
     datefin: 2024-06-16T12:58:30.344Z
