@@ -12,5 +12,3 @@ Un ou plusieurs membres de l'ensemble peut à tout moment proposer un nouveau pr
 Les différentes créations sont portés en coproduction entre l'ensemble CCC et la compagnie du, de la ou des porteur-ses de projet.
 
 Le collectif CCC (dont Romain Daroles est également membre) est partie prenante de l'ensemble des créations de Mathias Brossard
-
-Actuellement le collectif CCC développe également un autre projet sous la direction de Loïc Le Manac'h : *Bundren!*, une adaptation du roman *Tandis que j'agonise* de William Faulkner. Le spectacle est une déambulation théatrale qui se joue in situ dans différents espaces côtiers en Bretagne.
