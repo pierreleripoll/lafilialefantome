@@ -16,7 +16,7 @@ generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
 
-  Auteur-rices : Lara *Khattabi, Loïc Le Manac'h*
+  Auteur-rices : *Lara* *Khattabi, Loïc Le Manac'h et des emprunts à Philippe Vasset*
 
 
   Jeu : *Barbara Baker, Pierre Misfud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
