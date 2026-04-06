@@ -43,7 +43,9 @@ photos:
   - photo: pro-capture-one-0025.jpg
     alt: © Timothée Zurbuchen
 generique: >-
-  Texte *Anton Tchekhov* \
+  Texte *Anton Tchekhov*\
+
+  Traduction *André Markowicz et Françoise Morvan* \
 
   Mise en scène *Mathias Brossard* \
 
