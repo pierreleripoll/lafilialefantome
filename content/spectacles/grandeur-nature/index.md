@@ -38,12 +38,12 @@ photos:
 generique: >-
   Idée originale, enquête documentaire et mise en scène\
 
-  *Mathias Brossard, Romain Daroles, Lara Khatabi,* *Loïc Le Manac’h*
+  *Mathias Brossard, Romain Daroles, Lara Khattabi,* *Loïc Le Manac’h*
 
 
   Jeu\
 
-  *Mathias Brossard, Lara Khatabi*\
+  *Mathias Brossard, Lara Khattabi*\
 
   *et en alternance: Loïc Le Manac’h ou Romain Daroles ou Cyprien Colombo ou Arnaud Huguenin* *ou Pierre Mifsud* 
 
