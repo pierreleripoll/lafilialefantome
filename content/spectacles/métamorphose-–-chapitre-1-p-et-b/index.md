@@ -16,7 +16,7 @@ generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
 
-  Auteur-rices : *Lara* *Khattabi, Loïc Le Manac'h, librement inspiré de* La Conjuration *de Philippe Vasset*
+  Textes : *Lara* *Khattabi, Loïc Le Manac'h, librement inspiré de* La Conjuration *de Philippe Vasset*
 
 
   Jeu : *Barbara Baker, Pierre Mifsud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
@@ -40,7 +40,7 @@ generique: >-
   Partenaires : *Fabrique du Viala, Scènes-Croisées de Lozère et Maison des Arts et de la Création - Sciences Po Paris*
 
 
-  Soutiens à la création : *Loterie Romande Genève, Ville de Lausanne, Fondation Leenaards (en cours)*
+  Soutiens à la création : *Loterie Romande Genève, Canton de Vaud, Ville de Lausanne, Fondation Leenaards (en cours)*
 ---
 *Création in situ*
 
