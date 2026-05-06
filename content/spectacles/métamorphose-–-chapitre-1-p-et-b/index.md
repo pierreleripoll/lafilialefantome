@@ -18,7 +18,7 @@ generique: >-
 
   Textes : \
 
-  B. de *Lara* *Khattabi* \
+  B. *de* *Lara* *Khattabi* \
 
   P. *de Loïc Le Manac'h, librement inspiré de* La Conjuration *de Philippe Vasset*
 
