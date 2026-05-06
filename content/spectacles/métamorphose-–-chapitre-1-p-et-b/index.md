@@ -16,7 +16,11 @@ generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
 
-  Textes : *Lara* *Khattabi, Loïc Le Manac'h, librement inspiré de* La Conjuration *de Philippe Vasset*
+  Textes : \
+
+  B. de *Lara* *Khattabi* \
+
+  P. *de Loïc Le Manac'h, librement inspiré de* La Conjuration *de Philippe Vasset*
 
 
   Jeu : *Barbara Baker, Pierre Mifsud, Mathias Brossard, Arnaud Huguenin, Mélina Martin*
