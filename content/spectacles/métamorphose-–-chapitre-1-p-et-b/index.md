@@ -44,7 +44,7 @@ generique: >-
   Partenaires : *Fabrique du Viala, Scènes-Croisées de Lozère et Maison des Arts et de la Création - Sciences Po Paris*
 
 
-  Soutiens à la création : *Loterie Romande Genève, Canton de Vaud, Ville de Lausanne, Fondation Leenaards (en cours)*
+  Soutiens à la création : *Loterie Romande Genève, Canton de Vaud, Ville de Lausanne, Fondation Leenaards, Action Intermittence – Fonds d’encouragement à l’emploi des personnes intermittentes genevoises (FEEIG)*
 ---
 *Création in situ*
 
