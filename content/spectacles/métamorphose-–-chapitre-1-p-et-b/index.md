@@ -11,7 +11,8 @@ representations:
     datefin: 2026-06-13T23:00:00.000+02:00
     datestext: 30 mai - 13 juin 2026
 photos:
-  - photo: metamorphoses-chapitre-1-p-et-b-2-1600x900.jpg
+  - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_06.jpg
+    alt: Crédit - Julie Folly
 generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
