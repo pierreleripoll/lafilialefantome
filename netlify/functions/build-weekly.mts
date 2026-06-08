@@ -13,7 +13,6 @@ declare var process: {
 const rebuildSite = async (triggerTitle: string) => {
     // Construct the URL for the Netlify rebuild hook
     const url = new URL(process.env.NETLIFY_BUILD_HOOK);
-    console.log('Netlify build hook URL:', url.toString());
     // Add the title to the query string
     url.searchParams.append('trigger_title', triggerTitle);
 
