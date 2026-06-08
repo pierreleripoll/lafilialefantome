@@ -53,3 +53,13 @@ B. ourdit un vaste complot végétal destiné à submerger la ville. Elle sème 
 P., sorte de passe-muraille contemporain, cherche lui à trouer la ville de mille pores pour l’ouvrir aux quatre vents. Tantôt hacker de digicode, tantôt serrurier du dimanche, il entre où l’on n’entre pas, jusqu’à découvrir les angles morts de la machine urbaine moderne, s’y insérer, y disparaître. Depuis ces recoins, dans l’ombre aveugle du capitalisme, peut alors se développer une autre manière d’habiter et de se mouvoir qu’il nous invite à découvrir et, pourquoi pas, à imiter.
 
 *La Filiale Fantôme – Collectif CCC s’associe au Loup pour trois saisons afin de déployer leur projet « Métamorphose ». Chaque année deux nouveaux personnages apparaîtront. Nouveaux guides, nouvelles questions, nouveaux arpentages… une épopée pour se plonger dans la ville, à la rencontre de mutations qui ne sont (peut-être) pas celles que l’on attend.*
+
+
+
+## La presse en parle...
+
+"Face au plus grand chantier d’Europe, Barbara Baker et Pierre Mifsud sont les agents d’un futur désirable. Lancé à leur poursuite dans le quartier, le public est réenchanté. \[...] Barbara Baker comme on ne l’a jamais vue, et Pierre Mifsud comme on adore le voir." [Le Temps, 04.06.2026 - Marie-Pierre Genecand](https://www.letemps.ch/articles/au-theatre-du-loup-a-geneve-une-jardiniere-activiste-et-un-passe-muraille-philosophe-transforment-le-pav-en-espace-poetique/gifts/B3mz8nHqsS62McTm8bkGauKoboqNoaEVF9urc6fA)
+
+'Au Loup, à Genève, le collectif CCC entame une échappée ressourçante dans les méandres urbains du PAV… où «l’apocalypse verte» nous attend peut-être, qui sait. Un spectacle in situ à voir de toute urgence." [Le Courrier, 03.06.2026 - Cécile Dalla Torre](https://lecourrier.ch/2026/06/03/b-comme-bete-de-scene/)
+
+"Le premier chapitre de la création in situ de la Filiale fantôme – collectif CCC, Métamorphose, a pris place dans le quartier du PAV, autour du Théâtre du Loup. L’occasion de rencontrer P. et B., deux protagonistes bien différent-es l’un-e de l’autre, mais haut-es en couleurs tou-tes deux !" [La Pépinière, 05.06.2026 - Fabien Imhof](https://lapepinieregeneve.ch/p-et-b-metamorphoser-le-quartier-ou-soi-meme/)
