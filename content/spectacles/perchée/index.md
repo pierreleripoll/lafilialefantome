@@ -30,6 +30,11 @@ representations:
     theatre: Château-Rouge, Annemasse (FR)
     lien: https://www.chateau-rouge.net/spectacle/perchee/
     datestext: 30 Septembre - 3 octobre 2025
+  - theatre: Le Reflet, Vevey (CH)
+    lien: https://lereflet.ch/spectacles/perchee/
+    datestext: 28 - 29 mai 2027
+    datedebut: 2027-05-28T19:00:00.000+02:00
+    datefin: 2027-05-29T19:00:00.000+02:00
 photos:
   - photo: 250430_mathias_brossard_ad_jpg2835_54.jpg
     alt: © Arya Dil
