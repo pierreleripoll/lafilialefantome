@@ -10,6 +10,11 @@ representations:
     lien: https://theatreduloup.ch/spectacle/metamorphose-chapitre-1-p-et-b/
     datefin: 2026-06-13T23:00:00.000+02:00
     datestext: 30 mai - 13 juin 2026
+  - theatre: Théâtre Vidy-Lausanne (CH)
+    lien: vidy.ch/fr/
+    datestext: 19 au 23 mai 2027
+    datedebut: 2027-05-19T19:00:00.000+02:00
+    datefin: 2027-05-23T19:00:00.000+02:00
 photos:
   - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_06.jpg
     alt: Crédit - Julie Folly
