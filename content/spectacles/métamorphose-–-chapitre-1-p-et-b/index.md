@@ -13,6 +13,13 @@ representations:
 photos:
   - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_06.jpg
     alt: Crédit - Julie Folly
+  - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_07.jpg
+    alt: Crédit - Julie Folly
+  - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_11.jpg
+    alt: Crédit - Julie Folly
+  - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_14.jpg
+  - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_49.jpg
+    alt: Crédit - Julie Folly
 generique: >-
   Mise en scène : *Mathias Brossard, Arnaud Huguenin, Mélina Martin*
 
