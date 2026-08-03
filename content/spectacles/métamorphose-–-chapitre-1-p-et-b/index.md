@@ -17,13 +17,15 @@ representations:
     datefin: 2027-05-23T19:00:00.000+02:00
 photos:
   - photo: montage-photo.png
+    alt: "photo: Arnaud Huguenin"
   - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_06.jpg
-    alt: Crédit - Julie Folly
+    alt: "photo: Julie Folly"
   - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_11.jpg
-    alt: Crédit - Julie Folly
+    alt: "photo: Julie Folly"
   - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_14.jpg
+    alt: "photo: Julie Folly"
   - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_49.jpg
-    alt: Crédit - Julie Folly
+    alt: "photo: Julie Folly"
   - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_07.jpg
     alt: Crédit - Julie Folly
 generique: >-
