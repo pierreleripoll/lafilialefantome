@@ -16,6 +16,7 @@ representations:
     datedebut: 2027-05-19T19:00:00.000+02:00
     datefin: 2027-05-23T19:00:00.000+02:00
 photos:
+  - photo: montage-photo.png
   - photo: 20260603_métamorphose-ch1-p-et-b_photo-julie-folly_06.jpg
     alt: Crédit - Julie Folly
   - photo: 20260603_me╠ütamorphose-ch1-p-et-b_photo-julie-folly_11.jpg
