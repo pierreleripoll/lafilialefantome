@@ -76,7 +76,9 @@ generique: >-
 
   Référent technique escalade dans les arbres : *Xavier Dejoux*\
 
-  Administration : *Marianne Aguado*\
+  Administration et production : *Marianne Aguado*\
+
+  Chargée de diffusion : *Charlotte Corre - Lolink*\
 
   \
 
