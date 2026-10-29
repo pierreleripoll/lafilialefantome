@@ -1,5 +1,5 @@
 ---
-title: "Métamorphose – Chapitre 1 : P. et B."
+title: Métamorphose – Pierre et Barbara
 year: ""
 weight: 600
 porteur: Mathias Brossard
@@ -51,6 +51,9 @@ generique: >-
 
 
   Chargée de production : *Marianne Aguado*
+
+
+  Chargée de diffusion : *Charlotte Corre - Lolink*
 
 
   Production : *La Filiale Fantôme - Collectif CCC*
